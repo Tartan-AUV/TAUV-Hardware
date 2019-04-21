@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=RSENSE- Pin=P2-2
+Removed Member From Class: ClassName=U_Power Member=P2
+Added Room: Name=U_BMS
+Added Room: Name=U_Interface
+Added Room: Name=U_Power
+Added Room: Name=U_Regulators
+Added Room: Name=U_Thrusters

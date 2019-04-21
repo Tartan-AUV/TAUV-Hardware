@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R17-3
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Room: Name=U_Power
+Added Room: Name=U_Regulators
+Added Room: Name=U_Thrusters

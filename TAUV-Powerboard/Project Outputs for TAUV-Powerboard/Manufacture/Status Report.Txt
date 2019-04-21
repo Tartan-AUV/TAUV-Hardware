@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [TAUV-Powerboard.PcbDoc]
+   Generated File[TAUV-Powerboard.TXT]
+   Generated File[TAUV-Powerboard.DRL]
+   Generated File[TAUV-Powerboard.LDP]
+   Generated File[TAUV-Powerboard.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:50:57 AM On 4/2/2019
