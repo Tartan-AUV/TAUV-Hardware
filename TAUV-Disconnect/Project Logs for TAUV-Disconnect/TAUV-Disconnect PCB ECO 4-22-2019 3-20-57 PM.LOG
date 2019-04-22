@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=NetP1_4 Pin=P3-2
+Removed Pin From Net: NetName=NetP2_3 Pin=P3-3
+Removed Pin From Net: NetName=NetP2_4 Pin=P3-4
+Removed Pin From Net: NetName=H_GND Pin=P3-9
+Removed Pin From Net: NetName=NetP3_8 Pin=P5-4
+Added Component: Designator=*8(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*9(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*10(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*11(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*12(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*13(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(4-pin DF13 vertical smd)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P12(MOLEX NANO-FIT 1X4 - Vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105313-1204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105313-1204"; VariantName = "[No Variations]"
+Added Component: Designator=P13(MOLEX NANO-FIT 2x5 - Vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/molex-llc/1053121310/WM15120-ND/6164209"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105314-1216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "WM15165-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM15120-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP2_3 Pin=P3-2
+Added Pin To Net: NetName=H_GND Pin=P3-5
+Added Pin To Net: NetName=NetP1_4 Pin=P3-6
+Added Pin To Net: NetName=NetP2_4 Pin=P3-7
+Added Pin To Net: NetName=NetP3_8 Pin=P4-4
+Added Pin To Net: NetName=GND Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*9-1
+Added Pin To Net: NetName=GND Pin=*10-1
+Added Pin To Net: NetName=GND Pin=*11-1
+Added Pin To Net: NetName=GND Pin=*12-1
+Added Pin To Net: NetName=GND Pin=*13-1
+Added Pin To Net: NetName=GND Pin=P13-1
+Added Pin To Net: NetName=GND Pin=P13-5
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*8_3 Pin=*8-3
+Added Pin To Net: NetName=Net*8_3 Pin=P13-3
+Added Net: Name=Net*8_3
+Added Pin To Net: NetName=Net*9_3 Pin=*9-3
+Added Pin To Net: NetName=Net*9_3 Pin=P13-4
+Added Net: Name=Net*9_3
+Added Pin To Net: NetName=Net*10_3 Pin=*10-3
+Added Pin To Net: NetName=Net*10_3 Pin=P13-7
+Added Net: Name=Net*10_3
+Added Pin To Net: NetName=Net*11_3 Pin=*11-3
+Added Pin To Net: NetName=Net*11_3 Pin=P13-8
+Added Net: Name=Net*11_3
+Added Pin To Net: NetName=Net*12_3 Pin=*12-3
+Added Pin To Net: NetName=Net*12_3 Pin=P13-9
+Added Net: Name=Net*12_3
+Added Pin To Net: NetName=Net*13_3 Pin=*13-3
+Added Pin To Net: NetName=Net*13_3 Pin=P13-10
+Added Net: Name=Net*13_3
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=P12-4
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=P12-3
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=P12-2
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=P12-1
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_3 Pin=P4-3
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Pin To Net: NetName=NetP3_4 Pin=P5-3
+Added Net: Name=NetP3_4
+Added Pin To Net: NetName=NetP3_9 Pin=P3-9
+Added Pin To Net: NetName=NetP3_9 Pin=P5-4
+Added Net: Name=NetP3_9
+Added Pin To Net: NetName=VCC5 Pin=*8-2
+Added Pin To Net: NetName=VCC5 Pin=*9-2
+Added Pin To Net: NetName=VCC5 Pin=*10-2
+Added Pin To Net: NetName=VCC5 Pin=*11-2
+Added Pin To Net: NetName=VCC5 Pin=*12-2
+Added Pin To Net: NetName=VCC5 Pin=*13-2
+Added Pin To Net: NetName=VCC5 Pin=P13-2
+Added Pin To Net: NetName=VCC5 Pin=P13-6
+Added Net: Name=VCC5
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *8 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *9 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *10 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *11 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *12 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *13 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component J2 DF13
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component P12 4-Pin Molex Nano-Fit
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component P13 10-Pin 5x2 Molex Nano-Fit Vertical

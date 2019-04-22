@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetP12_1 Pin=P12-1
+Added Pin To Net: NetName=NetP12_2 Pin=P12-2
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component P12 Header 2

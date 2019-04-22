@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=NetJ2_4 Pin=P12-1
+Removed Pin From Net: NetName=NetJ2_3 Pin=P12-2
+Removed Pin From Net: NetName=NetJ2_2 Pin=P12-3
+Removed Pin From Net: NetName=NetJ2_1 Pin=P12-4
+Change Component Footprint: Designator=P12 Old Footprint=MOLEX NANO-FIT 1X4 - Vertical New Footprint=HDR1X2
+Change Component Comment : Designator=P12 Old Comment=4-Pin Molex Nano-Fit New Comment=Header 2
+Change component parameters: Designator = "P12"; Footprint = "HDR1X2"; UniqueID = "\OLQJYLXS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P14(MOLEX NANO-FIT 1X4 - Vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105313-1204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105313-1204"; VariantName = "[No Variations]"
+Added Component: Designator=P15(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P16(MOLEX NANO-FIT 1X4 - Vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105313-1204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105313-1204"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_4 Pin=P16-1
+Added Pin To Net: NetName=NetJ2_3 Pin=P16-2
+Added Pin To Net: NetName=NetJ2_2 Pin=P16-3
+Added Pin To Net: NetName=NetJ2_1 Pin=P16-4
+Added Pin To Net: NetName=NetP12_1 Pin=P12-1
+Added Pin To Net: NetName=NetP12_1 Pin=P14-4
+Added Net: Name=NetP12_1
+Added Pin To Net: NetName=NetP12_2 Pin=P12-2
+Added Pin To Net: NetName=NetP12_2 Pin=P14-3
+Added Net: Name=NetP12_2
+Added Pin To Net: NetName=NetP14_1 Pin=P14-1
+Added Pin To Net: NetName=NetP14_1 Pin=P15-2
+Added Net: Name=NetP14_1
+Added Pin To Net: NetName=NetP14_2 Pin=P14-2
+Added Pin To Net: NetName=NetP14_2 Pin=P15-1
+Added Net: Name=NetP14_2
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component P14 4-Pin Molex Nano-Fit
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component P15 Header 2
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component P16 4-Pin Molex Nano-Fit

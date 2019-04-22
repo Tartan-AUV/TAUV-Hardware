@@ -190,7 +190,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=NPI29EA96 (HP LaserJet M402n)
+TargetPrinter=andrew on PRINTING.ANDREW.CMU.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1043,16 +1043,22 @@ ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Tauv-Lib.IntLib
-ComponentDesignItemID3=3-pin minifit RA
-ComponentSymbolReference3=3-pin minifit RA
+ComponentDesignItemID3=3-pin solder holes
+ComponentSymbolReference3=3-pin solder holes
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name Only
-ComponentLibraryIdentifier4=Altium Content Vault
-ComponentDesignItemID4=CMP-1710-00001-3
-ComponentSymbolReference4=RJ45-10-2SHLD_A
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Tauv-Lib.IntLib
+ComponentDesignItemID4=4-pin DF13 vertical smd
+ComponentSymbolReference4=4-pin DF13 vertical smd
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name Only
+ComponentLibraryIdentifier5=Altium Content Vault
+ComponentDesignItemID5=CMP-1710-00001-3
+ComponentSymbolReference5=RJ45-10-2SHLD_A
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1113,17 +1119,20 @@ ModelType1=PCBLIB
 ModelName1=24-PIN MINIFIT VERT
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=3-PIN MINIFIT RA
+ModelName2=3-PIN SOLDER HOLES
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=MOLEX NANO-FIT 1X4 - Vertical
+ModelName3=4-pin DF13 vertical smd
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=MOLEX NANO-FIT 2x5 - Vertical
+ModelName4=MOLEX NANO-FIT 1X4 - Vertical
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=WE-7499111001A_V
+ModelName5=MOLEX NANO-FIT 2x5 - Vertical
 ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=WE-7499111001A_V
+ModelUpdate6=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
