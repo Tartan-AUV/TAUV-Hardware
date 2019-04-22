@@ -1,0 +1,78 @@
+Added Component: Designator=P6(MOLEX NANO-FIT 1X4 - Vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105313-1204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105313-1204"; VariantName = "[No Variations]"
+Added Component: Designator=P7(MOLEX NANO-FIT 1X4 - Vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105313-1204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105313-1204"; VariantName = "[No Variations]"
+Added Component: Designator=P8(MOLEX NANO-FIT 1X4 - Vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105313-1204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105313-1204"; VariantName = "[No Variations]"
+Added Component: Designator=P9(MOLEX NANO-FIT 1X4 - Vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105313-1204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105313-1204"; VariantName = "[No Variations]"
+Added Component: Designator=P10(MOLEX NANO-FIT 1X4 - Vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105313-1204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105313-1204"; VariantName = "[No Variations]"
+Added Component: Designator=P11(MOLEX NANO-FIT 1X4 - Vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105313-1204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105313-1204"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=P7-4
+Added Net: Name=NetP6_1
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Pin To Net: NetName=NetP6_2 Pin=P7-3
+Added Net: Name=NetP6_2
+Added Pin To Net: NetName=NetP6_3 Pin=P6-3
+Added Pin To Net: NetName=NetP6_3 Pin=P7-2
+Added Net: Name=NetP6_3
+Added Pin To Net: NetName=NetP6_4 Pin=P6-4
+Added Pin To Net: NetName=NetP6_4 Pin=P7-1
+Added Net: Name=NetP6_4
+Added Pin To Net: NetName=NetP8_1 Pin=P8-1
+Added Pin To Net: NetName=NetP8_1 Pin=P9-4
+Added Net: Name=NetP8_1
+Added Pin To Net: NetName=NetP8_2 Pin=P8-2
+Added Pin To Net: NetName=NetP8_2 Pin=P9-3
+Added Net: Name=NetP8_2
+Added Pin To Net: NetName=NetP8_3 Pin=P8-3
+Added Pin To Net: NetName=NetP8_3 Pin=P9-2
+Added Net: Name=NetP8_3
+Added Pin To Net: NetName=NetP8_4 Pin=P8-4
+Added Pin To Net: NetName=NetP8_4 Pin=P9-1
+Added Net: Name=NetP8_4
+Added Pin To Net: NetName=NetP10_1 Pin=P10-1
+Added Pin To Net: NetName=NetP10_1 Pin=P11-4
+Added Net: Name=NetP10_1
+Added Pin To Net: NetName=NetP10_2 Pin=P10-2
+Added Pin To Net: NetName=NetP10_2 Pin=P11-3
+Added Net: Name=NetP10_2
+Added Pin To Net: NetName=NetP10_3 Pin=P10-3
+Added Pin To Net: NetName=NetP10_3 Pin=P11-2
+Added Net: Name=NetP10_3
+Added Pin To Net: NetName=NetP10_4 Pin=P10-4
+Added Pin To Net: NetName=NetP10_4 Pin=P11-1
+Added Net: Name=NetP10_4
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component P6 4-Pin Molex Nano-Fit
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component P7 4-Pin Molex Nano-Fit
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component P8 4-Pin Molex Nano-Fit
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component P9 4-Pin Molex Nano-Fit
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component P10 4-Pin Molex Nano-Fit
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component P11 4-Pin Molex Nano-Fit

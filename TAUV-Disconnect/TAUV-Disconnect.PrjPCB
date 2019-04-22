@@ -84,7 +84,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=NPI29EA96 (HP LaserJet M402n)
+TargetPrinter=andrew on PRINTING.ANDREW.CMU.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -190,7 +190,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=NPI29EA96 (HP LaserJet M402n)
+TargetPrinter=andrew on PRINTING.ANDREW.CMU.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -262,7 +262,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=NPI29EA96 (HP LaserJet M402n)
+TargetPrinter=andrew on PRINTING.ANDREW.CMU.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -284,7 +284,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=NPI29EA96 (HP LaserJet M402n)
+TargetPrinter=andrew on PRINTING.ANDREW.CMU.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -356,7 +356,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=NPI29EA96 (HP LaserJet M402n)
+TargetPrinter=andrew on PRINTING.ANDREW.CMU.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -393,7 +393,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=NPI29EA96 (HP LaserJet M402n)
+TargetPrinter=andrew on PRINTING.ANDREW.CMU.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -573,7 +573,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=NPI29EA96 (HP LaserJet M402n)
+TargetPrinter=andrew on PRINTING.ANDREW.CMU.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Server's components states check
@@ -612,7 +612,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=NPI29EA96 (HP LaserJet M402n)
+TargetPrinter=andrew on PRINTING.ANDREW.CMU.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -663,7 +663,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=NPI29EA96 (HP LaserJet M402n)
+TargetPrinter=andrew on PRINTING.ANDREW.CMU.EDU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1023,6 +1023,36 @@ NetClassSeparateForBusSections=0
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=CMR_Connectors.IntLib
+ComponentDesignItemID0=10-Pin 2-Row Nano-Fit_Vertical
+ComponentSymbolReference0=10-Pin 2-Row Nano-Fit_Vertical
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=CMR_Connectors.IntLib
+ComponentDesignItemID1=4-Pin Nano-Fit Throughole Vertical
+ComponentSymbolReference1=4-Pin Nano-Fit Throughole Vertical
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Tauv-Lib.IntLib
+ComponentDesignItemID2=24-pin minifit RA
+ComponentSymbolReference2=24-pin minifit RA
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Tauv-Lib.IntLib
+ComponentDesignItemID3=3-pin minifit RA
+ComponentSymbolReference3=3-pin minifit RA
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name Only
+ComponentLibraryIdentifier4=Altium Content Vault
+ComponentDesignItemID4=CMP-1710-00001-3
+ComponentSymbolReference4=RJ45-10-2SHLD_A
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1036,6 +1066,64 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=ComponentLink1Description
+ParameterUpdate2=1
+ParameterName3=ComponentLink1URL
+ParameterUpdate3=1
+ParameterName4=ComponentLink2Description
+ParameterUpdate4=1
+ParameterName5=ComponentLink2URL
+ParameterUpdate5=1
+ParameterName6=DatasheetVersion
+ParameterUpdate6=1
+ParameterName7=Description
+ParameterUpdate7=1
+ParameterName8=Library Reference
+ParameterUpdate8=1
+ParameterName9=Manufacturer
+ParameterUpdate9=1
+ParameterName10=Mounting Technology
+ParameterUpdate10=1
+ParameterName11=PackageDescription
+ParameterUpdate11=1
+ParameterName12=Part Number
+ParameterUpdate12=1
+ParameterName13=PartNumber
+ParameterUpdate13=1
+ParameterName14=RoHSCompliant
+ParameterUpdate14=1
+ParameterName15=Supplier
+ParameterUpdate15=1
+ParameterName16=Supplier 1
+ParameterUpdate16=1
+ParameterName17=Supplier Part Number
+ParameterUpdate17=1
+ParameterName18=Supplier Part Number 1
+ParameterUpdate18=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=24-PIN MINIFIT RA
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=24-PIN MINIFIT VERT
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=3-PIN MINIFIT RA
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=MOLEX NANO-FIT 1X4 - Vertical
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=MOLEX NANO-FIT 2x5 - Vertical
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=WE-7499111001A_V
+ModelUpdate5=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
