@@ -1,0 +1,157 @@
+Removed Pin From Net: NetName=NetJ1_1 Pin=J3-10
+Removed Pin From Net: NetName=NetJ1_2 Pin=J3-11
+Removed Pin From Net: NetName=NetJ1_3 Pin=J3-12
+Removed Member From Class: ClassName=TAUV-Disconnect Member=J2
+Removed Member From Class: ClassName=TAUV-Disconnect Member=J4
+Removed Member From Class: ClassName=TAUV-Disconnect Member=J5
+Removed Member From Class: ClassName=TAUV-Disconnect Member=J6
+Removed Member From Class: ClassName=TAUV-Disconnect Member=J7
+Removed Member From Class: ClassName=TAUV-Disconnect Member=J8
+Removed Member From Class: ClassName=TAUV-Disconnect Member=J9
+Removed Member From Class: ClassName=TAUV-Disconnect Member=J10
+Change Component Footprint: Designator=J1 Old Footprint=3-PIN MINIFIT VERT New Footprint=WE-7499111001A_V
+Change Component Footprint: Designator=J11 Old Footprint=BELS-SI-46001-F_V New Footprint=WE-7499111001A_V
+Change Component Comment : Designator=J1 Old Comment=3-pin minifit New Comment=7499111001A
+Change Component Comment : Designator=J11 Old Comment=SI-46001-F New Comment=7499111001A
+Change component parameters: Designator = "J1"; Footprint = "WE-7499111001A_V"; UniqueID = "\UCACTYYC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/pbs/datasheet/7499111001A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "10-Pin Through Hole Device, Body 21.84 x 16 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "7499111001A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "False"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J11"; Footprint = "WE-7499111001A_V"; UniqueID = "\DJIBXCPA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/pbs/datasheet/7499111001A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "10-Pin Through Hole Device, Body 21.84 x 16 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "7499111001A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "False"; VariantName = "[No Variations]"
+Added Component: Designator=*1(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*2(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*3(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*4(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*5(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*6(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*7(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(3-PIN SOLDER HOLES)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ1_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J11-2
+Added Pin To Net: NetName=NetJ1_3 Pin=J11-3
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=Net*1_1 Pin=J3-10
+Added Net: Name=Net*1_1
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=Net*1_2 Pin=J3-11
+Added Net: Name=Net*1_2
+Added Pin To Net: NetName=Net*1_3 Pin=*1-3
+Added Pin To Net: NetName=Net*1_3 Pin=J3-12
+Added Net: Name=Net*1_3
+Added Pin To Net: NetName=Net*2_1 Pin=*2-1
+Added Pin To Net: NetName=Net*2_1 Pin=J3-7
+Added Net: Name=Net*2_1
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_2 Pin=J3-8
+Added Net: Name=Net*2_2
+Added Pin To Net: NetName=Net*2_3 Pin=*2-3
+Added Pin To Net: NetName=Net*2_3 Pin=J3-9
+Added Net: Name=Net*2_3
+Added Pin To Net: NetName=Net*3_1 Pin=*3-1
+Added Pin To Net: NetName=Net*3_1 Pin=J3-21
+Added Net: Name=Net*3_1
+Added Pin To Net: NetName=Net*3_2 Pin=*3-2
+Added Pin To Net: NetName=Net*3_2 Pin=J3-20
+Added Net: Name=Net*3_2
+Added Pin To Net: NetName=Net*3_3 Pin=*3-3
+Added Pin To Net: NetName=Net*3_3 Pin=J3-19
+Added Net: Name=Net*3_3
+Added Pin To Net: NetName=Net*4_1 Pin=*4-1
+Added Pin To Net: NetName=Net*4_1 Pin=J3-4
+Added Net: Name=Net*4_1
+Added Pin To Net: NetName=Net*4_2 Pin=*4-2
+Added Pin To Net: NetName=Net*4_2 Pin=J3-5
+Added Net: Name=Net*4_2
+Added Pin To Net: NetName=Net*4_3 Pin=*4-3
+Added Pin To Net: NetName=Net*4_3 Pin=J3-6
+Added Net: Name=Net*4_3
+Added Pin To Net: NetName=Net*5_1 Pin=*5-1
+Added Pin To Net: NetName=Net*5_1 Pin=J3-18
+Added Net: Name=Net*5_1
+Added Pin To Net: NetName=Net*5_2 Pin=*5-2
+Added Pin To Net: NetName=Net*5_2 Pin=J3-17
+Added Net: Name=Net*5_2
+Added Pin To Net: NetName=Net*5_3 Pin=*5-3
+Added Pin To Net: NetName=Net*5_3 Pin=J3-16
+Added Net: Name=Net*5_3
+Added Pin To Net: NetName=Net*6_1 Pin=*6-1
+Added Pin To Net: NetName=Net*6_1 Pin=J3-1
+Added Net: Name=Net*6_1
+Added Pin To Net: NetName=Net*6_2 Pin=*6-2
+Added Pin To Net: NetName=Net*6_2 Pin=J3-2
+Added Net: Name=Net*6_2
+Added Pin To Net: NetName=Net*6_3 Pin=*6-3
+Added Pin To Net: NetName=Net*6_3 Pin=J3-3
+Added Net: Name=Net*6_3
+Added Pin To Net: NetName=Net*7_1 Pin=*7-1
+Added Pin To Net: NetName=Net*7_1 Pin=J3-15
+Added Net: Name=Net*7_1
+Added Pin To Net: NetName=Net*7_2 Pin=*7-2
+Added Pin To Net: NetName=Net*7_2 Pin=J3-14
+Added Net: Name=Net*7_2
+Added Pin To Net: NetName=Net*7_3 Pin=*7-3
+Added Pin To Net: NetName=Net*7_3 Pin=J3-13
+Added Net: Name=Net*7_3
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=J3-24
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=J3-23
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=J3-22
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=J11-4
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=J11-5
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_6 Pin=J11-6
+Added Net: Name=NetJ1_6
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_7 Pin=J11-7
+Added Net: Name=NetJ1_7
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Pin To Net: NetName=NetJ1_8 Pin=J11-8
+Added Net: Name=NetJ1_8
+Added Pin To Net: NetName=NetJ1_9 Pin=J1-9
+Added Pin To Net: NetName=NetJ1_9 Pin=J11-9
+Added Net: Name=NetJ1_9
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_10 Pin=J11-10
+Added Net: Name=NetJ1_10
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *1 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *2 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *3 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *4 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *5 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *6 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component *7 3-pin solder holes
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component * 3-pin solder holes

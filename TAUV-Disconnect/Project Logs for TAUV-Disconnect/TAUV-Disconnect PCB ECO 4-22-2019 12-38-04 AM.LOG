@@ -1,0 +1,69 @@
+Added Component: Designator=J10(PULS-J00XXD21XNL-B-12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Body Orientation"; Value = "RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "ConnectorTelephoneandTelecom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/J0011D21BNL-Pulse-datasheet-120436.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. D, 05/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Pulse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.pulseelectronics.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "12-Pin Through Hole Device, Body 16.26 x 21.59 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "J0011D21BNL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Method"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RJ-45"; VariantName = "[No Variations]"
+Added Component: Designator=J11(BELS-SI-46001-F_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "10/100Base-T,AutoMDIX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "RJ45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "50µin(1.27µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/687/si-46001-f-687807.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. B0, 04/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "ModularConnectors-JacksWithMagnetics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "ConnectivitySolutionsMagneticsSolutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "BoardLock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "0.670"(17.02mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LED Color"; Value = "Yellow-Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://belfuse.com/ethernet/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Cores per Jack"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "MagJackSTSI-40000Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "380-1108SI46001F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Design/Specification"; Value = "MultipleConnectorsLabeling/Logo10/Dec/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "MagJackIntegratedMagneticsModularJacks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MagJackSTSI-40000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shield Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tab Direction"; Value = "UserSelectable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_3 Pin=J10-3
+Added Pin To Net: NetName=NetJ10_4 Pin=J10-4
+Added Pin To Net: NetName=NetJ10_5 Pin=J10-5
+Added Pin To Net: NetName=NetJ10_6 Pin=J10-6
+Added Pin To Net: NetName=NetJ10_7 Pin=J10-7
+Added Pin To Net: NetName=NetJ10_8 Pin=J10-8
+Added Pin To Net: NetName=NetJ10_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ10_4 Pin=J11-2
+Added Pin To Net: NetName=NetJ10_2 Pin=J11-3
+Added Pin To Net: NetName=NetJ10_3 Pin=J11-4
+Added Pin To Net: NetName=NetJ10_5 Pin=J11-5
+Added Pin To Net: NetName=NetJ10_6 Pin=J11-6
+Added Pin To Net: NetName=NetJ10_7 Pin=J11-7
+Added Pin To Net: NetName=NetJ10_8 Pin=J11-8
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component J10 J0011D21BNL
+Added Member To Class: ClassName=TAUV-Disconnect Member=Component J11 SI-46001-F
