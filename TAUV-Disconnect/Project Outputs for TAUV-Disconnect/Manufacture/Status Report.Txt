@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [TAUV-Disconnect.PcbDoc]
+   Generated File[TAUV-Disconnect.TXT]
+   Generated File[TAUV-Disconnect.DRL]
+   Generated File[TAUV-Disconnect.LDP]
+   Generated File[TAUV-Disconnect.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:44:08 AM On 4/26/2019

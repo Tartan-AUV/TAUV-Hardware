@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TAUV-Disconnect.PcbDoc   4/26/2019  5:44:08 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TAUV-Disconnect.TXT
+EIA File   : TAUV-Disconnect.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      35mil (0.89mm)                                            Round             20        PTH        0.00inch (0.00mm)
+T2      35mil (0.9mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T3      47mil (1.2mm)                                             Round             68        PTH        0.00inch (0.00mm)
+T4      64mil (1.63mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T5      67mil (1.7mm)                                             Round             28        PTH        0.00inch (0.00mm)
+T6      47mil (1.2mm)                                             Round             18        NPTH       0.00inch (0.00mm)
+T7      51mil (1.3mm)                                             Round             12        NPTH       0.00inch (0.00mm)
+T8      71mil (1.8mm)                                             Round             48        NPTH       0.00inch (0.00mm)
+T9      128mil (3.25mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              206
+
+Total Processing Time (hh:mm:ss) : 00:00:00
