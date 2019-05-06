@@ -10,4 +10,4 @@ Power management board
 Disconnect board for easy flange access
 
 ## TAUV-Interfacer
-Interface board for STM32F7DISCO to hydrophone, indicators, jetson, and powerboard
+Utilizes a pair of STM32F7 processors to run hydrophone DOA estimates, and control/interface with LEDs, Servos, Jetson, and PowerBoard.
