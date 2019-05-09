@@ -1,0 +1,133 @@
+Removed Pin From Net: NetName=GND Pin=J1-MH
+Removed Pin From Net: NetName=GND Pin=J1-MH
+Removed Pin From Net: NetName=GND Pin=J1-MH
+Removed Pin From Net: NetName=GND Pin=J1-MH
+Removed Pin From Net: NetName=GND Pin=J2-MH
+Removed Pin From Net: NetName=GND Pin=J2-MH
+Removed Pin From Net: NetName=GND Pin=J2-MH
+Removed Pin From Net: NetName=GND Pin=J2-MH
+Removed Pin From Net: NetName=GND Pin=J3-MH
+Removed Pin From Net: NetName=GND Pin=J3-MH
+Removed Pin From Net: NetName=GND Pin=J3-MH
+Removed Pin From Net: NetName=GND Pin=J3-MH
+Removed Pin From Net: NetName=GND Pin=J4-MH
+Removed Pin From Net: NetName=GND Pin=J4-MH
+Removed Pin From Net: NetName=GND Pin=J4-MH
+Removed Pin From Net: NetName=GND Pin=J4-MH
+Removed Pin From Net: NetName=NetR1_1 Pin=R4-2
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-4
+Removed Member From Class: ClassName=U_Hydrophones Member=J1
+Removed Member From Class: ClassName=U_Hydrophones Member=J2
+Removed Member From Class: ClassName=U_Hydrophones Member=J3
+Removed Member From Class: ClassName=U_Hydrophones Member=J4
+Removed Member From Class: ClassName=U_Hydrophones Member=R8
+Removed Member From Class: ClassName=U_Hydrophones Member=R15
+Removed Member From Class: ClassName=U_Hydrophones Member=R22
+Change Component Footprint: Designator=R1 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_M
+Change Component Footprint: Designator=J2 Old Footprint=ROS-51K201-400A5_V New Footprint=Solder Jumper - Closed
+Change Component Footprint: Designator=J1 Old Footprint=ROS-51K201-400A5_V New Footprint=Solder Jumper
+Change Component Comment : Designator=R1 Old Comment=2K New Comment=4K12
+Change Component Comment : Designator=J2 Old Comment=51K201-400A5 New Comment=(Closed)
+Change Component Comment : Designator=J1 Old Comment=51K201-400A5 New Comment=(Open)
+Change component parameters: Designator = "R1"; Footprint = "RESC0603(1608)_M"; UniqueID = "\SYFRBPME\IOSCXWXF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4120.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1"; Footprint = "Solder Jumper"; UniqueID = "\YHXUWMFD\BAREANJS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "J2"; Footprint = "Solder Jumper - Closed"; UniqueID = "\YHXUWMFD\SVJWJVEE"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=C58(CAPC1210(3225)100_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=FB2(MURA-BLM31-B-CHIP-2_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.murata.com/products/catalog/pdf/c31e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.murata.com/products/catalog/pdf/c31e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "08/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "0.08 Ohm Max."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance (at 100 MHz)"; Value = "600 Ohm +/- 25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Chip, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "BLM31-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BLM31PG601SN1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1500 mA"; VariantName = "[No Variations]"
+Added Component: Designator=P8(MOLEX NANO-FIT 2x5 - Vertical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/molex-llc/1053121310/WM15120-ND/6164209"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105314-1216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "WM15165-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM15120-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C58-2
+Added Pin To Net: NetName=VCC_THRUSTERS Pin=FB2-1
+Added Pin To Net: NetName=VCC_9V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=P8-10
+Added Pin To Net: NetName=NetR1_1 Pin=R25-2
+Added Pin To Net: NetName=NetR1_1 Pin=U4-4
+Added Pin To Net: NetName=HYDRO_IN_1 Pin=P8-1
+Added Pin To Net: NetName=HYDRO_IN_1 Pin=R3-1
+Added Net: Name=HYDRO_IN_1
+Added Pin To Net: NetName=HYDRO_IN_2 Pin=P8-2
+Added Pin To Net: NetName=HYDRO_IN_2 Pin=R10-1
+Added Net: Name=HYDRO_IN_2
+Added Pin To Net: NetName=HYDRO_IN_3 Pin=P8-3
+Added Pin To Net: NetName=HYDRO_IN_3 Pin=R17-1
+Added Net: Name=HYDRO_IN_3
+Added Pin To Net: NetName=HYDRO_IN_4 Pin=P8-4
+Added Pin To Net: NetName=HYDRO_IN_4 Pin=R24-1
+Added Net: Name=HYDRO_IN_4
+Added Pin To Net: NetName=NetC58_1 Pin=C58-1
+Added Pin To Net: NetName=NetC58_1 Pin=FB2-2
+Added Pin To Net: NetName=NetC58_1 Pin=J2-1
+Added Net: Name=NetC58_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-4
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U2-4
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=U3-4
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR76_1 Pin=R76-1
+Added Pin To Net: NetName=NetR76_1 Pin=U1-1
+Added Net: Name=NetR76_1
+Added Pin To Net: NetName=NetR77_1 Pin=R77-1
+Added Pin To Net: NetName=NetR77_1 Pin=U2-1
+Added Net: Name=NetR77_1
+Added Pin To Net: NetName=NetR78_1 Pin=R78-1
+Added Pin To Net: NetName=NetR78_1 Pin=U3-1
+Added Net: Name=NetR78_1
+Added Pin To Net: NetName=NetR79_1 Pin=R79-1
+Added Pin To Net: NetName=NetR79_1 Pin=U4-1
+Added Net: Name=NetR79_1
+Added Pin To Net: NetName=VCC_HYDRO Pin=J1-2
+Added Pin To Net: NetName=VCC_HYDRO Pin=J2-2
+Added Pin To Net: NetName=VCC_HYDRO Pin=P8-5
+Added Net: Name=VCC_HYDRO
+Added Member To Class: ClassName=U_Power Member=Component C58 22uF
+Added Member To Class: ClassName=U_Power Member=Component FB2 BLM31PG601SN1L
+Added Member To Class: ClassName=U_Power Member=Component J1 (Open)
+Added Member To Class: ClassName=U_Power Member=Component J2 (Closed)
+Added Member To Class: ClassName=U_Hydrophones Member=Component P8 10-Pin 5x2 Molex Nano-Fit Vertical
