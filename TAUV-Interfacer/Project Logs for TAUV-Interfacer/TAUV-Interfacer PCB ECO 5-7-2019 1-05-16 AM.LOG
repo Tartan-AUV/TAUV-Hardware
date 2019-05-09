@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=MCU2_ADC1_IN10 Pin=R1-2
+Removed Pin From Net: NetName=MCU2_ADC1_IN11 Pin=R8-2
+Removed Pin From Net: NetName=MCU2_ADC1_IN12 Pin=R15-2
+Removed Pin From Net: NetName=MCU2_ADC1_IN13 Pin=R22-2
+Removed Pin From Net: NetName=MCU2_ADC1_IN10 Pin=U1-1
+Removed Pin From Net: NetName=MCU2_ADC1_IN11 Pin=U2-1
+Removed Pin From Net: NetName=MCU2_ADC1_IN12 Pin=U3-1
+Removed Pin From Net: NetName=MCU2_ADC1_IN13 Pin=U4-1
+Added Component: Designator=R76(RESC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R77(RESC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R78(RESC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R79(RESC0603(1608)_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU2_ADC1_IN10 Pin=R76-2
+Added Pin To Net: NetName=MCU2_ADC1_IN11 Pin=R77-2
+Added Pin To Net: NetName=MCU2_ADC1_IN12 Pin=R78-2
+Added Pin To Net: NetName=MCU2_ADC1_IN13 Pin=R79-2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R76-1
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R77-1
+Added Pin To Net: NetName=NetR8_2 Pin=U2-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=R78-1
+Added Pin To Net: NetName=NetR15_2 Pin=U3-1
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=R79-1
+Added Pin To Net: NetName=NetR22_2 Pin=U4-1
+Added Net: Name=NetR22_2
+Added Member To Class: ClassName=U_Hydrophones Member=Component R76 270R
+Added Member To Class: ClassName=U_Hydrophones Member=Component R77 270R
+Added Member To Class: ClassName=U_Hydrophones Member=Component R78 270R
+Added Member To Class: ClassName=U_Hydrophones Member=Component R79 270R

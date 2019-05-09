@@ -1,0 +1,203 @@
+Removed Pin From Net: NetName=VCC_SERVOS Pin=TP5-1
+Removed Pin From Net: NetName=VCC_5V Pin=TP6-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=TP7-1
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=TP8-1
+Removed Pin From Net: NetName=VCC_9V Pin=TP9-1
+Removed Pin From Net: NetName=MCU1_I2C_SDA Pin=TP10-1
+Removed Pin From Net: NetName=MCU1_I2C_SCL Pin=TP11-1
+Added Member To Class: ClassName=U_Hydrophones Member=Component C1 1uF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C2 100nF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C3 10nF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C4 10nF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C5 1uF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C6 100nF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C7 10nF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C8 10nF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C9 1uF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C10 100nF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C11 10nF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C12 10nF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C13 1uF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C14 100nF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C15 10nF
+Added Member To Class: ClassName=U_Hydrophones Member=Component C16 10nF
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component C17 10pF
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component C18 10pF
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component C19 100nF
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component C20 CAP 2.2uF
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component C21 CAP 2.2uF
+Added Member To Class: ClassName=U_MCU_Main Member=Component C22 10pF
+Added Member To Class: ClassName=U_MCU_Main Member=Component C23 10pF
+Added Member To Class: ClassName=U_MCU_Main Member=Component C24 100nF
+Added Member To Class: ClassName=U_MCU_Main Member=Component C25 CAP 2.2uF
+Added Member To Class: ClassName=U_MCU_Main Member=Component C26 CAP 2.2uF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C27 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C28 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C29 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C30 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C31 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C32 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C33 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C34 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C35 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C36 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C37 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C38 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C39 10uF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C40 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C41 1uF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C42 10uF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C43 100nF
+Added Member To Class: ClassName=U_MCU_Powers Member=Component C44 1uF
+Added Member To Class: ClassName=U_SD Member=Component C45 100nF
+Added Member To Class: ClassName=U_SD Member=Component C46 10uF
+Added Member To Class: ClassName=U_SD Member=Component C47 100nF
+Added Member To Class: ClassName=U_SD Member=Component C48 10uF
+Added Member To Class: ClassName=U_Power Member=Component C49 100nF
+Added Member To Class: ClassName=U_Power Member=Component C50 1uF
+Added Member To Class: ClassName=U_Power Member=Component C51 100nF
+Added Member To Class: ClassName=U_Power Member=Component C52 1uF
+Added Member To Class: ClassName=U_Power Member=Component C53 22uF
+Added Member To Class: ClassName=U_Servos Member=Component C54 10nF
+Added Member To Class: ClassName=U_Servos Member=Component C55 CAP 22uF 25V 1210(3225)
+Added Member To Class: ClassName=U_Hall_Effect Member=Component C56 100nF
+Added Member To Class: ClassName=U_Hall_Effect Member=Component C57 1uF
+Added Member To Class: ClassName=U_SD Member=Component CD1 502774-0891
+Added Member To Class: ClassName=U_SD Member=Component CD2 502774-0891
+Added Member To Class: ClassName=U_Interface Member=Component D1 LED BLUE
+Added Member To Class: ClassName=U_Interface Member=Component D2 LED BLUE
+Added Member To Class: ClassName=U_Interface Member=Component D3 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D4 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D5 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D6 LED YELLOW
+Added Member To Class: ClassName=U_Interface Member=Component D7 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D8 LED YELLOW
+Added Member To Class: ClassName=U_Interface Member=Component D9 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D10 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D11 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D12 LED GREEN
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component D13 LED RED
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component D14 LED RED
+Added Member To Class: ClassName=U_MCU_Main Member=Component D15 LED RED
+Added Member To Class: ClassName=U_MCU_Main Member=Component D16 LED RED
+Added Member To Class: ClassName=U_Hall_Effect Member=Component D17 LED RED
+Added Member To Class: ClassName=U_Power Member=Component FB1 BLM31PG601SN1L
+Added Member To Class: ClassName=U_Hydrophones Member=Component J1 51K201-400A5
+Added Member To Class: ClassName=U_Hydrophones Member=Component J2 51K201-400A5
+Added Member To Class: ClassName=U_Hydrophones Member=Component J3 51K201-400A5
+Added Member To Class: ClassName=U_Hydrophones Member=Component J4 51K201-400A5
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component J5 JTAG 10POS 1.27
+Added Member To Class: ClassName=U_MCU_Main Member=Component J6 JTAG 10POS 1.27
+Added Member To Class: ClassName=U_USB Member=Component J7 ZX62D-AB-5P8
+Added Member To Class: ClassName=U_USB Member=Component J8 ZX62D-AB-5P8
+Added Member To Class: ClassName=U_Hall_Effect Member=Component J9 (Closed)
+Added Member To Class: ClassName=U_Interface Member=Component MH1 #4-40
+Added Member To Class: ClassName=U_Interface Member=Component MH2 #4-40
+Added Member To Class: ClassName=U_Interface Member=Component MH3 #4-40
+Added Member To Class: ClassName=U_Interface Member=Component MH4 #4-40
+Added Member To Class: ClassName=U_Interface Member=Component P1 8-Pin 4x2 Molex Nano-Fit
+Added Member To Class: ClassName=U_Interface Member=Component P2 12-Pin Molex Nano-Fit
+Added Member To Class: ClassName=U_Interface Member=Component P3 3-Pin Molex Nano-Fit
+Added Member To Class: ClassName=U_Interface Member=Component P4 4-Pin Molex Nano-Fit
+Added Member To Class: ClassName=U_Interface Member=Component P5 4-Pin Molex Nano-Fit
+Added Member To Class: ClassName=U_MCU_Main Member=Component P6 Header 2X2
+Added Member To Class: ClassName=U_Servos Member=Component P7 12-Pin Molex Nano-Fit
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component Q1 2N7002
+Added Member To Class: ClassName=U_MCU_Main Member=Component Q2 2N7002
+Added Member To Class: ClassName=U_Servos Member=Component Q3 FDN337N
+Added Member To Class: ClassName=U_Hydrophones Member=Component R1 2K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R2 3K24 1%
+Added Member To Class: ClassName=U_Hydrophones Member=Component R3 270R
+Added Member To Class: ClassName=U_Hydrophones Member=Component R4 10K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R5 10K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R6 3K24 1%
+Added Member To Class: ClassName=U_Hydrophones Member=Component R7 10K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R8 2K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R9 3K24 1%
+Added Member To Class: ClassName=U_Hydrophones Member=Component R10 270R
+Added Member To Class: ClassName=U_Hydrophones Member=Component R11 10K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R12 10K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R13 3K24 1%
+Added Member To Class: ClassName=U_Hydrophones Member=Component R14 10K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R15 2K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R16 3K24 1%
+Added Member To Class: ClassName=U_Hydrophones Member=Component R17 270R
+Added Member To Class: ClassName=U_Hydrophones Member=Component R18 10K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R19 10K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R20 3K24 1%
+Added Member To Class: ClassName=U_Hydrophones Member=Component R21 10K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R22 2K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R23 3K24 1%
+Added Member To Class: ClassName=U_Hydrophones Member=Component R24 270R
+Added Member To Class: ClassName=U_Hydrophones Member=Component R25 10K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R26 10K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R27 3K24 1%
+Added Member To Class: ClassName=U_Hydrophones Member=Component R28 10K
+Added Member To Class: ClassName=U_Interface Member=Component R29 130R
+Added Member To Class: ClassName=U_Interface Member=Component R30 130R
+Added Member To Class: ClassName=U_Interface Member=Component R31 100R
+Added Member To Class: ClassName=U_Interface Member=Component R32 100R
+Added Member To Class: ClassName=U_Interface Member=Component R33 220R
+Added Member To Class: ClassName=U_Interface Member=Component R34 100R
+Added Member To Class: ClassName=U_Interface Member=Component R35 220R
+Added Member To Class: ClassName=U_Interface Member=Component R36 100R
+Added Member To Class: ClassName=U_Interface Member=Component R37 100R
+Added Member To Class: ClassName=U_Interface Member=Component R38 1K2
+Added Member To Class: ClassName=U_Interface Member=Component R39 100R
+Added Member To Class: ClassName=U_Interface Member=Component R40 470R
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component R41 10K
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component R42 10K
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component R43 100R
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component R44 10K
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component R45 10K
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component R46 100R
+Added Member To Class: ClassName=U_MCU_Main Member=Component R47 10K
+Added Member To Class: ClassName=U_MCU_Main Member=Component R48 100R
+Added Member To Class: ClassName=U_MCU_Main Member=Component R49 10K
+Added Member To Class: ClassName=U_MCU_Main Member=Component R50 10K
+Added Member To Class: ClassName=U_MCU_Main Member=Component R51 100R
+Added Member To Class: ClassName=U_MCU_Powers Member=Component R52 47R
+Added Member To Class: ClassName=U_MCU_Powers Member=Component R53 47R
+Added Member To Class: ClassName=U_SD Member=Component R54 47K
+Added Member To Class: ClassName=U_SD Member=Component R55 47K
+Added Member To Class: ClassName=U_SD Member=Component R56 47K
+Added Member To Class: ClassName=U_SD Member=Component R57 47K
+Added Member To Class: ClassName=U_SD Member=Component R58 47K
+Added Member To Class: ClassName=U_SD Member=Component R59 10K
+Added Member To Class: ClassName=U_SD Member=Component R60 47K
+Added Member To Class: ClassName=U_SD Member=Component R61 47K
+Added Member To Class: ClassName=U_SD Member=Component R62 47K
+Added Member To Class: ClassName=U_SD Member=Component R63 47K
+Added Member To Class: ClassName=U_SD Member=Component R64 47K
+Added Member To Class: ClassName=U_SD Member=Component R65 10K
+Added Member To Class: ClassName=U_Servos Member=Component R66 MCS1632R050FER
+Added Member To Class: ClassName=U_Servos Member=Component R67 22AR100KLFTR
+Added Member To Class: ClassName=U_Servos Member=Component R68 1K 1% 0603(1608)
+Added Member To Class: ClassName=U_Servos Member=Component R69 330R 1% 0603(1608)
+Added Member To Class: ClassName=U_Hall_Effect Member=Component R70 100R
+Added Member To Class: ClassName=U_Hall_Effect Member=Component R71 33K
+Added Member To Class: ClassName=U_Hall_Effect Member=Component R72 Res3
+Added Member To Class: ClassName=U_Hall_Effect Member=Component R73 Res3
+Added Member To Class: ClassName=U_Hall_Effect Member=Component R74 22AR100KLFTR
+Added Member To Class: ClassName=U_MCU_Main Member=Component R75 10K
+Added Member To Class: ClassName=U_Hydrophones Member=Component R76 270R
+Added Member To Class: ClassName=U_Hydrophones Member=Component R77 270R
+Added Member To Class: ClassName=U_Hydrophones Member=Component R78 270R
+Added Member To Class: ClassName=U_Hydrophones Member=Component R79 270R
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component S1 tact switch
+Added Member To Class: ClassName=U_MCU_Main Member=Component S2 tact switch
+Added Member To Class: ClassName=U_Hydrophones Member=Component TP1 Test Point Loop
+Added Member To Class: ClassName=U_Hydrophones Member=Component TP2 Test Point Loop
+Added Member To Class: ClassName=U_Hydrophones Member=Component TP3 Test Point Loop
+Added Member To Class: ClassName=U_Hydrophones Member=Component TP4 Test Point Loop
+Added Member To Class: ClassName=U_Hydrophones Member=Component U1 LMC7101AIM5X
+Added Member To Class: ClassName=U_Hydrophones Member=Component U2 LMC7101AIM5X
+Added Member To Class: ClassName=U_Hydrophones Member=Component U3 LMC7101AIM5X
+Added Member To Class: ClassName=U_Hydrophones Member=Component U4 LMC7101AIM5X
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component U5 STM32F746VGT7
+Added Member To Class: ClassName=U_MCU_Main Member=Component U6 STM32F746VGT7
+Added Member To Class: ClassName=U_Power Member=Component U7 UA78L09ACPK
+Added Member To Class: ClassName=U_Servos Member=Component U8 MIC5021YM
+Added Member To Class: ClassName=U_Hall_Effect Member=Component U9 TS391SN2T1G
+Added Member To Class: ClassName=U_MCU_Hydro Member=Component X1 7M-25.000MEEQ-T
+Added Member To Class: ClassName=U_MCU_Main Member=Component X2 7M-25.000MEEQ-T
