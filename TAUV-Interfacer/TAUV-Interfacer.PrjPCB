@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for TAUV-Interfacer
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -309,6 +309,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TORMKHKX
 
+[Document17]
+DocumentPath=Hydrophone.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IJPANPDQ
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -356,7 +373,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for TAUV-Interfacer
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1289,7 +1306,7 @@ GlobalIndexSortLocation=0
 
 [PrjClassGen]
 CompClassManualEnabled=0
-CompClassManualRoomEnabled=0
+CompClassManualRoomEnabled=1
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0

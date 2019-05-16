@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=VCC_HYDRO Pin=J3-4
+Removed Pin From Net: NetName=HYDRO_IN_4 Pin=J3-5
+Removed Pin From Net: NetName=HYDRO_IN_3 Pin=J3-6
+Removed Pin From Net: NetName=HYDRO_IN_2 Pin=J3-7
+Removed Pin From Net: NetName=HYDRO_IN_1 Pin=J3-8
+Removed Member From Class: ClassName=U_Hydrophones Member=J3
+Added Component: Designator=P8(MOLEX NANO-FIT 2X3 - RIGHT ANGLE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105313-1204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105313-1204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM14977-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=VCC_HYDRO Pin=P8-2
+Added Pin To Net: NetName=HYDRO_IN_4 Pin=P8-3
+Added Pin To Net: NetName=HYDRO_IN_3 Pin=P8-4
+Added Pin To Net: NetName=HYDRO_IN_2 Pin=P8-5
+Added Pin To Net: NetName=HYDRO_IN_1 Pin=P8-6
+Added Member To Class: ClassName=U_Hydrophones Member=Component P8 6-Pin Molex Nano-Fit

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=P8-4
+Removed Pin From Net: NetName=VCC_HYDRO Pin=P8-5
+Removed Pin From Net: NetName=HYDRO_IN_4 Pin=P8-6
+Added Pin To Net: NetName=HYDRO_IN_4 Pin=P8-4
+Added Pin To Net: NetName=GND Pin=P8-5
+Added Pin To Net: NetName=VCC_HYDRO Pin=P8-6

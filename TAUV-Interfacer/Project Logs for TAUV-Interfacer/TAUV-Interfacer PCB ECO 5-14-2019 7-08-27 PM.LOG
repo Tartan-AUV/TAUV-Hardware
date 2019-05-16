@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MCU2_USART2_TX Pin=P6-1
+Removed Pin From Net: NetName=MCU1_USART2_TX Pin=P6-4
+Added Pin To Net: NetName=MCU1_USART2_TX Pin=P6-1
+Added Pin To Net: NetName=MCU2_USART2_TX Pin=P6-4
