@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RSENSE- Pin=R67-1
+Removed Pin From Net: NetName=VCC_SERVOS Pin=R67-3
+Added Pin To Net: NetName=VCC_SERVOS Pin=R67-1
+Added Pin To Net: NetName=RSENSE- Pin=R67-3
+Added Member To Class: ClassName=U_Servos Member=Component C54 10nF

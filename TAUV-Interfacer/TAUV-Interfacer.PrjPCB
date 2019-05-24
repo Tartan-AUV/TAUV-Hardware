@@ -326,6 +326,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJPANPDQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for TAUV-Interfacer\Design Rule Check - TAUV-Interfacer.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
