@@ -1,13 +1,26 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [TAUV-Powerboard.PcbDoc]
-   Generated File[TAUV-Powerboard.TXT]
-   Generated File[TAUV-Powerboard.DRL]
-   Generated File[TAUV-Powerboard.LDP]
-   Generated File[TAUV-Powerboard.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:57:19 AM On 5/24/2019
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [TAUV-Interfacer.PcbDoc]
+   Generated File[TAUV-Interfacer.GTO]
+   Generated File[TAUV-Interfacer.GTP]
+   Generated File[TAUV-Interfacer.GTS]
+   Generated File[TAUV-Interfacer.GTL]
+   Generated File[TAUV-Interfacer.GP1]
+   Generated File[TAUV-Interfacer.GP2]
+   Generated File[TAUV-Interfacer.GBL]
+   Generated File[TAUV-Interfacer.GBS]
+   Generated File[TAUV-Interfacer.GBP]
+   Generated File[TAUV-Interfacer.GBO]
+   Generated File[TAUV-Interfacer.GM1]
+   Generated File[TAUV-Interfacer.EXTREP]
+   Generated File[TAUV-Interfacer.REP]
 
 
-Files Generated   : 4
+Files Generated   : 13
 Documents Printed : 0
 
-Finished Output Generation At 12:50:57 AM On 4/2/2019
+Finished Output Generation At 1:57:21 AM On 5/24/2019

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Dropbox\0\Files\0clubs\TAUV\TAUV-Hardware\TAUV-Interfacer\TAUV-Interfacer.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=tauv-interfacer-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=tauv-interfacer-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

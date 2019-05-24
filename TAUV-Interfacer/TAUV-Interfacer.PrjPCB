@@ -225,7 +225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=TAUV-Interfacer.OutJob
+DocumentPath=TAUV-Outjob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -242,6 +242,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
+DocumentPath=TAUV-Interfacer.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=POUAMEUY
 
-[Document14]
+[Document15]
 DocumentPath=Servos.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EOWVIIFY
 
-[Document15]
+[Document16]
 DocumentPath=Hall_Effect.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DXSEYGEY
 
-[Document16]
+[Document17]
 DocumentPath=TAUV-Interfacer.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TORMKHKX
 
-[Document17]
+[Document18]
 DocumentPath=Hydrophone.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -328,6 +345,110 @@ DocumentUniqueId=IJPANPDQ
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for TAUV-Interfacer\Design Rule Check - TAUV-Interfacer.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for TAUV-Interfacer\Manufacture\TAUV-Interfacer.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=..\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Interfacer.REP
 DItemRevisionGUID=
 
 [Configuration1]
