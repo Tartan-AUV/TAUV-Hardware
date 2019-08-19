@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [TAUV-Killswitch.PcbDoc]
+   Generated File[TAUV-Killswitch.TXT]
+   Generated File[TAUV-Killswitch.DRL]
+   Generated File[TAUV-Killswitch.LDP]
+   Generated File[TAUV-Killswitch.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:51:13 AM On 7/16/2019

@@ -1,0 +1,13 @@
+Line #,Name,Description,Designator,Quantity,Qtty to buy,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,,,,,,,,,,,,
+,Hall effect sensor,,H1,1,10,Texas Instruments,DRV5053VAQLPG,New Product,Digi-Key,296-38527-ND,1.36,1.36
+,Nanofit connector,3 pin nanofit,Conn1,1,10,Molex,105307-1203,Unknown,Digi-Key,WM14959-ND,0.39,0.39
+,11K 1% 0603(1608),11K 0.1W 1% 0603 (1608 Metric)  SMD,R2,1,10,Yageo,RC0603FR-0711KL,Volume Production,Digi-Key,311-11.0KHRCT-ND,0.1,0.1
+,100R 5% 0603(1608),100R 0.1W 5% 0603 (1608 Metric)  SMD,"R1, R6",2,20,Panasonic,ERJ3GEYJ101V,Volume Production,Digi-Key,P100GCT-ND,0.1,0.2
+,CAP 100nF 10V 0603(1608),CAP 100nF 10V ±10% 0603 (1608 Metric) Thickness 1mm SMD,C1,1,10,Samsung,CL10B104KB8NNNC,Volume Production,Digi-Key,1276-1000-6-ND,0.1,0.1
+,CAP 150nF 50V 0603(1608),CAP 150nF 50V -20% to +80% 0603 (1608 Metric) Thickness 1mm SMD,"C2, C3",2,20,Murata,GRM188R71E154KA01D,Volume Production,Digi-Key,490-3289-1-ND,0.16,0.32
+,LED GREEN,led,D2,1,10,Vishay Lite-On,LTST-C171KGKT,Volume Production,Digi-Key,160-1426-1-ND,0.29,0.29
+,LED RED,led,D1,1,10,Vishay Lite-On,LTST-C171KRKT,Volume Production,Digi-Key,160-1427-1-ND,0.29,0.29
+,TS391SN2T1G,"Low Power Single Voltage Comparator, 2 to 36 V, -40 to 125 degC, 5-Pin TSOP, Pb-Free, Tape and Reel",U1,1,10,ON Semiconductor,TS391SN2T1G,Volume Production,Digi-Key,TS391SN2T1GOSCT-ND,0.6,0.6
+,3-Pin Molex Nano-Fit,NanoFit RA Hdr TH SR 3Ckt,P2,1,10,Molex,3-pin Nanofit,Volume Production,Digi-Key,WM14973-ND,,
+,22AR100KLFTR,"TT Electronics BI 22AR100KLFTR SMT trim pot, 100k 20%",R5,1,10,TT BI ,22AR100KLFTR,Volume Production,Digi-Key,987-1003-1-ND,1.38,1.38

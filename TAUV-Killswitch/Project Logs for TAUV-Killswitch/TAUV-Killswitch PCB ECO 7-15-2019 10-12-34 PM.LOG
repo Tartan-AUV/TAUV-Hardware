@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=HALL_SIG Pin=P1-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=P1-3
+Change Component Footprint: Designator=C2 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_M
+Change Component Footprint: Designator=P1 Old Footprint=MOLEX NANO-FIT 1X3 New Footprint=HDR1X3
+Change Component Footprint: Designator=R2 Old Footprint=RESC0603(1608)_N New Footprint=RESC0603(1608)_M
+Change Component Comment : Designator=C2 Old Comment=1uF New Comment=CAP 150nF 50V 0603(1608)
+Change Component Comment : Designator=P1 Old Comment=3-Pin Molex Nano-Fit New Comment=Header 3
+Change Component Comment : Designator=R2 Old Comment=33K New Comment=11K 1% 0603(1608)
+Change component parameters: Designator = "R2"; Footprint = "RESC0603(1608)_M"; UniqueID = "\HEPFQQFG\DQFJRDMW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11000.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\HEPFQQFG\ISZGEMBR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "-20% to +80%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1"; Footprint = "HDR1X3"; UniqueID = "\AXAGFLOS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "-20% to +80%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VCC_3V3 Pin=P1-1
+Added Pin To Net: NetName=HALL_SIG Pin=P1-3
+Added Member To Class: ClassName=Main Member=Component C3 CAP 150nF 50V 0603(1608)

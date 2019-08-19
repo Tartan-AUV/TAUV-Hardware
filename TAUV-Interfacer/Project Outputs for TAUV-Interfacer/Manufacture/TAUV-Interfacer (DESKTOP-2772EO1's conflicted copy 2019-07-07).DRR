@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TAUV-Interfacer.PcbDoc   5/24/2019  1:58:52 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Component Side to Solder Side
+ASCII RoundHoles File : TAUV-Interfacer-RoundHoles.TXT
+ASCII SlotHoles File : TAUV-Interfacer-SlotHoles.TXT
+EIA File   : TAUV-Interfacer.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.406mm)                                           Round             197       PTH        0.00inch (0.00mm)
+T2      26mil (0.65mm)                                            Slot              4         PTH        0.00inch (0.00mm)
+T3      32mil (0.825mm)                                           Slot              4         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T5      40mil (1.016mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T6      47mil (1.2mm)                                             Round             49        PTH        0.00inch (0.00mm)
+T7      67mil (1.7mm)                                             Round             14        PTH        0.00inch (0.00mm)
+T8      146mil (3.7mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              280
+
+Total Processing Time (hh:mm:ss) : 00:00:01

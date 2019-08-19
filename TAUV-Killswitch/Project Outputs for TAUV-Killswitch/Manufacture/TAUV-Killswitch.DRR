@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TAUV-Killswitch.PcbDoc   7/16/2019  9:51:13 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TAUV-Killswitch.TXT
+EIA File   : TAUV-Killswitch.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.406mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T2      35mil (0.9mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T3      47mil (1.2mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T4      67mil (1.7mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T5      146mil (3.7mm)                                            Round             3         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              17
+
+Total Processing Time (hh:mm:ss) : 00:00:00

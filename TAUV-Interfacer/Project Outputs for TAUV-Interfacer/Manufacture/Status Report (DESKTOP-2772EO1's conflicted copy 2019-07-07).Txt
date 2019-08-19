@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [TAUV-Interfacer.PcbDoc]
+   Generated File[TAUV-Interfacer-RoundHoles.TXT]
+   Generated File[TAUV-Interfacer-SlotHoles.TXT]
+   Generated File[TAUV-Interfacer.DRL]
+   Generated File[TAUV-Interfacer.LDP]
+   Generated File[TAUV-Interfacer.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 1:58:53 AM On 5/24/2019

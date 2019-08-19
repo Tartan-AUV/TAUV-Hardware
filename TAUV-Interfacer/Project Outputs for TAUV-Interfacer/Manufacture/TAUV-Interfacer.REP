@@ -2,6 +2,73 @@
 FileName = TAUV-Interfacer.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Overlay
+      File : TAUV-Interfacer.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Power Plane
+      File : TAUV-Interfacer.GP2
+
+    Adding Layer      : Power Plane
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D109
+    D113
+    D118
+    D119
+    D120
+    D121
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : TAUV-Interfacer.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : TAUV-Interfacer.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : TAUV-Interfacer.GBS
 
@@ -24,16 +91,6 @@ Used DCodes :
     D97
     D98
     D99
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : TAUV-Interfacer.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -98,20 +155,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : TAUV-Interfacer.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Solder Side
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 1
       File : TAUV-Interfacer.GM1
 
@@ -122,32 +165,6 @@ Used DCodes :
     D11
     D14
     D130
-*************************************************************
-
-*************************************************************
-Generating : Power Plane
-      File : TAUV-Interfacer.GP2
-
-    Adding Layer      : Power Plane
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D109
-    D113
-    D118
-    D119
-    D120
-    D121
-    D123
-    D124
-    D125
-    D126
-    D127
-    D128
-    D129
 *************************************************************
 
 *************************************************************
@@ -201,46 +218,27 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : TAUV-Interfacer.GTO
+Generating : Solder Side
+      File : TAUV-Interfacer.GBL
 
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Ground Plane
-      File : TAUV-Interfacer.GP1
-
-    Adding Layer      : Ground Plane
+    Adding Layer      : Solder Side
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D14
+    D100
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
     D109
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
+    D110
+    D111
+    D112
 *************************************************************
 
 *************************************************************
@@ -305,26 +303,28 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Solder Side
-      File : TAUV-Interfacer.GBL
+Generating : Ground Plane
+      File : TAUV-Interfacer.GP1
 
-    Adding Layer      : Solder Side
+    Adding Layer      : Ground Plane
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D14
-    D100
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
     D109
-    D110
-    D111
-    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
 *************************************************************
 

@@ -21,7 +21,7 @@ TargetOutputMedium=Manufacture Folder Outputs
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=andrew-color on PRINTING.ANDREW.CMU.EDU
+TargetPrinter=Dell 2155cdn Color MFP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -118,7 +118,7 @@ Configuration5_Item8=Quantity=38|LogicalDesignator=150|Footprint=144|Value=296|S
 OutputType6=PCB Print
 OutputName6=PCB Prints
 OutputCategory6=Documentation
-OutputDocumentPath6=TAUV-Powerboard.PcbDoc
+OutputDocumentPath6=TAUV-Killswitch.PcbDoc
 OutputVariantName6=
 OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
@@ -162,7 +162,7 @@ PcbPrintPreferences6=SubsititueFont_Default=True|SubsititueFont_Serif=True|Subsi
 [PublishSettings]
 OutputFilePath2=D:\Dropbox\0\Files\0clubs\TAUV\TAUV-Powerboard\Project Outputs for TAUV-Powerboard\Manufacture\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for TAUV-Powerboard
+OutputBasePath2=Project Outputs for TAUV-Killswitch
 OutputPathMedia2=Manufacture
 OutputPathMediaValue2=Manufacture
 OutputPathOutputer2=
@@ -175,7 +175,7 @@ OutputFileNameSpecial2=
 OpenOutput2=1
 OutputFilePath3=Project Outputs for Free Documents\Assembly\Free Documents.PDF
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for TAUV-Powerboard
+OutputBasePath3=Project Outputs for TAUV-Killswitch
 OutputPathMedia3=Assembly
 OutputPathMediaValue3=Assembly
 OutputPathOutputer3=[Output Type]
@@ -202,7 +202,7 @@ PDFACompliance3=Disabled
 PDFVersion3=Default
 OutputFilePath4=C:\Users\Robert\Documents\SVN\GLV\Safety Module\trunk\Project Outputs for CMR_Safety_Module\Assembly\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for TAUV-Powerboard
+OutputBasePath4=Project Outputs for TAUV-Killswitch
 OutputPathMedia4=Assembly
 OutputPathMediaValue4=Assembly
 OutputPathOutputer4=
