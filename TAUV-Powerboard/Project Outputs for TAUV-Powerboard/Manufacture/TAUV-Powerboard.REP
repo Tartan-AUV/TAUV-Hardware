@@ -22,16 +22,21 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Ground Plane
-      File : TAUV-Powerboard.GP1
+Generating : Solder Side
+      File : TAUV-Powerboard.GBL
 
-    Adding Layer      : Ground Plane
+    Adding Layer      : Solder Side
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D87
+    D11
+    D86
+    D88
+    D89
+    D90
+    D91
     D92
     D93
     D94
@@ -39,12 +44,7 @@ Used DCodes :
     D96
     D97
     D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
+    D115
 *************************************************************
 
 *************************************************************
@@ -55,109 +55,7 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : TAUV-Powerboard.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Solder Side
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D107
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : TAUV-Powerboard.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Solder Side
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D108
-*************************************************************
-
-*************************************************************
-Generating : Component Side
-      File : TAUV-Powerboard.GTL
-
-    Adding Layer      : Component Side
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D18
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : TAUV-Powerboard.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D13
-    D15
+    D11
 *************************************************************
 
 *************************************************************
@@ -197,30 +95,73 @@ Used DCodes :
     D42
     D43
     D44
+    D45
+    D46
 *************************************************************
 
 *************************************************************
-Generating : Solder Side
-      File : TAUV-Powerboard.GBL
+Generating : Power Plane
+      File : TAUV-Powerboard.GP2
 
-    Adding Layer      : Solder Side
+    Adding Layer      : Power Plane
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D13
-    D83
-    D84
-    D85
     D86
-    D87
     D88
-    D89
-    D90
-    D91
-    D92
+    D99
+    D100
+    D101
+    D103
+    D104
+    D105
+    D106
+    D108
+    D109
+    D111
+    D113
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : TAUV-Powerboard.GM7
+
+    Adding Layer      : Mechanical 7
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Ground Plane
+      File : TAUV-Powerboard.GP1
+
+    Adding Layer      : Ground Plane
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D86
+    D88
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
     D107
+    D108
+    D109
+    D110
+    D111
+    D112
 *************************************************************
 
 *************************************************************
@@ -235,9 +176,7 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D37
-    D45
-    D46
+    D27
     D47
     D48
     D49
@@ -270,30 +209,107 @@ Used DCodes :
     D76
     D77
     D78
+    D79
+    D80
+    D81
+    D82
 *************************************************************
 
 *************************************************************
-Generating : Power Plane
-      File : TAUV-Powerboard.GP2
+Generating : Bottom Paste
+      File : TAUV-Powerboard.GBP
 
-    Adding Layer      : Power Plane
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Solder Side
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D11
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : TAUV-Powerboard.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D116
+    D117
+*************************************************************
+
+*************************************************************
+Generating : Component Side
+      File : TAUV-Powerboard.GTL
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D52
+    D83
+    D84
+    D85
+    D86
     D87
+    D88
+    D89
+    D90
+    D91
     D92
     D93
     D94
     D95
+    D96
     D97
-    D99
-    D100
-    D101
-    D103
-    D104
-    D105
-    D106
+    D98
 *************************************************************
 

@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: TAUV-Powerboard.GBR   4/2/2019  12:50:56 AM
+Gerber File Extension Report For: TAUV-Powerboard.GBR   9/25/2019  4:53:29 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -16,5 +16,5 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GM1                Mechanical 1                            
+.GM7                Mechanical 7                            
 ------------------------------------------------------------------------------------------

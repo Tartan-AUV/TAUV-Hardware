@@ -1,26 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 1:57:19 AM On 5/24/2019
-
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of PCB Document [TAUV-Interfacer.PcbDoc]
-   Generated File[TAUV-Interfacer.GTO]
-   Generated File[TAUV-Interfacer.GTP]
-   Generated File[TAUV-Interfacer.GTS]
-   Generated File[TAUV-Interfacer.GTL]
-   Generated File[TAUV-Interfacer.GP1]
-   Generated File[TAUV-Interfacer.GP2]
-   Generated File[TAUV-Interfacer.GBL]
-   Generated File[TAUV-Interfacer.GBS]
-   Generated File[TAUV-Interfacer.GBP]
-   Generated File[TAUV-Interfacer.GBO]
-   Generated File[TAUV-Interfacer.GM1]
-   Generated File[TAUV-Interfacer.EXTREP]
-   Generated File[TAUV-Interfacer.REP]
+Output: Test Point Report
+Type  : Test Points
+From  : Variant [[No Variations]] of PCB Document [TAUV-Powerboard.PcbDoc]
+   Generated File[Assembly Testpoint Report for TAUV-Powerboard.ipc]
 
 
-Files Generated   : 13
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 1:57:21 AM On 5/24/2019
+Finished Output Generation At 4:53:31 PM On 9/25/2019
