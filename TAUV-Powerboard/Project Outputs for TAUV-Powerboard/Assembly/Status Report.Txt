@@ -1,0 +1,11 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [TAUV-Powerboard.PrjPCB]
+   Generated File[Bill of Materials-TAUV-Powerboard.xls]
+   Generated File[Bill of Materials-TAUV-Powerboard.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 2:19:18 PM On 11/4/2019

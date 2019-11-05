@@ -157,23 +157,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EIDSETPD
 
 [Document8]
-DocumentPath=TAUV-Powerboard.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
 DocumentPath=TAUV-Powerboard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOTKTDIN
 
-[Document10]
+[Document9]
 DocumentPath=TAUV-Powerboard.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=External.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -229,78 +212,154 @@ DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\Assembly Testpoint 
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for TAUV-Powerboard\Design Rule Check - TAUV-Powerboard.html
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\Bill of Materials-TAUV-Powerboard.xls
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.DRL
+DocumentPath=Project Outputs for TAUV-Powerboard\Design Rule Check - TAUV-Powerboard.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.DRR
+DocumentPath=TAUV-Powerboard 11-4-2019 12-26-04 PM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.EXTREP
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GBL
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GBO
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GBP
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GBS
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GM7
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GP1
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GP2
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GTL
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GTO
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GTP
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GTS
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.LDP
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.REP
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.TXT
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for TAUV-Powerboard\Assembly\TAUV-Powerboard.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for TAUV-Powerboard\Manufacture\TAUV-Powerboard.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument39]
 DocumentPath=Project Outputs for TAUV-Powerboard\TAUV-Powerboard.xlsx
 DItemRevisionGUID=
 
