@@ -1,0 +1,14 @@
+Added Component: Designator=P?(XT90)
+Added Component: Designator=P?(XT90)
+Added Component: Designator=P?(XT90)
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=VBATT1_P Pin=P?-1
+Added Pin To Net: NetName=VBATT1_P Pin=P?-2
+Added Net: Name=VBATT1_P
+Added Pin To Net: NetName=VBATT2_P Pin=P?-1
+Added Pin To Net: NetName=VBATT2_P Pin=P?-1
+Added Net: Name=VBATT2_P
+Added Class: Name=[Sht1]TAUV-Dual_Lipo_Board
+Added Room: Name=[Sht1]TAUV-Dual_Lipo_Board

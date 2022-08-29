@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Added Member To Class: ClassName=[Sht1]TAUV-Dual_Lipo_Board Member=Component P2 XT90
+Added Member To Class: ClassName=[Sht1]TAUV-Dual_Lipo_Board Member=Component P3 XT90
