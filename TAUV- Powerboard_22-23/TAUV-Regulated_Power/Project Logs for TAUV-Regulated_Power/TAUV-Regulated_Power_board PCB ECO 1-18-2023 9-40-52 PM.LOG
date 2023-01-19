@@ -1,0 +1,22 @@
+Added Component: Designator=Rcomp1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040212K7FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040212K7FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12.7k"; VariantName = "[No Variations]"
+Added Component: Designator=Rcomp2(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040212K7FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040212K7FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12.7k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Rcomp1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rcomp1-2
+Added Pin To Net: NetName=NetCcomp4_2 Pin=Rcomp2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rcomp2-2
+Add Pin To Net: Unknown Pin: Pin Rsense2-1
+Add Pin To Net: Unknown Pin: Pin Rsense2-2
+Add Pin To Net: Unknown Pin: Pin Rvisns1-1
+Add Pin To Net: Unknown Pin: Pin Rvisns1-2
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rcomp1 CRCW040212K7FKED
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rcomp2 CRCW040212K7FKED
+Add Class Member: Failed to add class member : Component Rsense2 WSR37L000FEA
+Add Class Member: Failed to add class member : Component Rvisns1 CRCW06032K00FKEA
