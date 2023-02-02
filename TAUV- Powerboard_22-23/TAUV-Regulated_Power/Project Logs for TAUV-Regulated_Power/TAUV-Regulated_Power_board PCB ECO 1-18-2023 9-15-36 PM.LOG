@@ -1,0 +1,78 @@
+Added Component: Designator=P3(XT90)
+Added Component: Designator=R17(WSLP59312L000FEA)
+Added Component: Designator=R18(WSLP59312L000FEA)
+Add Pin To Net: Unknown Pin: Pin Ccomp1-1
+Add Pin To Net: Unknown Pin: Pin Ccomp1-2
+Add Pin To Net: Unknown Pin: Pin Ccomp2-1
+Add Pin To Net: Unknown Pin: Pin Ccomp2-2
+Add Pin To Net: Unknown Pin: Pin Ccomp3-1
+Add Pin To Net: Unknown Pin: Pin Ccomp3-2
+Add Pin To Net: Unknown Pin: Pin Ccomp4-1
+Add Pin To Net: Unknown Pin: Pin Ccomp4-2
+Add Pin To Net: Unknown Pin: Pin Ccomp_1-1
+Add Pin To Net: Unknown Pin: Pin Ccomp_1-2
+Add Pin To Net: Unknown Pin: Pin Ccomp_2-1
+Add Pin To Net: Unknown Pin: Pin Ccomp_2-2
+Add Pin To Net: Unknown Pin: Pin Cf1-1
+Add Pin To Net: Unknown Pin: Pin Cf1-2
+Add Pin To Net: Unknown Pin: Pin Cf2-1
+Add Pin To Net: Unknown Pin: Pin Cf2-2
+Add Pin To Net: Unknown Pin: Pin Coutx1-1
+Add Pin To Net: Unknown Pin: Pin Coutx1-2
+Add Pin To Net: Unknown Pin: Pin Coutx2-1
+Add Pin To Net: Unknown Pin: Pin Coutx2-2
+Add Pin To Net: Unknown Pin: Pin Coutx3-1
+Add Pin To Net: Unknown Pin: Pin Coutx3-2
+Add Pin To Net: Unknown Pin: Pin Coutx4-1
+Add Pin To Net: Unknown Pin: Pin Coutx4-2
+Add Pin To Net: Unknown Pin: Pin Coutx5-1
+Add Pin To Net: Unknown Pin: Pin Coutx5-2
+Add Pin To Net: Unknown Pin: Pin Coutx6-1
+Add Pin To Net: Unknown Pin: Pin Coutx6-2
+Add Pin To Net: Unknown Pin: Pin Dboot1-1
+Add Pin To Net: Unknown Pin: Pin Dboot1-2
+Add Pin To Net: Unknown Pin: Pin Dboot3-1
+Add Pin To Net: Unknown Pin: Pin Dboot3-2
+Add Pin To Net: Unknown Pin: Pin Df1-1
+Add Pin To Net: Unknown Pin: Pin Df1-2
+Add Pin To Net: Unknown Pin: Pin Df2-1
+Add Pin To Net: Unknown Pin: Pin Df2-2
+Added Pin To Net: NetName=RSENSE- Pin=P3-1
+Added Pin To Net: NetName=VBAT Pin=P3-2
+Added Pin To Net: NetName=RSENSE- Pin=R17-1
+Added Pin To Net: NetName=Ard_AREF Pin=R17-2
+Added Pin To Net: NetName=RSENSE- Pin=R18-1
+Added Pin To Net: NetName=Ard_AREF Pin=R18-2
+Add Pin To Net: Unknown Pin: Pin Rcomp1-1
+Add Pin To Net: Unknown Pin: Pin Rcomp1-2
+Add Pin To Net: Unknown Pin: Pin Rcomp2-1
+Add Pin To Net: Unknown Pin: Pin Rcomp2-2
+Add Pin To Net: Unknown Pin: Pin Rsense2-1
+Add Pin To Net: Unknown Pin: Pin Rsense2-2
+Add Pin To Net: Unknown Pin: Pin Rvisns1-1
+Add Pin To Net: Unknown Pin: Pin Rvisns1-2
+Add Class Member: Failed to add class member : Component Ccomp1 C0805C181K5GACTU
+Add Class Member: Failed to add class member : Component Ccomp2 CGA2B3X7R1H103K050BB
+Add Class Member: Failed to add class member : Component Ccomp3 C0805C181K5GACTU
+Add Class Member: Failed to add class member : Component Ccomp4 CGA2B3X7R1H103K050BB
+Add Class Member: Failed to add class member : Component Ccomp_1 CGA2B3X7R1H103K050BB
+Add Class Member: Failed to add class member : Component Ccomp_2 CGA2B3X7R1H103K050BB
+Add Class Member: Failed to add class member : Component Cf1 CGA3E2X7R1H104K080AA
+Add Class Member: Failed to add class member : Component Cf2 CGA3E2X7R1H104K080AA
+Add Class Member: Failed to add class member : Component Coutx1 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx2 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx3 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx4 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx5 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx6 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Dboot1 GENERIC_DIODE
+Add Class Member: Failed to add class member : Component Dboot3 GENERIC_DIODE
+Add Class Member: Failed to add class member : Component Df1 GENERIC_DIODE
+Add Class Member: Failed to add class member : Component Df2 GENERIC_DIODE
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component P3 XT90
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component R17 WSLP59312 2mR 8W
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component R18 WSLP59312 2mR 8W
+Add Class Member: Failed to add class member : Component Rcomp1 CRCW040212K7FKED
+Add Class Member: Failed to add class member : Component Rcomp2 CRCW040212K7FKED
+Add Class Member: Failed to add class member : Component Rsense2 WSR37L000FEA
+Add Class Member: Failed to add class member : Component Rvisns1 CRCW06032K00FKEA

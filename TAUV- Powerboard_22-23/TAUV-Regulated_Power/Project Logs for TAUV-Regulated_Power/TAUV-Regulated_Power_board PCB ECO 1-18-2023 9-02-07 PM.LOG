@@ -1,0 +1,1301 @@
+Added Component: Designator=Cbias1(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbias2(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cboot1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cboot2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cboot3(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cboot4(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk1(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk2(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_1(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_2(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_3(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_4(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_5(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_6(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_7(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_8(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccs1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06035A470JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06035A470JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccs2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06035A470JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06035A470JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cin1(SM_RADIAL_10BMM)
+Add component (AddParameter): Name = "Cap"; Value = "3.3E-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "http://industrial.panasonic.com/www%2Ddata/pdf/ABA0000/ABA0000CE136.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IRMS"; Value = "1.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEHZA1K330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "80.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=Cin2(SM_RADIAL_10BMM)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EEHZA1K330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EEHZA1K330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cin_1(SM_RADIAL_10BMM)
+Add component (AddParameter): Name = "Cap"; Value = "3.3E-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "http://industrial.panasonic.com/www%2Ddata/pdf/ABA0000/ABA0000CE136.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IRMS"; Value = "1.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEHZA1K330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "80.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=Cin_2(SM_RADIAL_10BMM)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EEHZA1K330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EEHZA1K330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout1(CAPSMT_62_E61)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout2(CAPSMT_62_E61)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout_1(CAPSMT_62_E61)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout_2(CAPSMT_62_E61)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cslope1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10C221JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CL10C221JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cslope2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10C221JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CL10C221JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220pF"; VariantName = "[No Variations]"
+Added Component: Designator=Css1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C153J3GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0603C153J3GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15nF"; VariantName = "[No Variations]"
+Added Component: Designator=Css2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C153J3GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0603C153J3GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cvcc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cvcc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_0805)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 1.40mm x 1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "35mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.31, 10=0.225, 25=0.1656, 100=0.1183, 250=0.0804, 500=0.07096, 1000=0.05558 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "350441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1426-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Dominant"; Value = "571nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Peak"; Value = "574nm"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_0805)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 1.40mm x 1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "35mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.31, 10=0.225, 25=0.1656, 100=0.1183, 250=0.0804, 500=0.07096, 1000=0.05558 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "350441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1426-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Dominant"; Value = "571nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Peak"; Value = "574nm"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_0805)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 1.40mm x 1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "35mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.31, 10=0.225, 25=0.1656, 100=0.1183, 250=0.0804, 500=0.07096, 1000=0.05558 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "350441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1426-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Dominant"; Value = "571nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Peak"; Value = "574nm"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED_0805)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 1.40mm x 1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "35mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.31, 10=0.225, 25=0.1656, 100=0.1183, 250=0.0804, 500=0.07096, 1000=0.05558 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "350441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1426-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Dominant"; Value = "571nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Peak"; Value = "574nm"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED_0805)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 1.40mm x 1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "35mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.31, 10=0.225, 25=0.1656, 100=0.1183, 250=0.0804, 500=0.07096, 1000=0.05558 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "350441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1426-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Dominant"; Value = "571nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Peak"; Value = "574nm"; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED_0805)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 1.40mm x 1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "35mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.31, 10=0.225, 25=0.1656, 100=0.1183, 250=0.0804, 500=0.07096, 1000=0.05558 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "350441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1426-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Dominant"; Value = "571nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Peak"; Value = "574nm"; VariantName = "[No Variations]"
+Added Component: Designator=D7(LED_0805)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 1.40mm x 1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "35mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.31, 10=0.225, 25=0.1656, 100=0.1183, 250=0.0804, 500=0.07096, 1000=0.05558 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "350441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1426-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Dominant"; Value = "571nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Peak"; Value = "574nm"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED_0805)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 1.40mm x 1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "35mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.31, 10=0.225, 25=0.1656, 100=0.1183, 250=0.0804, 500=0.07096, 1000=0.05558 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "350441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1426-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Dominant"; Value = "571nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Peak"; Value = "574nm"; VariantName = "[No Variations]"
+Added Component: Designator=D9(SBRT15U50SP5-13)
+Add component (AddParameter): Name = "Capacitance @ Vr, F"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/SBRT15U50SP5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/SBRT15U50SP5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Average Rectified (Io)"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Super Barrier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SBRT15U50SP5-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature - Junction"; Value = "-65°C ~ 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "PowerDI™ 5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.93, 10=0.823, 100=0.6306, 500=0.49852, 1000=0.39882 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "12134"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "PowerDI®5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SBRT15U50SP5-13DICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Dboot2(SOD-123F)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CDBK0520L-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CDBK0520L-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "385mV"; VariantName = "[No Variations]"
+Added Component: Designator=Dboot4(SOD-123F)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CDBK0520L-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CDBK0520L-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "385mV"; VariantName = "[No Variations]"
+Added Component: Designator=F1(Fuse Holder 3588)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://keyelco.com/userAssets/file/M65p43.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-3588-ND"; VariantName = "[No Variations]"
+Added Component: Designator=F2(Fuse Holder 3588)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://keyelco.com/userAssets/file/M65p43.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-3588-ND"; VariantName = "[No Variations]"
+Added Component: Designator=F3(Fuse Holder 3588)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://keyelco.com/userAssets/file/M65p43.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-3588-ND"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SAMTEC_TSW-115-05-G-S
+Add Component: Footprint Not Found SAMTEC_TSW-115-05-G-S
+Added Component: Designator=L1(SRP1270)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SRP1270-3R3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SRP1270-3R3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3uH"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found BOURNS SRP5030T
+Add Component: Footprint Not Found BOURNS SRP5030T
+Added Component: Designator=L5(SRP1270)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SRP1270-3R3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SRP1270-3R3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3uH"; VariantName = "[No Variations]"
+Added Component: Designator=M1(TRANS_NexFET_Q5A)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=M2(TRANS_NexFET_Q5)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17303Q5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD17303Q5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=M3(TRANS_NexFET_Q5A)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=M4(DNK0008A)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17573Q5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD17573Q5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=M5(TRANS_NexFET_Q5A)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=M6(TRANS_NexFET_Q5)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17303Q5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD17303Q5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=M7(TRANS_NexFET_Q5A)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=M8(DNK0008A)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17573Q5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD17573Q5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=MH1(Mounting Hole #4-40)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://blogs.mentor.com/tom-hausherr/blog/tag/pcb-mounting-holes/"; VariantName = "[No Variations]"
+Added Component: Designator=MH2(Mounting Hole #4-40)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://blogs.mentor.com/tom-hausherr/blog/tag/pcb-mounting-holes/"; VariantName = "[No Variations]"
+Added Component: Designator=MH3(Mounting Hole #4-40)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://blogs.mentor.com/tom-hausherr/blog/tag/pcb-mounting-holes/"; VariantName = "[No Variations]"
+Added Component: Designator=MH4(Mounting Hole #4-40)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://blogs.mentor.com/tom-hausherr/blog/tag/pcb-mounting-holes/"; VariantName = "[No Variations]"
+Added Component: Designator=NT1(Net_Tie_80mil)
+Added Component: Designator=P1(MOLEX NANO-FIT 2X7 - Right Angle)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ProductDetail/Molex/105314-1214?qs=PqFvFmEiOr6wLIXpvlvqbA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105314-1214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105314-1214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105314-1214"; VariantName = "[No Variations]"
+Added Component: Designator=P2(MOLEX NANO-FIT 2X7 - Right Angle)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ProductDetail/Molex/105314-1214?qs=PqFvFmEiOr6wLIXpvlvqbA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105314-1214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105314-1214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105314-1214"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XT90
+Add Component: Footprint Not Found WSLP59312L000FEA
+Add Component: Footprint Not Found WSLP59312L000FEA
+Added Component: Designator=Rcsg1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=Rcsg2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=Rcsp1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=Rcsp2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=Rf1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0710RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=Rf2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0710RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=Rfbb1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Added Component: Designator=Rfbb2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Added Component: Designator=Rfbb?(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Added Component: Designator=Rfbt1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603280KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603280KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "280k"; VariantName = "[No Variations]"
+Added Component: Designator=Rfbt2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603280KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603280KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "280k"; VariantName = "[No Variations]"
+Added Component: Designator=Rmode1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0793K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0793K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "93.1k"; VariantName = "[No Variations]"
+Added Component: Designator=Rmode2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0793K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0793K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "93.1k"; VariantName = "[No Variations]"
+Added Component: Designator=Rpg1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=Rpg2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=Rsense1(4527)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WSR37L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WSR37L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "7m"; VariantName = "[No Variations]"
+Added Component: Designator=Rt1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040223K2FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040223K2FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "23.2k"; VariantName = "[No Variations]"
+Added Component: Designator=Rt2(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040223K2FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040223K2FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "23.2k"; VariantName = "[No Variations]"
+Added Component: Designator=Ruvb1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040271K5FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040271K5FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "71.5k"; VariantName = "[No Variations]"
+Added Component: Designator=Ruvb2(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040271K5FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040271K5FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "71.5k"; VariantName = "[No Variations]"
+Added Component: Designator=Ruvt1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0402249KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0402249KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "249k"; VariantName = "[No Variations]"
+Added Component: Designator=Ruvt2(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0402249KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0402249KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "249k"; VariantName = "[No Variations]"
+Added Component: Designator=Rvisns2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW06032K00FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW06032K00FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP9(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP10(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP11(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U2(DDA0008E_N)
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/ds/symlink/lmr23630-q1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmr23630-q1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Switching"; Value = "400kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Step-Down"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LMR23630AFQDDARQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC (0.154", 3.90mm Width) Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.97, 10=3.564, 100=2.9204, 500=2.48604, 1000=2.09667 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1636"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "8-SO PowerPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-45260-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Min)"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Max)"; Value = "28V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Min/Fixed)"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=U3(DDA0008E_N)
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/ds/symlink/lmr23630-q1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmr23630-q1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Switching"; Value = "400kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Step-Down"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LMR23630AFQDDARQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC (0.154", 3.90mm Width) Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.97, 10=3.564, 100=2.9204, 500=2.48604, 1000=2.09667 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1636"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "8-SO PowerPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-45260-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Min)"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Max)"; Value = "28V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Min/Fixed)"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=U4(DDA0008E_N)
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/ds/symlink/lmr23630-q1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmr23630-q1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Switching"; Value = "400kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Step-Down"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LMR23630AFQDDARQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC (0.154", 3.90mm Width) Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.97, 10=3.564, 100=2.9204, 500=2.48604, 1000=2.09667 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1636"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "8-SO PowerPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-45260-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Min)"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Max)"; Value = "28V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Min/Fixed)"; Value = "1V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCbias1_1 Pin=Cbias1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cbias1-2
+Added Pin To Net: NetName=NetCbias2_1 Pin=Cbias2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cbias2-2
+Added Pin To Net: NetName=NetCboot1_1 Pin=Cboot1-1
+Added Pin To Net: NetName=26_0 Pin=Cboot1-2
+Added Pin To Net: NetName=NetCboot2_1 Pin=Cboot2-1
+Added Pin To Net: NetName=11_0 Pin=Cboot2-2
+Added Pin To Net: NetName=NetCboot3_1 Pin=Cboot3-1
+Added Pin To Net: NetName=26 Pin=Cboot3-2
+Added Pin To Net: NetName=NetCboot4_1 Pin=Cboot4-1
+Added Pin To Net: NetName=11 Pin=Cboot4-2
+Added Pin To Net: NetName=VBATT Pin=Cbulk1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cbulk1-2
+Added Pin To Net: NetName=VBATT Pin=Cbulk2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cbulk2-2
+Added Pin To Net: NetName=VBATT Pin=Cbulk_1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cbulk_1-2
+Added Pin To Net: NetName=VBATT Pin=Cbulk_2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cbulk_2-2
+Added Pin To Net: NetName=VBATT Pin=Cbulk_3-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cbulk_3-2
+Added Pin To Net: NetName=VBATT Pin=Cbulk_4-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cbulk_4-2
+Added Pin To Net: NetName=VBATT Pin=Cbulk_5-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cbulk_5-2
+Added Pin To Net: NetName=VBATT Pin=Cbulk_6-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cbulk_6-2
+Added Pin To Net: NetName=VBATT Pin=Cbulk_7-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cbulk_7-2
+Added Pin To Net: NetName=VBATT Pin=Cbulk_8-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cbulk_8-2
+Add Pin To Net: Unknown Pin: Pin Ccomp1-1
+Add Pin To Net: Unknown Pin: Pin Ccomp1-2
+Add Pin To Net: Unknown Pin: Pin Ccomp2-1
+Add Pin To Net: Unknown Pin: Pin Ccomp2-2
+Add Pin To Net: Unknown Pin: Pin Ccomp3-1
+Add Pin To Net: Unknown Pin: Pin Ccomp3-2
+Add Pin To Net: Unknown Pin: Pin Ccomp4-1
+Add Pin To Net: Unknown Pin: Pin Ccomp4-2
+Add Pin To Net: Unknown Pin: Pin Ccomp_1-1
+Add Pin To Net: Unknown Pin: Pin Ccomp_1-2
+Add Pin To Net: Unknown Pin: Pin Ccomp_2-1
+Add Pin To Net: Unknown Pin: Pin Ccomp_2-2
+Added Pin To Net: NetName=NetCcs1_1 Pin=Ccs1-1
+Added Pin To Net: NetName=NetCcs1_2 Pin=Ccs1-2
+Added Pin To Net: NetName=NetCcs2_1 Pin=Ccs2-1
+Added Pin To Net: NetName=NetCcs2_2 Pin=Ccs2-2
+Add Pin To Net: Unknown Pin: Pin Cf1-1
+Add Pin To Net: Unknown Pin: Pin Cf1-2
+Add Pin To Net: Unknown Pin: Pin Cf2-1
+Add Pin To Net: Unknown Pin: Pin Cf2-2
+Added Pin To Net: NetName=VBATT Pin=Cin1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cin1-2
+Added Pin To Net: NetName=VBATT Pin=Cin2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cin2-2
+Added Pin To Net: NetName=VBATT Pin=Cin_1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cin_1-2
+Added Pin To Net: NetName=VBATT Pin=Cin_2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cin_2-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Cout1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cout1-2
+Added Pin To Net: NetName=Ard_VIN Pin=Cout2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cout2-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Cout_1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cout_1-2
+Added Pin To Net: NetName=Ard_VIN Pin=Cout_2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cout_2-2
+Add Pin To Net: Unknown Pin: Pin Coutx1-1
+Add Pin To Net: Unknown Pin: Pin Coutx1-2
+Add Pin To Net: Unknown Pin: Pin Coutx2-1
+Add Pin To Net: Unknown Pin: Pin Coutx2-2
+Add Pin To Net: Unknown Pin: Pin Coutx3-1
+Add Pin To Net: Unknown Pin: Pin Coutx3-2
+Add Pin To Net: Unknown Pin: Pin Coutx4-1
+Add Pin To Net: Unknown Pin: Pin Coutx4-2
+Add Pin To Net: Unknown Pin: Pin Coutx5-1
+Add Pin To Net: Unknown Pin: Pin Coutx5-2
+Add Pin To Net: Unknown Pin: Pin Coutx6-1
+Add Pin To Net: Unknown Pin: Pin Coutx6-2
+Added Pin To Net: NetName=NetCslope1_1 Pin=Cslope1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cslope1-2
+Added Pin To Net: NetName=NetCslope2_1 Pin=Cslope2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cslope2-2
+Added Pin To Net: NetName=NetCss1_1 Pin=Css1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Css1-2
+Added Pin To Net: NetName=NetCss2_1 Pin=Css2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Css2-2
+Added Pin To Net: NetName=NetCvcc1_1 Pin=Cvcc1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cvcc1-2
+Added Pin To Net: NetName=NetCvcc2_1 Pin=Cvcc2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Cvcc2-2
+Added Pin To Net: NetName=Ard_AREF Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=Ard_AREF Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=Ard_AREF Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=Ard_AREF Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=Ard_AREF Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=Ard_AREF Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=Ard_AREF Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=Ard_AREF Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=VBAT Pin=D9-1
+Added Pin To Net: NetName=VBAT Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Add Pin To Net: Unknown Pin: Pin Dboot1-1
+Add Pin To Net: Unknown Pin: Pin Dboot1-2
+Added Pin To Net: NetName=NetCboot2_1 Pin=Dboot2-1
+Added Pin To Net: NetName=NetCvcc1_1 Pin=Dboot2-2
+Add Pin To Net: Unknown Pin: Pin Dboot3-1
+Add Pin To Net: Unknown Pin: Pin Dboot3-2
+Added Pin To Net: NetName=NetCboot4_1 Pin=Dboot4-1
+Added Pin To Net: NetName=NetCvcc2_1 Pin=Dboot4-2
+Add Pin To Net: Unknown Pin: Pin Df1-1
+Add Pin To Net: Unknown Pin: Pin Df1-2
+Add Pin To Net: Unknown Pin: Pin Df2-1
+Add Pin To Net: Unknown Pin: Pin Df2-2
+Added Pin To Net: NetName=NetC4_2 Pin=F1-1
+Added Pin To Net: NetName=NetC4_2 Pin=F1-1
+Added Pin To Net: NetName=V3P3 Pin=F1-2
+Added Pin To Net: NetName=V3P3 Pin=F1-2
+Added Pin To Net: NetName=NetC14_2 Pin=F2-1
+Added Pin To Net: NetName=NetC14_2 Pin=F2-1
+Added Pin To Net: NetName=V5P0_Servo Pin=F2-2
+Added Pin To Net: NetName=V5P0_Servo Pin=F2-2
+Added Pin To Net: NetName=NetC15_2 Pin=F3-1
+Added Pin To Net: NetName=NetC15_2 Pin=F3-1
+Added Pin To Net: NetName=V5P0 Pin=F3-2
+Added Pin To Net: NetName=V5P0 Pin=F3-2
+Add Pin To Net: Unknown Pin: Pin J1-01
+Add Pin To Net: Unknown Pin: Pin J1-02
+Add Pin To Net: Unknown Pin: Pin J1-03
+Add Pin To Net: Unknown Pin: Pin J1-04
+Add Pin To Net: Unknown Pin: Pin J1-05
+Add Pin To Net: Unknown Pin: Pin J1-06
+Add Pin To Net: Unknown Pin: Pin J1-07
+Add Pin To Net: Unknown Pin: Pin J1-08
+Add Pin To Net: Unknown Pin: Pin J1-09
+Add Pin To Net: Unknown Pin: Pin J1-10
+Add Pin To Net: Unknown Pin: Pin J1-11
+Add Pin To Net: Unknown Pin: Pin J1-12
+Add Pin To Net: Unknown Pin: Pin J1-13
+Add Pin To Net: Unknown Pin: Pin J1-14
+Add Pin To Net: Unknown Pin: Pin J1-15
+Add Pin To Net: Unknown Pin: Pin J-01
+Add Pin To Net: Unknown Pin: Pin J-02
+Add Pin To Net: Unknown Pin: Pin J-03
+Add Pin To Net: Unknown Pin: Pin J-04
+Add Pin To Net: Unknown Pin: Pin J-05
+Add Pin To Net: Unknown Pin: Pin J-06
+Add Pin To Net: Unknown Pin: Pin J-07
+Add Pin To Net: Unknown Pin: Pin J-08
+Add Pin To Net: Unknown Pin: Pin J-09
+Add Pin To Net: Unknown Pin: Pin J-10
+Add Pin To Net: Unknown Pin: Pin J-11
+Add Pin To Net: Unknown Pin: Pin J-12
+Add Pin To Net: Unknown Pin: Pin J-13
+Add Pin To Net: Unknown Pin: Pin J-14
+Add Pin To Net: Unknown Pin: Pin J-15
+Added Pin To Net: NetName=26_0 Pin=L1-1
+Added Pin To Net: NetName=11_0 Pin=L1-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Added Pin To Net: NetName=26 Pin=L5-1
+Added Pin To Net: NetName=11 Pin=L5-2
+Added Pin To Net: NetName=26_0 Pin=M1-1
+Added Pin To Net: NetName=26_0 Pin=M1-2
+Added Pin To Net: NetName=26_0 Pin=M1-3
+Added Pin To Net: NetName=33_0 Pin=M1-4
+Added Pin To Net: NetName=VBATT Pin=M1-5
+Added Pin To Net: NetName=VBATT Pin=M1-6
+Added Pin To Net: NetName=VBATT Pin=M1-7
+Added Pin To Net: NetName=VBATT Pin=M1-8
+Added Pin To Net: NetName=VBATT Pin=M1-9
+Added Pin To Net: NetName=11_0 Pin=M2-1
+Added Pin To Net: NetName=11_0 Pin=M2-2
+Added Pin To Net: NetName=11_0 Pin=M2-3
+Added Pin To Net: NetName=34_0 Pin=M2-4
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2-5
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2-6
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2-7
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2-8
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2-9
+Added Pin To Net: NetName=15_0 Pin=M3-1
+Added Pin To Net: NetName=15_0 Pin=M3-2
+Added Pin To Net: NetName=15_0 Pin=M3-3
+Added Pin To Net: NetName=32_0 Pin=M3-4
+Added Pin To Net: NetName=26_0 Pin=M3-5
+Added Pin To Net: NetName=26_0 Pin=M3-6
+Added Pin To Net: NetName=26_0 Pin=M3-7
+Added Pin To Net: NetName=26_0 Pin=M3-8
+Added Pin To Net: NetName=26_0 Pin=M3-9
+Added Pin To Net: NetName=15_0 Pin=M4-1
+Added Pin To Net: NetName=15_0 Pin=M4-2
+Added Pin To Net: NetName=15_0 Pin=M4-3
+Added Pin To Net: NetName=27_0 Pin=M4-4
+Added Pin To Net: NetName=11_0 Pin=M4-5
+Added Pin To Net: NetName=11_0 Pin=M4-6
+Added Pin To Net: NetName=11_0 Pin=M4-7
+Added Pin To Net: NetName=11_0 Pin=M4-8
+Added Pin To Net: NetName=11_0 Pin=M4-9
+Added Pin To Net: NetName=26 Pin=M5-1
+Added Pin To Net: NetName=26 Pin=M5-2
+Added Pin To Net: NetName=26 Pin=M5-3
+Added Pin To Net: NetName=33 Pin=M5-4
+Added Pin To Net: NetName=VBATT Pin=M5-5
+Added Pin To Net: NetName=VBATT Pin=M5-6
+Added Pin To Net: NetName=VBATT Pin=M5-7
+Added Pin To Net: NetName=VBATT Pin=M5-8
+Added Pin To Net: NetName=VBATT Pin=M5-9
+Added Pin To Net: NetName=11 Pin=M6-1
+Added Pin To Net: NetName=11 Pin=M6-2
+Added Pin To Net: NetName=11 Pin=M6-3
+Added Pin To Net: NetName=34 Pin=M6-4
+Added Pin To Net: NetName=Ard_VIN Pin=M6-5
+Added Pin To Net: NetName=Ard_VIN Pin=M6-6
+Added Pin To Net: NetName=Ard_VIN Pin=M6-7
+Added Pin To Net: NetName=Ard_VIN Pin=M6-8
+Added Pin To Net: NetName=Ard_VIN Pin=M6-9
+Added Pin To Net: NetName=15 Pin=M7-1
+Added Pin To Net: NetName=15 Pin=M7-2
+Added Pin To Net: NetName=15 Pin=M7-3
+Added Pin To Net: NetName=32 Pin=M7-4
+Added Pin To Net: NetName=26 Pin=M7-5
+Added Pin To Net: NetName=26 Pin=M7-6
+Added Pin To Net: NetName=26 Pin=M7-7
+Added Pin To Net: NetName=26 Pin=M7-8
+Added Pin To Net: NetName=26 Pin=M7-9
+Added Pin To Net: NetName=15 Pin=M8-1
+Added Pin To Net: NetName=15 Pin=M8-2
+Added Pin To Net: NetName=15 Pin=M8-3
+Added Pin To Net: NetName=27 Pin=M8-4
+Added Pin To Net: NetName=11 Pin=M8-5
+Added Pin To Net: NetName=11 Pin=M8-6
+Added Pin To Net: NetName=11 Pin=M8-7
+Added Pin To Net: NetName=11 Pin=M8-8
+Added Pin To Net: NetName=11 Pin=M8-9
+Added Pin To Net: NetName=Ard_AREF Pin=MH1-0
+Added Pin To Net: NetName=Ard_AREF Pin=MH2-0
+Added Pin To Net: NetName=Ard_AREF Pin=MH3-0
+Added Pin To Net: NetName=Ard_AREF Pin=MH4-0
+Added Pin To Net: NetName=Ard_AREF Pin=NT1-1
+Added Pin To Net: NetName=RSENSE+ Pin=NT1-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=P1-1
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=P1-2
+Added Pin To Net: NetName=V3P3 Pin=P1-3
+Added Pin To Net: NetName=V3P3 Pin=P1-4
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=Ard_A5/SCL Pin=P1-6
+Added Pin To Net: NetName=Ard_AREF Pin=P1-7
+Added Pin To Net: NetName=Ard_AREF Pin=P1-8
+Added Pin To Net: NetName=Ard_AREF Pin=P1-9
+Added Pin To Net: NetName=NetP1_10 Pin=P1-10
+Added Pin To Net: NetName=NetP1_11 Pin=P1-11
+Added Pin To Net: NetName=Ard_AREF Pin=P1-12
+Added Pin To Net: NetName=Ard_A4/SDA Pin=P1-13
+Added Pin To Net: NetName=Ard_AREF Pin=P1-14
+Added Pin To Net: NetName=Ard_VIN Pin=P2-1
+Added Pin To Net: NetName=Ard_VIN Pin=P2-2
+Added Pin To Net: NetName=V5P0 Pin=P2-3
+Added Pin To Net: NetName=V5P0 Pin=P2-4
+Added Pin To Net: NetName=V5P0_Servo Pin=P2-5
+Added Pin To Net: NetName=V12P0_Jetson Pin=P2-6
+Added Pin To Net: NetName=V3P3 Pin=P2-7
+Added Pin To Net: NetName=Ard_AREF Pin=P2-8
+Added Pin To Net: NetName=Ard_AREF Pin=P2-9
+Added Pin To Net: NetName=Ard_AREF Pin=P2-10
+Added Pin To Net: NetName=Ard_AREF Pin=P2-11
+Added Pin To Net: NetName=Ard_AREF Pin=P2-12
+Added Pin To Net: NetName=Ard_AREF Pin=P2-13
+Added Pin To Net: NetName=Ard_AREF Pin=P2-14
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin Rcomp1-1
+Add Pin To Net: Unknown Pin: Pin Rcomp1-2
+Add Pin To Net: Unknown Pin: Pin Rcomp2-1
+Add Pin To Net: Unknown Pin: Pin Rcomp2-2
+Added Pin To Net: NetName=NetCcs1_2 Pin=Rcsg1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rcsg1-2
+Added Pin To Net: NetName=NetCcs2_2 Pin=Rcsg2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rcsg2-2
+Added Pin To Net: NetName=NetCcs1_1 Pin=Rcsp1-1
+Added Pin To Net: NetName=15_0 Pin=Rcsp1-2
+Added Pin To Net: NetName=NetCcs2_1 Pin=Rcsp2-1
+Added Pin To Net: NetName=15 Pin=Rcsp2-2
+Added Pin To Net: NetName=NetDf1_1 Pin=Rf1-1
+Added Pin To Net: NetName=NetCf1_1 Pin=Rf1-2
+Added Pin To Net: NetName=NetDf2_1 Pin=Rf2-1
+Added Pin To Net: NetName=NetCf2_1 Pin=Rf2-2
+Added Pin To Net: NetName=NetRfbb1_1 Pin=Rfbb1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rfbb1-2
+Added Pin To Net: NetName=NetRfbb2_1 Pin=Rfbb2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rfbb2-2
+Added Pin To Net: NetName=NetRfbb2_1 Pin=Rfbb?-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rfbb?-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Rfbt1-1
+Added Pin To Net: NetName=NetRfbb1_1 Pin=Rfbt1-2
+Added Pin To Net: NetName=Ard_VIN Pin=Rfbt2-1
+Added Pin To Net: NetName=NetRfbb2_1 Pin=Rfbt2-2
+Added Pin To Net: NetName=NetRmode1_1 Pin=Rmode1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rmode1-2
+Added Pin To Net: NetName=NetRmode2_1 Pin=Rmode2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rmode2-2
+Added Pin To Net: NetName=NetCvcc1_1 Pin=Rpg1-1
+Added Pin To Net: NetName=NetRpg1_2 Pin=Rpg1-2
+Added Pin To Net: NetName=NetCvcc2_1 Pin=Rpg2-1
+Added Pin To Net: NetName=NetRpg2_2 Pin=Rpg2-2
+Added Pin To Net: NetName=15_0 Pin=Rsense1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rsense1-2
+Add Pin To Net: Unknown Pin: Pin Rsense2-1
+Add Pin To Net: Unknown Pin: Pin Rsense2-2
+Added Pin To Net: NetName=NetRt1_1 Pin=Rt1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rt1-2
+Added Pin To Net: NetName=NetRt2_1 Pin=Rt2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rt2-2
+Added Pin To Net: NetName=NetRuvb1_1 Pin=Ruvb1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Ruvb1-2
+Added Pin To Net: NetName=NetRuvb2_1 Pin=Ruvb2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Ruvb2-2
+Added Pin To Net: NetName=VBATT Pin=Ruvt1-1
+Added Pin To Net: NetName=NetRuvb1_1 Pin=Ruvt1-2
+Added Pin To Net: NetName=VBATT Pin=Ruvt2-1
+Added Pin To Net: NetName=NetRuvb2_1 Pin=Ruvt2-2
+Add Pin To Net: Unknown Pin: Pin Rvisns1-1
+Add Pin To Net: Unknown Pin: Pin Rvisns1-2
+Added Pin To Net: NetName=NetRvisns2_1 Pin=Rvisns2-1
+Added Pin To Net: NetName=VBATT Pin=Rvisns2-2
+Added Pin To Net: NetName=Ard_AREF Pin=TP1-1
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=TP2-1
+Added Pin To Net: NetName=Ard_AREF Pin=TP3-1
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=TP4-1
+Added Pin To Net: NetName=V12P0_Jetson Pin=TP5-1
+Added Pin To Net: NetName=Ard_VIN Pin=TP6-1
+Added Pin To Net: NetName=Ard_A5/SCL Pin=TP7-1
+Added Pin To Net: NetName=Ard_A4/SDA Pin=TP8-1
+Added Pin To Net: NetName=V5P0 Pin=TP9-1
+Added Pin To Net: NetName=V5P0_Servo Pin=TP10-1
+Added Pin To Net: NetName=V3P3 Pin=TP11-1
+Added Pin To Net: NetName=NetC1_1 Pin=U2-1
+Added Pin To Net: NetName=NetC1_2 Pin=U2-2
+Added Pin To Net: NetName=NetC7_2 Pin=U2-3
+Added Pin To Net: NetName=NetC4_1 Pin=U2-4
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=U2-5
+Added Pin To Net: NetName=Ard_AREF Pin=U2-6
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=U2-7
+Added Pin To Net: NetName=Ard_AREF Pin=U2-8
+Added Pin To Net: NetName=Ard_AREF Pin=U2-9
+Added Pin To Net: NetName=NetC8_1 Pin=U3-1
+Added Pin To Net: NetName=NetC8_2 Pin=U3-2
+Added Pin To Net: NetName=NetC20_2 Pin=U3-3
+Added Pin To Net: NetName=NetC14_1 Pin=U3-4
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=U3-5
+Added Pin To Net: NetName=Ard_AREF Pin=U3-6
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=U3-7
+Added Pin To Net: NetName=Ard_AREF Pin=U3-8
+Added Pin To Net: NetName=Ard_AREF Pin=U3-9
+Added Pin To Net: NetName=NetC9_1 Pin=U4-1
+Added Pin To Net: NetName=NetC9_2 Pin=U4-2
+Added Pin To Net: NetName=NetC21_2 Pin=U4-3
+Added Pin To Net: NetName=NetC15_1 Pin=U4-4
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=U4-5
+Added Pin To Net: NetName=Ard_AREF Pin=U4-6
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=U4-7
+Added Pin To Net: NetName=Ard_AREF Pin=U4-8
+Added Pin To Net: NetName=Ard_AREF Pin=U4-9
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cbias1 08053C104KAT2A
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cbias2 08053C104KAT2A
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cboot1 06033C104KAT2A
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cboot2 06033C104KAT2A
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cboot3 06033C104KAT2A
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cboot4 06033C104KAT2A
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cbulk1 100SXV15M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cbulk2 100SXV15M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cbulk_1 100SXV15M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cbulk_2 100SXV15M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cbulk_3 100SXV15M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cbulk_4 100SXV15M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cbulk_5 100SXV15M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cbulk_6 100SXV15M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cbulk_7 100SXV15M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cbulk_8 100SXV15M
+Add Class Member: Failed to add class member : Component Ccomp1 C0805C181K5GACTU
+Add Class Member: Failed to add class member : Component Ccomp2 CGA2B3X7R1H103K050BB
+Add Class Member: Failed to add class member : Component Ccomp3 C0805C181K5GACTU
+Add Class Member: Failed to add class member : Component Ccomp4 CGA2B3X7R1H103K050BB
+Add Class Member: Failed to add class member : Component Ccomp_1 CGA2B3X7R1H103K050BB
+Add Class Member: Failed to add class member : Component Ccomp_2 CGA2B3X7R1H103K050BB
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Ccs1 06035A470JAT2A
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Ccs2 06035A470JAT2A
+Add Class Member: Failed to add class member : Component Cf1 CGA3E2X7R1H104K080AA
+Add Class Member: Failed to add class member : Component Cf2 CGA3E2X7R1H104K080AA
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cin1 EEHZA1K330P
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cin2
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cin_1 EEHZA1K330P
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cin_2 EEHZA1K330P
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cout1 16SVPF82M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cout2 16SVPF82M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cout_1 16SVPF82M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cout_2 16SVPF82M
+Add Class Member: Failed to add class member : Component Coutx1 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx2 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx3 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx4 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx5 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx6 C2012X5R1V226M125AC
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cslope1 CL10C221JB8NNNC
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cslope2 CL10C221JB8NNNC
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Css1 C0603C153J3GACTU
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Css2 C0603C153J3GACTU
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cvcc1 EMK107B7105KA-T
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Cvcc2 EMK107B7105KA-T
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component D1 LED GREEN
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component D2 LED GREEN
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component D3 LED GREEN
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component D4 LED GREEN
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component D5 LED GREEN
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component D6 LED GREEN
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component D7 LED GREEN
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component D8 LED GREEN
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component D9 SBRT15U50SP5-13
+Add Class Member: Failed to add class member : Component Dboot1 GENERIC_DIODE
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Dboot2 CDBK0520L-HF
+Add Class Member: Failed to add class member : Component Dboot3 GENERIC_DIODE
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Dboot4 CDBK0520L-HF
+Add Class Member: Failed to add class member : Component Df1 GENERIC_DIODE
+Add Class Member: Failed to add class member : Component Df2 GENERIC_DIODE
+Added Member To Class: ClassName=Sht3-Regulators Member=Component F1 Fuse Holder 3588
+Added Member To Class: ClassName=Sht3-Regulators Member=Component F2 Fuse Holder 3588
+Added Member To Class: ClassName=Sht3-Regulators Member=Component F3 Fuse Holder 3588
+Add Class Member: Failed to add class member : Component J1 TSW-115-05-G-S
+Add Class Member: Failed to add class member : Component J TSW-115-05-G-S
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component L1 SRP1270-3R3M
+Add Class Member: Failed to add class member : Component L3 SRP6540-8R2M
+Add Class Member: Failed to add class member : Component L4 SRP6540-8R2M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component L5 SRP1270-3R3M
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component M1 CSD19534Q5A
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component M2 CSD17303Q5
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component M3 CSD19534Q5A
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component M4 CSD17573Q5B
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component M5 CSD19534Q5A
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component M6 CSD17303Q5
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component M7 CSD19534Q5A
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component M8 CSD17573Q5B
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component MH1 #4-40
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component MH2 #4-40
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component MH3 #4-40
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component MH4 #4-40
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component NT1 Net Tie
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component P1 14-Pin 2-Row Nano-Fit Right Angle
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component P2 14-Pin 2-Row Nano-Fit Right Angle
+Add Class Member: Failed to add class member : Component P3 XT90
+Add Class Member: Failed to add class member : Component R17 WSLP59312 2mR 8W
+Add Class Member: Failed to add class member : Component R18 WSLP59312 2mR 8W
+Add Class Member: Failed to add class member : Component Rcomp1 CRCW040212K7FKED
+Add Class Member: Failed to add class member : Component Rcomp2 CRCW040212K7FKED
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rcsg1 CRCW0603100RFKEA
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rcsg2 CRCW0603100RFKEA
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rcsp1 CRCW0603100RFKEA
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rcsp2 CRCW0603100RFKEA
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rf1 RC0603FR-0710RL
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rf2 RC0603FR-0710RL
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rfbb1 RC0603FR-0720KL
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rfbb2 RC0603FR-0720KL
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rfbb? RC0603FR-0720KL
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rfbt1 CRCW0603280KFKEA
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rfbt2 CRCW0603280KFKEA
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rmode1 RC0603FR-0793K1L
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rmode2 RC0603FR-0793K1L
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rpg1 RC0603FR-0710KL
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rpg2 RC0603FR-0710KL
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rsense1 WSR37L000FEA
+Add Class Member: Failed to add class member : Component Rsense2 WSR37L000FEA
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rt1 CRCW040223K2FKED
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rt2 CRCW040223K2FKED
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Ruvb1 CRCW040271K5FKED
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Ruvb2 CRCW040271K5FKED
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Ruvt1 CRCW0402249KFKED
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Ruvt2 CRCW0402249KFKED
+Add Class Member: Failed to add class member : Component Rvisns1 CRCW06032K00FKEA
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rvisns2 CRCW06032K00FKEA
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component TP1 Test Point Loop
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component TP2 Test Point Loop
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component TP3 Test Point Loop
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component TP4 Test Point Loop
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component TP5 Test Point Loop
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component TP6 Test Point Loop
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component TP7 Test Point Loop
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component TP8 Test Point Loop
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component TP9 Test Point Loop
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component TP10 Test Point Loop
+Added Member To Class: ClassName=Sht4-Interfaces Member=Component TP11 Test Point Loop
+Added Member To Class: ClassName=Sht3-Regulators Member=Component U2 LMR23630-Q1
+Added Member To Class: ClassName=Sht3-Regulators Member=Component U3 LMR23630-Q1
+Added Member To Class: ClassName=Sht3-Regulators Member=Component U4 LMR23630-Q1
