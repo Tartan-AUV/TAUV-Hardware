@@ -94,9 +94,9 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
-GenerateClassCluster=0
+GenerateClassCluster=1
 DocumentUniqueId=ZYVFSURZ
 
 [Document4]
@@ -1072,7 +1072,7 @@ GlobalIndexSortLocation=0
 CompClassManualEnabled=0
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
-NetClassAutoCompEnabled=0
+NetClassAutoCompEnabled=1
 NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
