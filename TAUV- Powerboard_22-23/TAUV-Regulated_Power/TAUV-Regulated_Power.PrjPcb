@@ -100,6 +100,23 @@ GenerateClassCluster=1
 DocumentUniqueId=ZYVFSURZ
 
 [Document4]
+DocumentPath=Sht5-V12P0_Jetson.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LLERAQBO
+
+[Document5]
 DocumentPath=Sht4-Interfaces.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNLDVUPW
 
-[Document5]
+[Document6]
 DocumentPath=TAUV-Regulated_Power_board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
