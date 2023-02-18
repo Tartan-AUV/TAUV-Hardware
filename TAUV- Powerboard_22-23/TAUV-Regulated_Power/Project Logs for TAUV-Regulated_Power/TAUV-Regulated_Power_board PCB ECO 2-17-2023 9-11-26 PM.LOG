@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=Cout2_Nets Member=Ard_VIN
+Removed Member From Class: ClassName=Cout_2_Nets Member=Ard_VIN
+Removed Member From Class: ClassName=Coutx4_Nets Member=Ard_VIN
+Removed Member From Class: ClassName=Coutx5_Nets Member=Ard_VIN
+Removed Member From Class: ClassName=Coutx6_Nets Member=Ard_VIN
+Removed Member From Class: ClassName=J_Nets Member=Ard_VIN
+Removed Member From Class: ClassName=M6_Nets Member=Ard_VIN
+Removed Member From Class: ClassName=P2_Nets Member=Ard_VIN
+Removed Member From Class: ClassName=R11_Nets Member=Ard_VIN
+Removed Member From Class: ClassName=Rfbt2_Nets Member=Ard_VIN
+Removed Member From Class: ClassName=TP6_Nets Member=Ard_VIN
+Removed Member From Class: ClassName=U5_Nets Member=Ard_VIN
+Change Net Name : Old Net Name=Ard_VIN New Net Name=V12P0
+Added Member To Class: ClassName=Cout2_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Cout_2_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Coutx4_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Coutx5_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Coutx6_Nets Member=Wire V12P0
+Added Member To Class: ClassName=J_Nets Member=Wire V12P0
+Added Member To Class: ClassName=M6_Nets Member=Wire V12P0
+Added Member To Class: ClassName=P2_Nets Member=Wire V12P0
+Added Member To Class: ClassName=R11_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Rfbt2_Nets Member=Wire V12P0
+Added Member To Class: ClassName=TP6_Nets Member=Wire V12P0
+Added Member To Class: ClassName=U5_Nets Member=Wire V12P0
