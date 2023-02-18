@@ -1,6 +1,7 @@
-Record=TopLevelDocument|FileName=Main.SchDoc
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=H0|SchDesignator=H0|FileName=Hydrophone.SchDoc|SymbolType=Normal|RawFileName=Hydrophone.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=H1|SchDesignator=H1|FileName=Hydrophone.SchDoc|SymbolType=Normal|RawFileName=Hydrophone.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=H2|SchDesignator=H2|FileName=Hydrophone.SchDoc|SymbolType=Normal|RawFileName=Hydrophone.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=H3|SchDesignator=H3|FileName=Hydrophone.SchDoc|SymbolType=Normal|RawFileName=Hydrophone.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_adc|SchDesignator=U_adc|FileName=adc.SchDoc|SymbolType=Normal|RawFileName=adc.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=H0|SchDesignator=H0|FileName=Hydrophone.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Hydrophone.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=H1|SchDesignator=H1|FileName=Hydrophone.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Hydrophone.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=H2|SchDesignator=H2|FileName=Hydrophone.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Hydrophone.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=H3|SchDesignator=H3|FileName=Hydrophone.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Hydrophone.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_adc|SchDesignator=U_adc|FileName=adc.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=adc.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=power.SchDoc|SheetNumber= 

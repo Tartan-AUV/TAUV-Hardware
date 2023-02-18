@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=L2 Old Footprint=2029 New Footprint=WE-PD2-L
+Change Component Comment : Designator=L2 Old Comment=Inductor New Comment=390uH 1.77Ohm
+Change Managed Component Library Link : Designator=L2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=36484AA3-A474-469E-9502-1C33F54F5AD8 Old RevisionGUID= New RevisionGUID=5FBB9461-7903-40F9-A260-7379EEA4D769
+Change component parameters: Designator = "L2" ("L2"); Footprint = "2029"; UniqueID = "\BMXGEPJI" ("\BMXGEPJI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/744775239.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "ver 1, Oct-2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "390 µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "SMD Inductor, 2-Leads, Body 7.8 x 7.0 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "WE-PD2-L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "2004"; VariantName = "[No Variations]"

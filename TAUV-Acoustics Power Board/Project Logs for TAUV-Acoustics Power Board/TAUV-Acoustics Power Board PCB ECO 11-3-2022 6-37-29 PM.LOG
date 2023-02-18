@@ -1,0 +1,10 @@
+Added Component: Designator=J2(CON_1053131303)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1053131303"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetCout3_2 Pin=J2-2
+Added Pin To Net: NetName=NetC2_2 Pin=J2-3
+Added Member To Class: ClassName=Main Member=Component J2 1053131303
