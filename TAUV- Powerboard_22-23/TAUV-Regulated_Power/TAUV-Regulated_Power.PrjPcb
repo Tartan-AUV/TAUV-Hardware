@@ -66,30 +66,13 @@ GenerateClassCluster=0
 DocumentUniqueId=RRSUQNVF
 
 [Document2]
-DocumentPath=Sht2-V12P0.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XBYJWKWU
-
-[Document3]
 DocumentPath=Sht3-Regulators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -99,14 +82,14 @@ DItemRevisionGUID=
 GenerateClassCluster=1
 DocumentUniqueId=ZYVFSURZ
 
-[Document4]
-DocumentPath=Sht5-V12P0_Jetson.SchDoc
+[Document3]
+DocumentPath=Sht12-V12P0_reg.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -116,14 +99,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LLERAQBO
 
-[Document5]
+[Document4]
 DocumentPath=Sht4-Interfaces.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNLDVUPW
 
-[Document6]
+[Document5]
 DocumentPath=TAUV-Regulated_Power_board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
