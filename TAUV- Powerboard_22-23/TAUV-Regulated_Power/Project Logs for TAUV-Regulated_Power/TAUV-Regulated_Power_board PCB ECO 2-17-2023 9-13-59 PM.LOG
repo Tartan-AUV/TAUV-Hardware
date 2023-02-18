@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=NT1-1
+Removed Pin From Net: NetName=GND Pin=R17-2
+Removed Pin From Net: NetName=GND Pin=R18-2
+Removed Member From Class: ClassName=Sht4-Interfaces Member=NT1
+Removed Member From Class: ClassName=Sht4-Interfaces Member=R17
+Removed Member From Class: ClassName=Sht4-Interfaces Member=R18
+Removed Member From Class: ClassName=P3_Nets Member=RSENSE-
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Member To Class: ClassName=P3_Nets Member=Wire GND
