@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=V12P0 Pin=Cout1_2-1
+Removed Pin From Net: NetName=V12P0 Pin=Cout_1_2-1
+Removed Pin From Net: NetName=V12P0 Pin=Coutx1_2-1
+Removed Pin From Net: NetName=V12P0 Pin=Coutx2_2-1
+Removed Pin From Net: NetName=V12P0 Pin=Coutx3_2-1
+Removed Pin From Net: NetName=V12P0 Pin=J-15
+Removed Pin From Net: NetName=V12P0 Pin=M2_2-5
+Removed Pin From Net: NetName=V12P0 Pin=M2_2-6
+Removed Pin From Net: NetName=V12P0 Pin=M2_2-7
+Removed Pin From Net: NetName=V12P0 Pin=M2_2-8
+Removed Pin From Net: NetName=V12P0 Pin=M2_2-9
+Removed Pin From Net: NetName=V12P0 Pin=P2-1
+Removed Pin From Net: NetName=V12P0 Pin=P2-2
+Removed Pin From Net: NetName=V12P0 Pin=P2-6
+Removed Pin From Net: NetName=V12P0 Pin=R11-2
+Removed Pin From Net: NetName=V12P0 Pin=Rfbt1_2-1
+Removed Pin From Net: NetName=V12P0 Pin=TP6-1
+Removed Pin From Net: NetName=V12P0 Pin=U1_2-9
+Change Net Name : Old Net Name=V12P0 New Net Name=V12P0_1
+Added Pin To Net: NetName=V12P0_2 Pin=Cout1_2-1
+Added Pin To Net: NetName=V12P0_2 Pin=Cout_1_2-1
+Added Pin To Net: NetName=V12P0_2 Pin=Coutx1_2-1
+Added Pin To Net: NetName=V12P0_2 Pin=Coutx2_2-1
+Added Pin To Net: NetName=V12P0_2 Pin=Coutx3_2-1
+Added Pin To Net: NetName=V12P0_2 Pin=M2_2-5
+Added Pin To Net: NetName=V12P0_2 Pin=M2_2-6
+Added Pin To Net: NetName=V12P0_2 Pin=M2_2-7
+Added Pin To Net: NetName=V12P0_2 Pin=M2_2-8
+Added Pin To Net: NetName=V12P0_2 Pin=M2_2-9
+Added Pin To Net: NetName=V12P0_2 Pin=Rfbt1_2-1
+Added Pin To Net: NetName=V12P0_2 Pin=U1_2-9
+Added Net: Name=V12P0_2
+Added Pin To Net: NetName=V12P0 Pin=J-15
+Added Pin To Net: NetName=V12P0 Pin=P2-1
+Added Pin To Net: NetName=V12P0 Pin=P2-2
+Added Pin To Net: NetName=V12P0 Pin=P2-6
+Added Pin To Net: NetName=V12P0 Pin=R11-2
+Added Pin To Net: NetName=V12P0 Pin=TP6-1
+Added Net: Name=V12P0
+Added Member To Class: ClassName=Cout1_1_Nets Member=Wire V12P0_1
+Added Member To Class: ClassName=Cout_1_1_Nets Member=Wire V12P0_1
+Added Member To Class: ClassName=Coutx1_1_Nets Member=Wire V12P0_1
+Added Member To Class: ClassName=Coutx2_1_Nets Member=Wire V12P0_1
+Added Member To Class: ClassName=Coutx3_1_Nets Member=Wire V12P0_1
+Added Member To Class: ClassName=M2_1_Nets Member=Wire V12P0_1
+Added Member To Class: ClassName=Rfbt1_1_Nets Member=Wire V12P0_1
+Added Member To Class: ClassName=U1_1_Nets Member=Wire V12P0_1
+Added Member To Class: ClassName=Cout1_2_Nets Member=Wire V12P0_2
+Added Member To Class: ClassName=Cout_1_2_Nets Member=Wire V12P0_2
+Added Member To Class: ClassName=Coutx1_2_Nets Member=Wire V12P0_2
+Added Member To Class: ClassName=Coutx2_2_Nets Member=Wire V12P0_2
+Added Member To Class: ClassName=Coutx3_2_Nets Member=Wire V12P0_2
+Added Member To Class: ClassName=M2_2_Nets Member=Wire V12P0_2
+Added Member To Class: ClassName=Rfbt1_2_Nets Member=Wire V12P0_2
+Added Member To Class: ClassName=U1_2_Nets Member=Wire V12P0_2
+Added Member To Class: ClassName=R10_Nets Member=Wire V12P0_Jetson
+Added Member To Class: ClassName=TP5_Nets Member=Wire V12P0_Jetson
+Added Member To Class: ClassName=J_Nets Member=Wire V12P0
+Added Member To Class: ClassName=P2_Nets Member=Wire V12P0
+Added Member To Class: ClassName=R11_Nets Member=Wire V12P0
+Added Member To Class: ClassName=TP6_Nets Member=Wire V12P0
