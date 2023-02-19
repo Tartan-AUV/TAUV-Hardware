@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Room: Name=U_Interfaces
+Added Room: Name=U_Power
