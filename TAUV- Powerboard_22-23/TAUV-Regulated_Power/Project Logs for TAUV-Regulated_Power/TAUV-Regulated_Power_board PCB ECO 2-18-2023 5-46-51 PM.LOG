@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=V12P0_Jetson Pin=R10-2
+Removed Pin From Net: NetName=V12P0_Jetson Pin=TP5-1
+Removed Member From Class: ClassName=Cout1_1_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=Cout1_2_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=Cout_1_1_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=Cout_1_2_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=Coutx1_1_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=Coutx1_2_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=Coutx2_1_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=Coutx2_2_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=Coutx3_1_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=Coutx3_2_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=M2_1_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=M2_2_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=P2_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=Rfbt1_1_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=Rfbt1_2_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=U1_1_Nets Member=V12P0_Jetson
+Removed Member From Class: ClassName=U1_2_Nets Member=V12P0_Jetson
+Added Pin To Net: NetName=V12P0_Jetson Pin=J-15
+Added Pin To Net: NetName=V12P0_Jetson Pin=P2-1
+Added Pin To Net: NetName=V12P0_Jetson Pin=P2-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=R11-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=TP6-1
+Change Net Name : Old Net Name=V12P0_Jetson New Net Name=V12P0
+Added Pin To Net: NetName=V12P0_Jetson Pin=R10-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=TP5-1
+Added Net: Name=V12P0_Jetson
+Added Member To Class: ClassName=Cout1_1_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Cout1_2_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Cout_1_1_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Cout_1_2_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Coutx1_1_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Coutx1_2_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Coutx2_1_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Coutx2_2_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Coutx3_1_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Coutx3_2_Nets Member=Wire V12P0
+Added Member To Class: ClassName=M2_1_Nets Member=Wire V12P0
+Added Member To Class: ClassName=M2_2_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Rfbt1_1_Nets Member=Wire V12P0
+Added Member To Class: ClassName=Rfbt1_2_Nets Member=Wire V12P0
+Added Member To Class: ClassName=U1_1_Nets Member=Wire V12P0
+Added Member To Class: ClassName=U1_2_Nets Member=Wire V12P0
+Change Room Name: Old Name=V12P0_2 New Name=Designator
+Change Room Scope: Old Scope=InComponentClass('V12P0_2') New Scope=InComponentClass('Designator')
