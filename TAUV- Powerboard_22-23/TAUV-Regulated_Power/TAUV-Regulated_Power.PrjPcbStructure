@@ -1,5 +1,5 @@
 Record=TopLevelDocument|FileName=Sht1-BlockDiagram.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Sht1-BlockDiagram.SchDoc|FileName=Sht2-V12P0.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Sht1-BlockDiagram.SchDoc|FileName=Sht3-Regulators.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Sht1-BlockDiagram.SchDoc|FileName=Sht4-Interfaces.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Sht1-BlockDiagram.SchDoc|FileName=Sht5-V12P0_Jetson.SchDoc|SheetNumber=4
+Record=SheetSymbol|SourceDocument=Sht1-BlockDiagram.SchDoc|Designator=1|SchDesignator=Repeat(,1,2)|FileName=Sht12-V12P0_reg.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Sht12-V12P0_reg.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sht1-BlockDiagram.SchDoc|Designator=2|SchDesignator=Repeat(,1,2)|FileName=Sht12-V12P0_reg.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Sht12-V12P0_reg.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sht1-BlockDiagram.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Sht3-Regulators.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Sht3-Regulators.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sht1-BlockDiagram.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Sht4-Interfaces.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Sht4-Interfaces.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

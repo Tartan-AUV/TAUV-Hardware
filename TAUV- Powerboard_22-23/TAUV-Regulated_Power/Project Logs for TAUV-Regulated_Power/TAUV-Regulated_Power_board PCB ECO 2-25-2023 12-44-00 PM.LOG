@@ -1,0 +1,177 @@
+Removed Pin From Net: NetName=GND Pin=Df1_1-2
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=Q1-4
+Removed Pin From Net: NetName=GND Pin=Q-4
+Removed Pin From Net: NetName=GND Pin=Ruvt1_1-1
+Removed Pin From Net: NetName=GND Pin=Rvisns1_1-2
+Removed Member From Class: ClassName=Cbias1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cbias1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Cbulk1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cbulk1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Cbulk_1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cbulk_1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Cbulk_2_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cbulk_2_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Cbulk_3_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cbulk_3_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Cbulk_4_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cbulk_4_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Ccomp2_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Ccomp2_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Cf1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cf1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Cin1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cin1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Cin_1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cin_1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Cout1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cout1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Cout_1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cout_1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Coutx1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Coutx1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Coutx2_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Coutx2_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Coutx3_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Coutx3_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Cslope1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cslope1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Css1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Css1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Cvcc1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Cvcc1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Rcomp1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Rcomp1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Rcsg1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Rcsg1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Rfbb1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Rfbb1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Rmode1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Rmode1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Rsense1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Rsense1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Rt1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Rt1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=Ruvb1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=Ruvb1_2_Nets Member=GND_1
+Removed Member From Class: ClassName=U1_1_Nets Member=GND_1
+Removed Member From Class: ClassName=U1_2_Nets Member=GND_1
+Added Pin To Net: NetName=GND Pin=Cbias1_1-2
+Added Pin To Net: NetName=GND Pin=Cbias1_2-2
+Added Pin To Net: NetName=GND Pin=Cbulk1_1-2
+Added Pin To Net: NetName=GND Pin=Cbulk1_2-2
+Added Pin To Net: NetName=GND Pin=Cbulk_1_1-2
+Added Pin To Net: NetName=GND Pin=Cbulk_1_2-2
+Added Pin To Net: NetName=GND Pin=Cbulk_2_1-2
+Added Pin To Net: NetName=GND Pin=Cbulk_2_2-2
+Added Pin To Net: NetName=GND Pin=Cbulk_3_1-2
+Added Pin To Net: NetName=GND Pin=Cbulk_3_2-2
+Added Pin To Net: NetName=GND Pin=Cbulk_4_1-2
+Added Pin To Net: NetName=GND Pin=Cbulk_4_2-2
+Added Pin To Net: NetName=GND Pin=Ccomp2_1-2
+Added Pin To Net: NetName=GND Pin=Ccomp2_2-2
+Added Pin To Net: NetName=GND Pin=Cf1_1-2
+Added Pin To Net: NetName=GND Pin=Cf1_2-2
+Added Pin To Net: NetName=GND Pin=Cin1_1-2
+Added Pin To Net: NetName=GND Pin=Cin1_2-2
+Added Pin To Net: NetName=GND Pin=Cin_1_1-2
+Added Pin To Net: NetName=GND Pin=Cin_1_2-2
+Added Pin To Net: NetName=GND Pin=Cout1_1-2
+Added Pin To Net: NetName=GND Pin=Cout1_2-2
+Added Pin To Net: NetName=GND Pin=Cout_1_1-2
+Added Pin To Net: NetName=GND Pin=Cout_1_2-2
+Added Pin To Net: NetName=GND Pin=Coutx1_1-2
+Added Pin To Net: NetName=GND Pin=Coutx1_2-2
+Added Pin To Net: NetName=GND Pin=Coutx2_1-2
+Added Pin To Net: NetName=GND Pin=Coutx2_2-2
+Added Pin To Net: NetName=GND Pin=Coutx3_1-2
+Added Pin To Net: NetName=GND Pin=Coutx3_2-2
+Added Pin To Net: NetName=GND Pin=Cslope1_1-2
+Added Pin To Net: NetName=GND Pin=Cslope1_2-2
+Added Pin To Net: NetName=GND Pin=Css1_1-2
+Added Pin To Net: NetName=GND Pin=Css1_2-2
+Added Pin To Net: NetName=GND Pin=Cvcc1_1-2
+Added Pin To Net: NetName=GND Pin=Cvcc1_2-2
+Added Pin To Net: NetName=VCC_BATT_FILT_1 Pin=Df1_1-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=P1-1
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Q1-4
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Q-4
+Added Pin To Net: NetName=GND Pin=Rcomp1_1-2
+Added Pin To Net: NetName=GND Pin=Rcomp1_2-2
+Added Pin To Net: NetName=GND Pin=Rcsg1_1-2
+Added Pin To Net: NetName=GND Pin=Rcsg1_2-2
+Added Pin To Net: NetName=GND Pin=Rfbb1_1-2
+Added Pin To Net: NetName=GND Pin=Rfbb1_2-2
+Added Pin To Net: NetName=GND Pin=Rmode1_1-2
+Added Pin To Net: NetName=GND Pin=Rmode1_2-2
+Added Pin To Net: NetName=GND Pin=Rsense1_2-2
+Added Pin To Net: NetName=GND Pin=Rt1_1-2
+Added Pin To Net: NetName=GND Pin=Rt1_2-2
+Added Pin To Net: NetName=GND Pin=Ruvb1_1-2
+Added Pin To Net: NetName=GND Pin=Ruvb1_2-2
+Added Pin To Net: NetName=VCC_BATT_FILT_1 Pin=Ruvt1_1-1
+Added Pin To Net: NetName=VCC_BATT_FILT_1 Pin=Rvisns1_1-2
+Added Pin To Net: NetName=GND Pin=U1_1-2
+Added Pin To Net: NetName=GND Pin=U1_1-7
+Added Pin To Net: NetName=GND Pin=U1_1-10
+Added Pin To Net: NetName=GND Pin=U1_1-11
+Added Pin To Net: NetName=GND Pin=U1_1-19
+Added Pin To Net: NetName=GND Pin=U1_1-29
+Added Pin To Net: NetName=GND Pin=U1_2-2
+Added Pin To Net: NetName=GND Pin=U1_2-7
+Added Pin To Net: NetName=GND Pin=U1_2-10
+Added Pin To Net: NetName=GND Pin=U1_2-11
+Added Pin To Net: NetName=GND Pin=U1_2-19
+Added Pin To Net: NetName=GND Pin=U1_2-29
+Added Member To Class: ClassName=Cbias1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cbias1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Cbulk1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cbulk1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Cbulk_1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cbulk_1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Cbulk_2_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cbulk_2_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Cbulk_3_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cbulk_3_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Cbulk_4_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cbulk_4_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Ccomp2_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Ccomp2_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Cf1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cf1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Cin1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cin1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Cin_1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cin_1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Cout1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cout1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Cout_1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cout_1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Coutx1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Coutx1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Coutx2_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Coutx2_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Coutx3_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Coutx3_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Cslope1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cslope1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Css1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Css1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Cvcc1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Cvcc1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Rcomp1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Rcomp1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Rcsg1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Rcsg1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Rfbb1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Rfbb1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Rmode1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Rmode1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Rsense1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Rsense1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Rt1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Rt1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=Ruvb1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=Ruvb1_2_Nets Member=Wire GND
+Added Member To Class: ClassName=U1_1_Nets Member=Wire GND
+Added Member To Class: ClassName=U1_2_Nets Member=Wire GND
