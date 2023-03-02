@@ -83,7 +83,7 @@ GenerateClassCluster=1
 DocumentUniqueId=ZYVFSURZ
 
 [Document3]
-DocumentPath=Sht12-V12P0_reg.SchDoc
+DocumentPath=Sht2-V12P0_reg.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
