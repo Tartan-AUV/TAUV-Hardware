@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VBAT Pin=Jin-1
+Removed Pin From Net: NetName=VBAT Pin=Jin-2
+Removed Pin From Net: NetName=PACK- Pin=Jin-3
+Removed Pin From Net: NetName=PACK- Pin=Jin-4
+Removed Pin From Net: NetName=VCC_3V3 Pin=Jin-5
+Removed Pin From Net: NetName=THRST_EN Pin=Jin-6
+Removed Member From Class: ClassName=U_Interfaces Member=Jin
+Added Component: Designator=J9(FP-UMPS-10-05_5-L-V-S-W-T-MFG)
+Added Pin To Net: NetName=VBAT Pin=J9-1
+Added Pin To Net: NetName=VBAT Pin=J9-2
+Added Pin To Net: NetName=VBAT Pin=J9-3
+Added Pin To Net: NetName=VBAT Pin=J9-4
+Added Pin To Net: NetName=PACK- Pin=J9-5
+Added Pin To Net: NetName=PACK- Pin=J9-6
+Added Pin To Net: NetName=PACK- Pin=J9-7
+Added Pin To Net: NetName=PACK- Pin=J9-8
+Added Pin To Net: NetName=VCC_3V3 Pin=J9-9
+Added Pin To Net: NetName=THRST_EN Pin=J9-10
+Added Member To Class: ClassName=U_Interfaces Member=Component J9 UMPS-10-05.5-L-V-S-W-TR
+Added Room: Name=U_Power
