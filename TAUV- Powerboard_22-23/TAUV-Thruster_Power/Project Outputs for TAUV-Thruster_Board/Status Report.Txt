@@ -1,0 +1,10 @@
+Output: Cadnetix Netlist
+Type  : CadnetixNetlist
+From  : Project [TAUV-Thruster_Board.PrjPcb]
+   Generated File[Interfaces.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:05:43 PM On 3/2/2023
