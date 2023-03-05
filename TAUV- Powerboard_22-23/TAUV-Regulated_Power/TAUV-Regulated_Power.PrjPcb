@@ -1157,6 +1157,16 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=GND|NetColor=$00134E27
+Net2=NetName=V12P0|NetColor=clYellow
+Net3=NetName=V12P0_1|NetColor=clYellow
+Net4=NetName=V12P0_2|NetColor=clYellow
+Net5=NetName=V3P3|NetColor=$009CCBF9
+Net6=NetName=V5P0|NetColor=$00000099
+Net7=NetName=V5P0_Servo|NetColor=$00000066
+Net8=NetName=VCC_BATT_FILT|NetColor=$000099FF
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
