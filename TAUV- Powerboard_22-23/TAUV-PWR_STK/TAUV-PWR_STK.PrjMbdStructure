@@ -2,3 +2,5 @@ Record=DiagramHierarchy|SourceDocument=TAUV-Stack_sch.MbsDoc|Kind=Multi-board Sc
 Record=SubProject|SourceDocument=TAUV-Stack_sch.MbsDoc|ProjectPath=..\TAUV-Regulated_Power\TAUV-Regulated_Power.PrjPcb
 Record=DiagramHierarchy|SourceDocument=TAUV-Stack_sch.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\TAUV-Thruster_Power\TAUV-Thruster_Board.PrjPcb
 Record=SubProject|SourceDocument=TAUV-Stack_sch.MbsDoc|ProjectPath=..\TAUV-Thruster_Power\TAUV-Thruster_Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=TAUV-Stack_sch.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\..\TAUV-Powerboard\TAUV-Powerboard.PrjPCB
+Record=SubProject|SourceDocument=TAUV-Stack_sch.MbsDoc|ProjectPath=..\..\TAUV-Powerboard\TAUV-Powerboard.PrjPCB
