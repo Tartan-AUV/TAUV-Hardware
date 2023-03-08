@@ -1,0 +1,452 @@
+Removed Pin From Net: NetName=GND Pin=Cbias1_1-2
+Removed Pin From Net: NetName=GND Pin=Cbias1_2-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk_1_1-1
+Removed Pin From Net: NetName=GND Pin=Cbulk_1_1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk_1_2-1
+Removed Pin From Net: NetName=GND Pin=Cbulk_1_2-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk_2_1-1
+Removed Pin From Net: NetName=GND Pin=Cbulk_2_1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk_2_2-1
+Removed Pin From Net: NetName=GND Pin=Cbulk_2_2-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk_3_1-1
+Removed Pin From Net: NetName=GND Pin=Cbulk_3_1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk_3_2-1
+Removed Pin From Net: NetName=GND Pin=Cbulk_3_2-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk_4_1-1
+Removed Pin From Net: NetName=GND Pin=Cbulk_4_1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk_4_2-1
+Removed Pin From Net: NetName=GND Pin=Cbulk_4_2-2
+Removed Pin From Net: NetName=GND Pin=Ccomp2_1-2
+Removed Pin From Net: NetName=GND Pin=Ccomp2_2-2
+Removed Pin From Net: NetName=GND Pin=Cf1_1-2
+Removed Pin From Net: NetName=GND Pin=Cf1_2-2
+Removed Pin From Net: NetName=V12P0 Pin=Cout1_1-1
+Removed Pin From Net: NetName=GND Pin=Cout1_1-2
+Removed Pin From Net: NetName=V12P0 Pin=Cout1_2-1
+Removed Pin From Net: NetName=GND Pin=Cout1_2-2
+Removed Pin From Net: NetName=V12P0 Pin=Cout_1_1-1
+Removed Pin From Net: NetName=GND Pin=Cout_1_1-2
+Removed Pin From Net: NetName=V12P0 Pin=Cout_1_2-1
+Removed Pin From Net: NetName=GND Pin=Cout_1_2-2
+Removed Pin From Net: NetName=V12P0 Pin=Coutx1_1-1
+Removed Pin From Net: NetName=GND Pin=Coutx1_1-2
+Removed Pin From Net: NetName=V12P0 Pin=Coutx1_2-1
+Removed Pin From Net: NetName=GND Pin=Coutx1_2-2
+Removed Pin From Net: NetName=V12P0 Pin=Coutx2_1-1
+Removed Pin From Net: NetName=GND Pin=Coutx2_1-2
+Removed Pin From Net: NetName=V12P0 Pin=Coutx2_2-1
+Removed Pin From Net: NetName=GND Pin=Coutx2_2-2
+Removed Pin From Net: NetName=V12P0 Pin=Coutx3_1-1
+Removed Pin From Net: NetName=GND Pin=Coutx3_1-2
+Removed Pin From Net: NetName=V12P0 Pin=Coutx3_2-1
+Removed Pin From Net: NetName=GND Pin=Coutx3_2-2
+Removed Pin From Net: NetName=GND Pin=Cslope1_1-2
+Removed Pin From Net: NetName=GND Pin=Cslope1_2-2
+Removed Pin From Net: NetName=GND Pin=Css1_1-2
+Removed Pin From Net: NetName=GND Pin=Css1_2-2
+Removed Pin From Net: NetName=GND Pin=Cvcc1_1-2
+Removed Pin From Net: NetName=GND Pin=Cvcc1_2-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Df1_1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Df1_2-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1_1-5
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1_1-6
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1_1-7
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1_1-8
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1_1-9
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1_2-5
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1_2-6
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1_2-7
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1_2-8
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1_2-9
+Removed Pin From Net: NetName=V12P0 Pin=M2_1-5
+Removed Pin From Net: NetName=V12P0 Pin=M2_1-6
+Removed Pin From Net: NetName=V12P0 Pin=M2_1-7
+Removed Pin From Net: NetName=V12P0 Pin=M2_1-8
+Removed Pin From Net: NetName=V12P0 Pin=M2_1-9
+Removed Pin From Net: NetName=V12P0 Pin=M2_2-5
+Removed Pin From Net: NetName=V12P0 Pin=M2_2-6
+Removed Pin From Net: NetName=V12P0 Pin=M2_2-7
+Removed Pin From Net: NetName=V12P0 Pin=M2_2-8
+Removed Pin From Net: NetName=V12P0 Pin=M2_2-9
+Removed Pin From Net: NetName=GND Pin=Rcomp1_1-2
+Removed Pin From Net: NetName=GND Pin=Rcomp1_2-2
+Removed Pin From Net: NetName=GND Pin=Rcsg1_1-2
+Removed Pin From Net: NetName=GND Pin=Rcsg1_2-2
+Removed Pin From Net: NetName=GND Pin=Rfbb1_1-2
+Removed Pin From Net: NetName=GND Pin=Rfbb1_2-2
+Removed Pin From Net: NetName=V12P0 Pin=Rfbt1_1-1
+Removed Pin From Net: NetName=V12P0 Pin=Rfbt1_2-1
+Removed Pin From Net: NetName=GND Pin=Rmode1_1-2
+Removed Pin From Net: NetName=GND Pin=Rmode1_2-2
+Removed Pin From Net: NetName=GND Pin=Rsense1_1-2
+Removed Pin From Net: NetName=GND Pin=Rsense1_2-2
+Removed Pin From Net: NetName=GND Pin=Rt1_1-2
+Removed Pin From Net: NetName=GND Pin=Rt1_2-2
+Removed Pin From Net: NetName=GND Pin=Ruvb1_1-2
+Removed Pin From Net: NetName=GND Pin=Ruvb1_2-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Ruvt1_1-1
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Ruvt1_2-1
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Rvisns1_1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Rvisns1_2-2
+Removed Pin From Net: NetName=GND Pin=U1_1-2
+Removed Pin From Net: NetName=GND Pin=U1_1-7
+Removed Pin From Net: NetName=V12P0 Pin=U1_1-9
+Removed Pin From Net: NetName=GND Pin=U1_1-10
+Removed Pin From Net: NetName=GND Pin=U1_1-11
+Removed Pin From Net: NetName=GND Pin=U1_1-19
+Removed Pin From Net: NetName=GND Pin=U1_1-29
+Removed Pin From Net: NetName=GND Pin=U1_2-2
+Removed Pin From Net: NetName=GND Pin=U1_2-7
+Removed Pin From Net: NetName=V12P0 Pin=U1_2-9
+Removed Pin From Net: NetName=GND Pin=U1_2-10
+Removed Pin From Net: NetName=GND Pin=U1_2-11
+Removed Pin From Net: NetName=GND Pin=U1_2-19
+Removed Pin From Net: NetName=GND Pin=U1_2-29
+Added Component: Designator=Cbias1(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cboot1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cboot2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccomp2(0402)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TDK"; VariantName = "[No Variations]"
+Added Component: Designator=Ccomp3(0402)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TDK"; VariantName = "[No Variations]"
+Added Component: Designator=Ccs1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06035A470JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06035A470JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cf1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA3E2X7R1H104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CGA3E2X7R1H104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx1(0805)
+Add component (AddParameter): Name = "Cap"; Value = "2.2E-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part%5Fno%3DC2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.00205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IRMS"; Value = "4.55587"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "35.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TDK"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx2(0805)
+Add component (AddParameter): Name = "Cap"; Value = "2.2E-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part%5Fno%3DC2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.00205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IRMS"; Value = "4.55587"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "35.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TDK"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx3(0805)
+Add component (AddParameter): Name = "Cap"; Value = "2.2E-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part%5Fno%3DC2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.00205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IRMS"; Value = "4.55587"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "35.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TDK"; VariantName = "[No Variations]"
+Added Component: Designator=Cslope1(0603)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CC0603JRNPO9BN181"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Yageo America"; VariantName = "[No Variations]"
+Added Component: Designator=Cvcc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=Rcsg1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=Rcsp1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=Rf1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0710RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=Rfbb1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Added Component: Designator=Rfbt1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603280KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603280KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "280k"; VariantName = "[No Variations]"
+Added Component: Designator=Rmode1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0793K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0793K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "93.1k"; VariantName = "[No Variations]"
+Added Component: Designator=Rpg1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=Rsense1(FP-WSHM2818-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "2818"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.069inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.28inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "170°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "7W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "6mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Metal Element"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "75ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.181inch"; VariantName = "[No Variations]"
+Added Component: Designator=Rt1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040223K2FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040223K2FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "23.2k"; VariantName = "[No Variations]"
+Added Component: Designator=Ruvb1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040271K5FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040271K5FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "71.5k"; VariantName = "[No Variations]"
+Added Component: Designator=Ruvt1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0402249KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0402249KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "249k"; VariantName = "[No Variations]"
+Added Component: Designator=Rvisns1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW06032K00FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW06032K00FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=U1(VQFN_76RHFT_TEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "296-LM5176RHFTTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "296-LM5176RHFTCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "296-LM5176RHFTDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM5176RHFT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cbias1-2
+Add Pin To Net: Unknown Pin: Pin Cbulk1-1
+Add Pin To Net: Unknown Pin: Pin Cbulk1-2
+Add Pin To Net: Unknown Pin: Pin Cbulk_1-1
+Add Pin To Net: Unknown Pin: Pin Cbulk_1-2
+Add Pin To Net: Unknown Pin: Pin Ccomp1-2
+Added Pin To Net: NetName=GND Pin=Cf1-2
+Add Pin To Net: Unknown Pin: Pin Cin1-1
+Add Pin To Net: Unknown Pin: Pin Cin1-2
+Add Pin To Net: Unknown Pin: Pin Cin_1-1
+Add Pin To Net: Unknown Pin: Pin Cin_1-2
+Add Pin To Net: Unknown Pin: Pin Cin_2-1
+Add Pin To Net: Unknown Pin: Pin Cin_2-2
+Add Pin To Net: Unknown Pin: Pin Cout1-1
+Add Pin To Net: Unknown Pin: Pin Cout1-2
+Add Pin To Net: Unknown Pin: Pin Cout_1-1
+Add Pin To Net: Unknown Pin: Pin Cout_1-2
+Add Pin To Net: Unknown Pin: Pin Cout_2-1
+Add Pin To Net: Unknown Pin: Pin Cout_2-2
+Added Pin To Net: NetName=V12P0 Pin=Coutx1-1
+Added Pin To Net: NetName=GND Pin=Coutx1-2
+Added Pin To Net: NetName=V12P0 Pin=Coutx2-1
+Added Pin To Net: NetName=GND Pin=Coutx2-2
+Added Pin To Net: NetName=V12P0 Pin=Coutx3-1
+Added Pin To Net: NetName=GND Pin=Coutx3-2
+Added Pin To Net: NetName=GND Pin=Cslope1-2
+Add Pin To Net: Unknown Pin: Pin Css1-2
+Added Pin To Net: NetName=GND Pin=Cvcc1-2
+Add Pin To Net: Unknown Pin: Pin Df1-2
+Add Pin To Net: Unknown Pin: Pin M1-5
+Add Pin To Net: Unknown Pin: Pin M1-6
+Add Pin To Net: Unknown Pin: Pin M1-7
+Add Pin To Net: Unknown Pin: Pin M1-8
+Add Pin To Net: Unknown Pin: Pin M1-9
+Add Pin To Net: Unknown Pin: Pin M2-5
+Add Pin To Net: Unknown Pin: Pin M2-6
+Add Pin To Net: Unknown Pin: Pin M2-7
+Add Pin To Net: Unknown Pin: Pin M2-8
+Add Pin To Net: Unknown Pin: Pin M2-9
+Add Pin To Net: Unknown Pin: Pin Rcomp1-2
+Added Pin To Net: NetName=GND Pin=Rcsg1-2
+Added Pin To Net: NetName=GND Pin=Rfbb1-2
+Added Pin To Net: NetName=V12P0 Pin=Rfbt1-1
+Added Pin To Net: NetName=GND Pin=Rmode1-2
+Added Pin To Net: NetName=GND Pin=Rt1-2
+Added Pin To Net: NetName=GND Pin=Ruvb1-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Ruvt1-1
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Rvisns1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=V12P0 Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=11_0 Pin=Cboot2-2
+Added Pin To Net: NetName=11_0 Pin=U1-15
+Added Net: Name=11_0
+Added Pin To Net: NetName=15_0 Pin=Rcsp1-2
+Added Net: Name=15_0
+Added Pin To Net: NetName=26_0 Pin=Cboot1-2
+Added Pin To Net: NetName=26_0 Pin=U1-25
+Added Net: Name=26_0
+Added Pin To Net: NetName=27_0 Pin=U1-18
+Added Net: Name=27_0
+Added Pin To Net: NetName=32_0 Pin=U1-22
+Added Net: Name=32_0
+Added Pin To Net: NetName=33_0 Pin=U1-24
+Added Net: Name=33_0
+Added Pin To Net: NetName=34_0 Pin=U1-16
+Added Net: Name=34_0
+Added Pin To Net: NetName=NetCbias1_1 Pin=Cbias1-1
+Added Pin To Net: NetName=NetCbias1_1 Pin=U1-21
+Added Net: Name=NetCbias1_1
+Added Pin To Net: NetName=NetCboot1_1 Pin=Cboot1-1
+Added Pin To Net: NetName=NetCboot1_1 Pin=U1-23
+Added Net: Name=NetCboot1_1
+Added Pin To Net: NetName=NetCboot2_1 Pin=Cboot2-1
+Added Pin To Net: NetName=NetCboot2_1 Pin=U1-17
+Added Net: Name=NetCboot2_1
+Added Pin To Net: NetName=NetCcomp1_1 Pin=Ccomp2-1
+Added Pin To Net: NetName=NetCcomp1_1 Pin=Ccomp3-1
+Added Pin To Net: NetName=NetCcomp1_1 Pin=U1-6
+Added Net: Name=NetCcomp1_1
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Ccomp2-2
+Added Pin To Net: NetName=NetCcomp2_2 Pin=Ccomp3-2
+Added Net: Name=NetCcomp2_2
+Added Pin To Net: NetName=NetCcs1_1 Pin=Ccs1-1
+Added Pin To Net: NetName=NetCcs1_1 Pin=Rcsp1-1
+Added Pin To Net: NetName=NetCcs1_1 Pin=U1-13
+Added Net: Name=NetCcs1_1
+Added Pin To Net: NetName=NetCcs1_2 Pin=Ccs1-2
+Added Pin To Net: NetName=NetCcs1_2 Pin=Rcsg1-1
+Added Pin To Net: NetName=NetCcs1_2 Pin=U1-12
+Added Net: Name=NetCcs1_2
+Added Pin To Net: NetName=NetCf1_1 Pin=Cf1-1
+Added Pin To Net: NetName=NetCf1_1 Pin=Rf1-2
+Added Pin To Net: NetName=NetCf1_1 Pin=U1-27
+Added Net: Name=NetCf1_1
+Added Pin To Net: NetName=NetCslope1_1 Pin=Cslope1-1
+Added Pin To Net: NetName=NetCslope1_1 Pin=U1-4
+Added Net: Name=NetCslope1_1
+Added Pin To Net: NetName=NetCss1_1 Pin=U1-5
+Added Net: Name=NetCss1_1
+Added Pin To Net: NetName=NetCvcc1_1 Pin=Cvcc1-1
+Added Pin To Net: NetName=NetCvcc1_1 Pin=Rpg1-1
+Added Pin To Net: NetName=NetCvcc1_1 Pin=U1-20
+Added Net: Name=NetCvcc1_1
+Added Pin To Net: NetName=NetDf1_1 Pin=Rf1-1
+Added Net: Name=NetDf1_1
+Added Pin To Net: NetName=NetRfbb1_1 Pin=Rfbb1-1
+Added Pin To Net: NetName=NetRfbb1_1 Pin=Rfbt1-2
+Added Pin To Net: NetName=NetRfbb1_1 Pin=U1-8
+Added Net: Name=NetRfbb1_1
+Added Pin To Net: NetName=NetRmode1_1 Pin=Rmode1-1
+Added Pin To Net: NetName=NetRmode1_1 Pin=U1-1
+Added Net: Name=NetRmode1_1
+Added Pin To Net: NetName=NetRpg1_2 Pin=Rpg1-2
+Added Pin To Net: NetName=NetRpg1_2 Pin=U1-14
+Added Net: Name=NetRpg1_2
+Added Pin To Net: NetName=NetRt1_1 Pin=Rt1-1
+Added Pin To Net: NetName=NetRt1_1 Pin=U1-3
+Added Net: Name=NetRt1_1
+Added Pin To Net: NetName=NetRuvb1_1 Pin=Ruvb1-1
+Added Pin To Net: NetName=NetRuvb1_1 Pin=Ruvt1-2
+Added Pin To Net: NetName=NetRuvb1_1 Pin=U1-26
+Added Net: Name=NetRuvb1_1
+Added Pin To Net: NetName=NetRvisns1_1 Pin=Rvisns1-1
+Added Pin To Net: NetName=NetRvisns1_1 Pin=U1-28
+Added Net: Name=NetRvisns1_1
+Change Class Name : Old Net Name=Cbulk_2_2_Nets New Net Name=Cbulk_1_Nets
+Change Class Name : Old Net Name=Coutx2_1_Nets New Net Name=Coutx1_Nets
+Added Class: Name=Sht2-V12P0_reg
+Added Class: Name=Cbias1_Nets
+Added Class: Name=Cboot1_Nets
+Added Class: Name=Cboot2_Nets
+Added Class: Name=Cbulk1_Nets
+Added Class: Name=Ccomp1_Nets
+Added Class: Name=Ccomp2_Nets
+Added Class: Name=Ccomp3_Nets
+Added Class: Name=Ccs1_Nets
+Added Class: Name=Cf1_Nets
+Added Class: Name=Cin1_Nets
+Added Class: Name=Cin_1_Nets
+Added Class: Name=Cin_2_Nets
+Added Class: Name=Cout1_Nets
+Added Class: Name=Cout_1_Nets
+Added Class: Name=Cout_2_Nets
+Added Class: Name=Coutx2_Nets
+Added Class: Name=Coutx3_Nets
+Added Class: Name=Cslope1_Nets
+Added Class: Name=Css1_Nets
+Added Class: Name=Cvcc1_Nets
+Added Class: Name=Dboot1_Nets
+Added Class: Name=Dboot2_Nets
+Added Class: Name=Df1_Nets
+Added Class: Name=L1_Nets
+Added Class: Name=M1_Nets
+Added Class: Name=M2_Nets
+Added Class: Name=M3_Nets
+Added Class: Name=M4_Nets
+Added Class: Name=Rcomp1_Nets
+Added Class: Name=Rcsg1_Nets
+Added Class: Name=Rcsp1_Nets
+Added Class: Name=Rf1_Nets
+Added Class: Name=Rfbb1_Nets
+Added Class: Name=Rfbt1_Nets
+Added Class: Name=Rmode1_Nets
+Added Class: Name=Rpg1_Nets
+Added Class: Name=Rsense1_Nets
+Added Class: Name=Rt1_Nets
+Added Class: Name=Ruvb1_Nets
+Added Class: Name=Ruvt1_Nets
+Added Class: Name=Rvisns1_Nets
+Added Class: Name=U1_Nets
