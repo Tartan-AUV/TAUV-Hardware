@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:14:53 PM On 3/9/2023
+
+Output: Export STEP
+Type  : MBAExportSTEP
+From  : Multi-board Assembly Document [TAUV-Stack_pcb.MbaDoc]
+   Generated File[TAUV-Stack_pcb.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:14:55 PM On 3/9/2023
