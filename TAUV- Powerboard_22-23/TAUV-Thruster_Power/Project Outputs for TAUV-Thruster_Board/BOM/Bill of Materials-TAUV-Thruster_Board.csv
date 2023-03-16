@@ -1,0 +1,23 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"0.1uF","CAP CER 0.1UF 10V X7R 0603","C1, C2","FP-C0603C-CF-MFG","CMP-1035-02580-3","2"
+"X7R","Capacitor","Cin1, Cout1","C0805","Cap","2"
+"SBRT15U50SP5-13","50V 15A Rectifier Schottky Diode","D1","FP-PowerDI5-MFG","CMP-12791-000016-1","1"
+"1SMA5931BT3G","1.5 W Zener Voltage Regulator, 2-Pin SMA, Pb-Free, Tape and Reel","D2","ONSC-SMA-2-403D-02_F_V","CMP-1060-00118-1","1"
+"LED RED","led
+ LTST-C171KRKT","D3, D4","C0805","LED0","2"
+"","","J1, J2, J3, J4, J5, J6, J7, J8","2-pin Megafit RA","2-pin megafit","8"
+"UMPS-10-05.5-L-V-S-W-TR","CONN MPOWER 2MM FMALE 10POS GOLD","J9","FP-UMPS-10-05_5-L-V-S-W-T-MFG","CMP-02770-000036-1","1"
+"TSW-101-07-L-S","CONN HEADER VERT 1POS","J10","FP-TSW-101-07-L-S-MFG","CMP-02766-001775-1","1"
+"74477420","SMD Power Inductor WE-PD2, L = 100 µH","L1","WE-PD2-M","CMP-0227-00441-1","1"
+"#4-40","Mounting Hole for ANSI #4-40 w/ Flat Washer, Loose Fit","MH1, MH2, MH3","Mounting Hole #4-40","Mounting Hole #4-40, Loose Fit","3"
+"BSC0702LSATMA1","No Description Available","Q1, Q4, Q5","PG-TDSON-8-7","BSC0702LSATMA1","3"
+"NVTR01P02LT1G","Power MOSFET, -20 V, -1.3 A, P-Channel, 3-Pin SOT-23, Pb-Free, Tape and Reel","Q2, Q3","ONSC-SOT-23-3-318-08_V","CMP-1058-00752-1","2"
+"0.1W 1%","2k 0.1W 1%","R1","J1-0603","Res3","1"
+"10K","10K 0.1W 5% 0603 (1608 Metric)  SMD","R2, Rin2","RESC0603(1608)_N","CMP-1012-00098-1","2"
+"100R","100R 0.1W 5%","R3, R4","RESC1609X50X30NL10T20","CMP-1012-00050-2","2"
+"0603","Resistor","Rg, Rin1","J1-0603","Res3","2"
+"WSLP59312 2mR 8W","","Rs1, Rs2","WSLP59312L000FEA","WSLP59312L000FEA","2"
+"AUIR3241STR","IC GATE DRVR HIGH-SIDE 8SO","U1","FP-PG-DSO-8-MFG","CMP-32851-000034-1","1"
+"SN74LVC1G97DBVR","IC CONFIG MULT-FUNC GATE SOT23-6","U2","FP-DBV0006A-MFG","CMP-0859-00234-4","1"
+"Part Number: INA300AIDSQT","No Description Available","U3","DSQ10_P9X1P5","INA300AIDSQT","1"

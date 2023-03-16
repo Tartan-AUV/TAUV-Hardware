@@ -1,10 +1,10 @@
-Output: Cadnetix Netlist
-Type  : CadnetixNetlist
-From  : Project [TAUV-Thruster_Board.PrjPcb]
-   Generated File[Interfaces.NET]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [TAUV-Thruster_Board.PrjPcb]
+   Generated File[Bill of Materials-TAUV-Thruster_Board.csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 5:05:43 PM On 3/2/2023
+Finished Output Generation At 11:17:43 PM On 3/15/2023

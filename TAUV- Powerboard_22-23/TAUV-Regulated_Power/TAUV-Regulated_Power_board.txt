@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\rylan\OneDrive\Documents\GitHub\TAUV-Hardware\TAUV- Powerboard_22-23\TAUV-Regulated_Power\TAUV-Regulated_Power_board.PcbDoc
+Date         : 3/15/2023
+Time         : 9:31:39 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 5292.659milsx3417.5mils
+    Components on board, 138
+count : 2

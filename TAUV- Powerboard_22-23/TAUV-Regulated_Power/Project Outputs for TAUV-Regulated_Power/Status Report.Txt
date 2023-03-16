@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [TAUV-Regulated_Power.PrjPcb]
+   Generated File[Bill of Materials-TAUV-Regulated_Power.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:33:33 PM On 3/15/2023
