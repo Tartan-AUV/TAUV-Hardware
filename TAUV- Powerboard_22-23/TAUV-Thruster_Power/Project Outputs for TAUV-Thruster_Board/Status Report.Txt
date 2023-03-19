@@ -1,10 +1,26 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [TAUV-Thruster_Board.PrjPcb]
-   Generated File[Bill of Materials-TAUV-Thruster_Board.csv]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:37:40 PM On 3/18/2023
+
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [TAUV-Thruster_Board.PcbDoc]
+   Generated File[TAUV-Thruster_Board_Copper_Signal_Top.gbr]
+   Generated File[TAUV-Thruster_Board_Copper_Signal_Bot.gbr]
+   Generated File[TAUV-Thruster_Board_Legend_Top.gbr]
+   Generated File[TAUV-Thruster_Board_Legend_Bot.gbr]
+   Generated File[TAUV-Thruster_Board_Soldermask_Top.gbr]
+   Generated File[TAUV-Thruster_Board_Soldermask_Bot.gbr]
+   Generated File[TAUV-Thruster_Board_Paste_Top.gbr]
+   Generated File[TAUV-Thruster_Board_Paste_Bot.gbr]
+   Generated File[TAUV-Thruster_Board_Profile.gbr]
+   Generated File[TAUV-Thruster_Board_NPTH_Drill.gbr]
+   Generated File[TAUV-Thruster_Board_PTH_Drill.gbr]
+   Generated File[TAUV-Thruster_Board.EXTREP]
+   Generated File[TAUV-Thruster_Board.REP]
 
 
-Files Generated   : 1
+Files Generated   : 13
 Documents Printed : 0
 
-Finished Output Generation At 11:17:43 PM On 3/15/2023
+Finished Output Generation At 8:37:44 PM On 3/18/2023
