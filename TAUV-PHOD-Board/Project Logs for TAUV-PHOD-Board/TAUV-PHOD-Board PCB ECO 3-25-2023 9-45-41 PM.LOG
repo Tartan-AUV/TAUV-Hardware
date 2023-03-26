@@ -1,0 +1,14 @@
+Added Component: Designator=Rdiv3(POT4MM-2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://bourns.com/2/search.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Square Trimming Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POT4MM-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetRdiv2_2 Pin=Rdiv3-CCW
+Added Pin To Net: NetName=NetRdiv1_1 Pin=Rdiv3-CW
+Added Pin To Net: NetName=NetRdiv3_W Pin=Rdiv3-W
+Added Pin To Net: NetName=NetRdiv3_W Pin=U5-3
+Added Net: Name=NetRdiv3_W
+Added Member To Class: ClassName=U_Power Member=Component Rdiv3 20K
