@@ -1,0 +1,4 @@
+Change Component Comment : Designator=Rdiv1 Old Comment=100K New Comment=1K
+Change Component Comment : Designator=Rdiv2 Old Comment=100K New Comment=1K
+Added Pin To Net: NetName=NetRdiv1_1 Pin=Rdiv2-2
+Added Pin To Net: NetName=NetRdiv1_1 Pin=U5-3

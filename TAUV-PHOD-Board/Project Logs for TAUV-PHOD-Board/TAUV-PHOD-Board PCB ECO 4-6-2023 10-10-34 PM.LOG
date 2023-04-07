@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=H0 Old Footprint=CON_1053131302 New Footprint=CON_1053131304
+Change Component Footprint: Designator=H1 Old Footprint=CON_1053131302 New Footprint=CON_1053131304
+Change Component Footprint: Designator=H2 Old Footprint=CON_1053131302 New Footprint=CON_1053131304
+Change Component Footprint: Designator=H3 Old Footprint=CON_1053131302 New Footprint=CON_1053131304
+Change Component Comment : Designator=H0 Old Comment=1053131302 New Comment=1053131304
+Change Component Comment : Designator=H1 Old Comment=1053131302 New Comment=1053131304
+Change Component Comment : Designator=H2 Old Comment=1053131302 New Comment=1053131304
+Change Component Comment : Designator=H3 Old Comment=1053131302 New Comment=1053131304
+Change component parameters: Designator = "H0" ("H0"); Footprint = "CON_1053131302"; UniqueID = "\RNBGOZII" ("\RNBGOZII")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1053131304"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H1" ("H1"); Footprint = "CON_1053131302"; UniqueID = "\ESEDQQUM" ("\ESEDQQUM")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1053131304"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H2" ("H2"); Footprint = "CON_1053131302"; UniqueID = "\KFMHGIWL" ("\KFMHGIWL")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1053131304"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H3" ("H3"); Footprint = "CON_1053131302"; UniqueID = "\NQKLDEGO" ("\NQKLDEGO")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1053131304"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24 Pin=H0-3
+Added Pin To Net: NetName=+24 Pin=H1-3
+Added Pin To Net: NetName=+24 Pin=H2-3
+Added Pin To Net: NetName=+24 Pin=H3-3
