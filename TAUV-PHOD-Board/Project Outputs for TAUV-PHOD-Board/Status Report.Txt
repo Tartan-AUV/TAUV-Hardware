@@ -1,0 +1,26 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 6:36:01 PM On 4/9/2023
+
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : PCB Document [TAUV-PHOD-Board.PcbDoc]
+   Generated File[TAUV-PHOD-Board_Copper_Signal_Top.gbr]
+   Generated File[TAUV-PHOD-Board_Copper_Signal_Bot.gbr]
+   Generated File[TAUV-PHOD-Board_Legend_Top.gbr]
+   Generated File[TAUV-PHOD-Board_Legend_Bot.gbr]
+   Generated File[TAUV-PHOD-Board_Soldermask_Top.gbr]
+   Generated File[TAUV-PHOD-Board_Soldermask_Bot.gbr]
+   Generated File[TAUV-PHOD-Board_Paste_Top.gbr]
+   Generated File[TAUV-PHOD-Board_Paste_Bot.gbr]
+   Generated File[TAUV-PHOD-Board_Profile.gbr]
+   Generated File[TAUV-PHOD-Board_NPTH_Drill.gbr]
+   Generated File[TAUV-PHOD-Board_PTH_Drill.gbr]
+   Generated File[TAUV-PHOD-Board.EXTREP]
+   Generated File[TAUV-PHOD-Board.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 6:36:04 PM On 4/9/2023
