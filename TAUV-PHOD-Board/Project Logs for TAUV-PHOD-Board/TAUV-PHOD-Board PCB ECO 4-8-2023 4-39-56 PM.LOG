@@ -1,0 +1,12 @@
+Added Component: Designator=CTRL(CON_1053131305)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1053131305"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCTRL_1 Pin=CTRL-1
+Added Pin To Net: NetName=NetCTRL_2 Pin=CTRL-2
+Added Pin To Net: NetName=NetCTRL_3 Pin=CTRL-3
+Added Pin To Net: NetName=3V3 Pin=CTRL-4
+Added Pin To Net: NetName=GND Pin=CTRL-5
+Added Member To Class: ClassName=Main Member=Component CTRL 1053131305

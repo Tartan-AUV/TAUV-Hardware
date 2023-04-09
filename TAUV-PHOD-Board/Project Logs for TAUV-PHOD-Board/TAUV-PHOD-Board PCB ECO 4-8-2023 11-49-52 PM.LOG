@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetCTRL_1 Pin=CTRL-1
+Removed Pin From Net: NetName=NetCTRL_3 Pin=CTRL-3
+Added Pin To Net: NetName=NetCTRL_3 Pin=CTRL-1
+Added Pin To Net: NetName=NetCTRL_1 Pin=CTRL-3
+Change Net Name : Old Net Name=NetCTRL_1 New Net Name=NetCTRL_3
+Change Net Name : Old Net Name=NetCTRL_3 New Net Name=NetCTRL_1
