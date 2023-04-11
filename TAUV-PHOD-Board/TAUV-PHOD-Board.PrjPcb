@@ -233,7 +233,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UDKLOHID
 
 [Document12]
 DocumentPath=..\..\..\..\..\Downloads\ul_1053131302\AltiumDesigner\2023-03-25_20-01-06\1053131302.SchLib
@@ -250,7 +250,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VGBBTGUJ
 
 [Document13]
 DocumentPath=..\..\..\..\..\Downloads\ul_1053131304\AltiumDesigner\2023-03-25_04-02-16\1053131304.SchLib
@@ -267,7 +267,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OTBNRBUT
 
 [Document14]
 DocumentPath=..\..\..\..\..\Downloads\ul_1053131305\AltiumDesigner\2023-04-08_19-44-20\1053131305.PcbLib
@@ -301,7 +301,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JIOYDJQX
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for TAUV-PHOD-Board\Design Rule Check - TAUV-PHOD-Board.html
@@ -319,7 +319,7 @@ ConfigurationType=Source
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
-AutoOpenOutJob=-1
+AutoOpenOutJob=0
 
 [Generic_SmartPDFSettings]
 ProjectMode=-1
@@ -335,7 +335,7 @@ TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=1
 SCH_PrintColor=0
-PrintQuality=-4
+PrintQuality=-3
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
