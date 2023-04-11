@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=TAUV-Modem-Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -155,10 +155,14 @@ DocumentPath=Project Outputs for TAUV-Modem\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=PCB1 4-10-2023 6-59-47 PM.WAS
+DocumentPath=Project Outputs for TAUV-Modem\Design Rule Check - TAUV-Modem-Board.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=PCB1 4-10-2023 6-59-47 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for TAUV-Modem\TAUV-Modem.xlsx
 DItemRevisionGUID=
 
