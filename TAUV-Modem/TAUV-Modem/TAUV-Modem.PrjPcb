@@ -151,10 +151,14 @@ GenerateClassCluster=0
 DocumentUniqueId=MQLURIVE
 
 [GeneratedDocument1]
-DocumentPath=PCB1 4-10-2023 6-59-47 PM.WAS
+DocumentPath=Project Outputs for TAUV-Modem\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=PCB1 4-10-2023 6-59-47 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for TAUV-Modem\TAUV-Modem.xlsx
 DItemRevisionGUID=
 
