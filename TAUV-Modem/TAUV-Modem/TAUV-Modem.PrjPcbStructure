@@ -1,4 +1,3 @@
 Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Rx|SchDesignator=U_Rx|FileName=Rx.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Rx.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Rx|SchDesignator=U_Rx|FileName=Rx.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Rx.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Tx|SchDesignator=U_Tx|FileName=Tx.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Tx.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
