@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job1.OutJob
+Name=TAUV-Modem.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -46,6 +46,19 @@ OutputEnabled1_OutputMedium4=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=BoardID=MQLURIVE|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName=TAUV-Modem-Board_Profile.gbr|PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UncheckPlotDrillDrawingPair0_Backdrill=False|UncheckPlotDrillDrawingPair0_Checked=False|UncheckPlotDrillDrawingPair0_DrillType=Regular|UncheckPlotDrillDrawingPair0_FileName=TAUV-Modem-Board_Drawing_1.gbr|UncheckPlotDrillDrawingPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingPair0_LowLayer=Top Layer|UncheckPlotDrillGuidePair0_Backdrill=False|UncheckPlotDrillGuidePair0_Checked=False|UncheckPlotDrillGuidePair0_DrillType=Regular|UncheckPlotDrillGuidePair0_FileName=TAUV-Modem-Board_Drillmap_1.gbr|UncheckPlotDrillGuidePair0_HighLayer=Bottom Layer|UncheckPlotDrillGuidePair0_LowLayer=Top Layer|UserLayerName.Caption0=TAUV-Modem-Board_Legend_Bot.gbr|UserLayerName.Caption1=TAUV-Modem-Board_Paste_Top.gbr|UserLayerName.Caption10=TAUV-Modem-Board_Soldermask_Bot.gbr|UserLayerName.Caption11=TAUV-Modem-Board_Top_Component_Center.gbr|UserLayerName.Caption12=TAUV-Modem-Board_Mechanical_1.gbr|UserLayerName.Caption13=TAUV-Modem-Board_Copper_Signal_Bot.gbr|UserLayerName.Caption14=TAUV-Modem-Board_Top_Assembly.gbr|UserLayerName.Caption15=TAUV-Modem-Board_Top_Courtyard.gbr|UserLayerName.Caption16=TAUV-Modem-Board_Bottom_Component_Center.gbr|UserLayerName.Caption17=TAUV-Modem-Board_Bottom_Assembly.gbr|UserLayerName.Caption18=TAUV-Modem-Board_Copper_Signal_Top.gbr|UserLayerName.Caption19=TAUV-Modem-Board_Paste_Bot.gbr|UserLayerName.Caption2=TAUV-Modem-Board_Legend_Top.gbr|UserLayerName.Caption3=TAUV-Modem-Board_Soldermask_Top.gbr|UserLayerName.Caption4=TAUV-Modem-Board_Top_3D_Body.gbr|UserLayerName.Caption5=TAUV-Modem-Board_Bottom_Courtyard.gbr|UserLayerName.Caption6=TAUV-Modem-Board_Bottom_3D_Body.gbr|UserLayerName.Caption7=TAUV-Modem-Board_Keep-out.gbr|UserLayerName.Caption8=TAUV-Modem-Board_Pads_Top.gbr|UserLayerName.Caption9=TAUV-Modem-Board_Pads_Bot.gbr|UserLayerName.Count=20|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973835|UserLayerName.Layer11=16908304|UserLayerName.Layer12=16908289|UserLayerName.Layer13=16842751|UserLayerName.Layer14=16908293|UserLayerName.Layer15=16908303|UserLayerName.Layer16=16908312|UserLayerName.Layer17=16908308|UserLayerName.Layer18=16777217|UserLayerName.Layer19=16973833|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908309|UserLayerName.Layer6=16908311|UserLayerName.Layer7=16973837|UserLayerName.Layer8=16973848|UserLayerName.Layer9=16973849|DocumentPath=Y:\Documents\GitHub\TAUV-Hardware\TAUV-Modem\TAUV-Modem\TAUV-Modem-Board.PcbDoc
+OutputType2=ExportSTEP
+OutputName2=Export STEP
+OutputCategory2=Export
+OutputDocumentPath2=TAUV-Modem-Board.PcbDoc
+OutputVariantName2=
+OutputEnabled2=1
+OutputEnabled2_OutputMedium1=0
+OutputEnabled2_OutputMedium2=0
+OutputEnabled2_OutputMedium3=2
+OutputEnabled2_OutputMedium4=0
+OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=False|IncludeElectricalPadHoles=False|IncludeFreePadHoles=False|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=1|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=Y:\Documents\GitHub\TAUV-Hardware\TAUV-Modem\TAUV-Modem\TAUV-Modem-Board.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=
@@ -75,7 +88,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=Project Outputs for Free Documents\
+OutputFilePath3=Y:\Documents\GitHub\TAUV-Hardware\TAUV-Modem\TAUV-Modem\Project Outputs for TAUV-Modem\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for TAUV-Modem
 OutputPathMedia3=
@@ -129,7 +142,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=
 OpenOutputs2=1
-RelativeOutputPath3=Project Outputs for Free Documents\
+RelativeOutputPath3=Y:\Documents\GitHub\TAUV-Hardware\TAUV-Modem\TAUV-Modem\Project Outputs for TAUV-Modem\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0

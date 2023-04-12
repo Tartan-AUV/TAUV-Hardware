@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+Y:\Documents\GitHub\TAUV-Hardware\TAUV-Acoustics Power Board\Project Outputs for TAUV-Acoustics Power Board\Pick Place\Pick Place for TAUV-Acoustics Power Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/04/23
+Time:       11:03
+Revision:   e5e294d0f9e547e8572142e8d7ff0c339df6339d
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment          Description                                                                                              Designator Footprint         Layer    Rotation 
+2178.661      1110.787      1053131302       "No Description Available"                                                                               "PWR IN"   CON_1053131302    TopLayer 90       
+2178.661      561.575       1053131303       "No Description Available"                                                                               "PWR OUT"  CON_1053131303    TopLayer 90       
+1151.632      1144.803      LM5000-3MTC/NOPB "High Voltage Switch Mode Regulator, 16-pin TSSOP, Pb-Free"                                              U4         PW0016A_L         TopLayer 0        
+585.000       670.000       TPS7A4901DRBR    None                                                                                                     U3         FP-DRB0008A-MFG   TopLayer 90       
+1552.104      444.803       LMR50410YQDBVRQ1 "NIXON PLUS-LMR50410YQDBVRQ1"                                                                            U2         FP-DBV0006A-MFG   TopLayer 0        
+882.402       671.694       TPS7A2050PDBVR   "300-mA, ultra-low-noise, low-IQ, low-dropout (LDO) linear regulator with high PSRR 5-SOT-23 -40 to 125" U1         FP-DBV0005A-IPC_B TopLayer 90       
+1391.632      450.276       ±0.1%            Resistor                                                                                                 Rfb6       J1-0603           TopLayer 90       
+1391.632      320.276       ±0.1%            Resistor                                                                                                 Rfb5       J1-0603           TopLayer 90       
+574.449       540.000       ±0.1%            Resistor                                                                                                 Rfb4       J1-0603           TopLayer 180      
+709.449       540.000       ±0.1%            Resistor                                                                                                 Rfb3       J1-0603           TopLayer 180      
+926.632       1239.803      ±0.1%            Resistor                                                                                                 Rfb2       J1-0603           TopLayer 90       
+926.632       1084.803      ±0.1%            Resistor                                                                                                 Rfb1       J1-0603           TopLayer 90       
+730.000       1205.000      ±1%              Resistor                                                                                                 R5         J1-0603           TopLayer 90       
+1641.632      1159.803      ±5%              Resistor                                                                                                 R1         J1-0603           TopLayer 0        
+1621.575      1400.000      "390µH 1.77Ohm"  "SMD Power Inductor WE-PD2, L = 390 µH"                                                                  L2         WE-PD2-L          TopLayer 180      
+1245.000      725.000       "5.6 µH 120mOhm" "SMD Shielded Tiny Power Inductor WE-TPC, L = 5.60 µH"                                                   L1         WE-TPC-8012       TopLayer 180      
+1125.215      1409.803      "550mV  1A"      "Schottky Diode"                                                                                         D1         SMB               TopLayer 180      
+1176.632      399.803       "Low ESR"        Capacitor                                                                                                Cout4      C1210             TopLayer 90       
+874.803       843.368       "Low ESR X7R"    Capacitor                                                                                                Cout3      C0805             TopLayer 180      
+594.449       320.000       "Low ESR"        Capacitor                                                                                                Cout2      C1210             TopLayer 180      
+516.632       1169.803      "Low ESR"        "Conductive Polymer Hybrid Aluminum Electrolytic Capacitors 68uF ±20% 35V RADIAL SMT 6.3x7.7mm"          Cout1      FP-EEH-D8-MFG     TopLayer 270      
+1856.632      415.276       Reg              Capacitor                                                                                                Cin5       C0805             TopLayer 90       
+1726.632      415.276       Reg              Capacitor                                                                                                Cin4       C0805             TopLayer 90       
+889.803       483.368       "Low ESR X7R"    Capacitor                                                                                                Cin3       C0805             TopLayer 180      
+464.449       835.000       "Low ESR"        Capacitor                                                                                                Cin2       C1210             TopLayer 180      
+1670.000      1030.000      "Low ESR"        Capacitor                                                                                                Cin1       C0805             TopLayer 90       
+1486.632      1130.276      Reg              Capacitor                                                                                                C8         C0805             TopLayer 90       
+1381.632      1014.803      "Low ESR"        Capacitor                                                                                                C7         C0805             TopLayer 90       
+1381.632      1249.803      "Low ESR"        Capacitor                                                                                                C6         C0805             TopLayer 270      
+770.000       1055.000      "Low ESR"        Capacitor                                                                                                C5         C0805             TopLayer 90       
+816.632       1205.276      "Low ESR"        Capacitor                                                                                                C4         C0805             TopLayer 90       
+1551.632      584.803       "Low ESR"        Capacitor                                                                                                C3         C0805             TopLayer 180      
+574.449       450.000       Reg              Capacitor                                                                                                C2         C0805             TopLayer 180      
+639.449       820.000       "Low ESR"        Capacitor                                                                                                C1         C0805             TopLayer 180      

@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [TAUV-Modem-Board.PcbDoc]
+   Generated File[TAUV-Modem-Board.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:05:17 AM On 4/12/2023
