@@ -1,0 +1,94 @@
+Added Component: Designator=D4(LED_0805)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 1.40mm x 1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "35mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.31, 10=0.225, 25=0.1656, 100=0.1183, 250=0.0804, 500=0.07096, 1000=0.05558 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "350441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1426-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Dominant"; Value = "571nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Peak"; Value = "574nm"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED_0805)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 1.40mm x 1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "35mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.31, 10=0.225, 25=0.1656, 100=0.1183, 250=0.0804, 500=0.07096, 1000=0.05558 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "350441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1426-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Dominant"; Value = "571nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Peak"; Value = "574nm"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=GND Pin=TP1-1
+Added Pin To Net: NetName=VBATT_FILT Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=VTHRST Pin=TP4-1
+Added Member To Class: ClassName=Sht1-Schem Member=Component D4 LED GREEN
+Added Member To Class: ClassName=Sht1-Schem Member=Component D5 LED GREEN
+Added Member To Class: ClassName=Sht1-Schem Member=Component TP1 Test Point Loop
+Added Member To Class: ClassName=Sht1-Schem Member=Component TP2 Test Point Loop
+Added Member To Class: ClassName=Sht1-Schem Member=Component TP3 Test Point Loop
+Added Member To Class: ClassName=Sht1-Schem Member=Component TP4 Test Point Loop

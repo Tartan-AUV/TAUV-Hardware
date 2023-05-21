@@ -1,0 +1,239 @@
+Added Component: Designator=?(TRANS_NexFET_Q5A)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "http://www.ti.com/lit/ds/symlink/csd18537nq5a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IdsMax"; Value = "50.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CSD18537NQ5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QgTyp"; Value = "14.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rdson45"; Value = "0.014559"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VdsMax"; Value = "60.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Added Component: Designator=?(TRANS_NexFET_Q5A)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "http://www.ti.com/lit/ds/symlink/csd18537nq5a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IdsMax"; Value = "50.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CSD18537NQ5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QgTyp"; Value = "14.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rdson45"; Value = "0.014559"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VdsMax"; Value = "60.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Added Component: Designator=?(TRANS_NexFET_Q5A)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "http://www.ti.com/lit/ds/symlink/csd18537nq5a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IdsMax"; Value = "50.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CSD18537NQ5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QgTyp"; Value = "14.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rdson45"; Value = "0.014559"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VdsMax"; Value = "60.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP-GRM21B-0_15-IPC_C)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2013X135X45LL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR71H105KA12L"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SBRT15U50SP5-13
+Added Component: Designator=D?(LFUS-DO-214AC-A-2_V)
+Add component (AddParameter): Name = "Applications"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bidirectional Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance @ Frequency"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "CircuitProtection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Peak Pulse (10/1000µs)"; Value = "8.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "11/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "TVS-Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse-Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.littelfuse.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~150°C(TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "DO-214AC,SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.295 x 2.595 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power - Peak Pulse"; Value = "400W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Line Protection"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SMAJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "DO-214AC(SMA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Zener"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unidirectional Channels"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Breakdown (Min)"; Value = "33.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Clamping (Max) @ Ipp"; Value = "48.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Reverse Standoff (Typ)"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(2-pin Megafit RA)
+Added Component: Designator=J?(2-pin Megafit RA)
+Added Component: Designator=J?(2-pin Megafit RA)
+Added Component: Designator=J?(2-pin Megafit RA)
+Added Component: Designator=J?(2-pin Megafit RA)
+Added Component: Designator=J?(2-pin Megafit RA)
+Added Component: Designator=J?(2-pin Megafit RA)
+Added Component: Designator=J?(2-pin Megafit RA)
+Added Component: Designator=J?(2-pin Megafit RA)
+Added Component: Designator=J?(2-pin Megafit RA)
+Added Component: Designator=P?(MOLEX NANO-FIT 2X7 - Right Angle)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ProductDetail/Molex/105314-1214?qs=PqFvFmEiOr6wLIXpvlvqbA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105314-1214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105314-1214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105314-1214"; VariantName = "[No Variations]"
+Added Component: Designator=P?(XT90)
+Added Component: Designator=P?(MOLEX NANO-FIT 2X7 - Right Angle)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ProductDetail/Molex/105314-1214?qs=PqFvFmEiOr6wLIXpvlvqbA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105314-1214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105314-1214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105314-1214"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TO254P1521X483-4N
+Add Component: Footprint Not Found TO254P1521X483-4N
+Added Component: Designator=R?(RESC0603(1608)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4700.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC0603(1608)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4700.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-89-3_2P7X4P7_ONS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN_N Pin=P?-5
+Added Pin To Net: NetName=EN_N Pin=R?-1
+Added Pin To Net: NetName=EN_N Pin=R?-1
+Added Net: Name=EN_N
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-8
+Added Pin To Net: NetName=GND Pin=P?-9
+Added Pin To Net: NetName=GND Pin=P?-10
+Added Pin To Net: NetName=GND Pin=P?-11
+Added Pin To Net: NetName=GND Pin=P?-11
+Added Pin To Net: NetName=GND Pin=P?-12
+Added Pin To Net: NetName=GND Pin=P?-12
+Added Pin To Net: NetName=GND Pin=P?-13
+Added Pin To Net: NetName=GND Pin=P?-14
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net?_4 Pin=?-4
+Added Pin To Net: NetName=Net?_4 Pin=?-4
+Added Pin To Net: NetName=Net?_4 Pin=?-4
+Added Net: Name=Net?_4
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=THRST_EN_P Pin=P?-10
+Added Net: Name=THRST_EN_P
+Added Pin To Net: NetName=V3P3_LE Pin=C?-2
+Added Pin To Net: NetName=V3P3_LE Pin=P?-3
+Added Pin To Net: NetName=V3P3_LE Pin=P?-4
+Added Pin To Net: NetName=V3P3_LE Pin=U?-1
+Added Net: Name=V3P3_LE
+Added Pin To Net: NetName=VBATT_FILT Pin=C?-2
+Added Pin To Net: NetName=VBATT_FILT Pin=P?-1
+Added Pin To Net: NetName=VBATT_FILT Pin=P?-2
+Added Pin To Net: NetName=VBATT_FILT Pin=P?-3
+Added Pin To Net: NetName=VBATT_FILT Pin=P?-4
+Added Pin To Net: NetName=VBATT_FILT Pin=P?-5
+Added Pin To Net: NetName=VBATT_FILT Pin=P?-6
+Added Pin To Net: NetName=VBATT_FILT Pin=P?-7
+Added Pin To Net: NetName=VBATT_FILT Pin=U?-3
+Added Net: Name=VBATT_FILT
+Added Pin To Net: NetName=VBATT Pin=?-5
+Added Pin To Net: NetName=VBATT Pin=?-5
+Added Pin To Net: NetName=VBATT Pin=?-5
+Added Pin To Net: NetName=VBATT Pin=?-6
+Added Pin To Net: NetName=VBATT Pin=?-6
+Added Pin To Net: NetName=VBATT Pin=?-6
+Added Pin To Net: NetName=VBATT Pin=?-7
+Added Pin To Net: NetName=VBATT Pin=?-7
+Added Pin To Net: NetName=VBATT Pin=?-7
+Added Pin To Net: NetName=VBATT Pin=?-8
+Added Pin To Net: NetName=VBATT Pin=?-8
+Added Pin To Net: NetName=VBATT Pin=?-8
+Added Pin To Net: NetName=VBATT Pin=?-9
+Added Pin To Net: NetName=VBATT Pin=?-9
+Added Pin To Net: NetName=VBATT Pin=?-9
+Added Pin To Net: NetName=VBATT Pin=D?-1
+Added Pin To Net: NetName=VBATT Pin=P?-2
+Added Net: Name=VBATT
+Added Pin To Net: NetName=VTHRST Pin=?-1
+Added Pin To Net: NetName=VTHRST Pin=?-1
+Added Pin To Net: NetName=VTHRST Pin=?-1
+Added Pin To Net: NetName=VTHRST Pin=?-2
+Added Pin To Net: NetName=VTHRST Pin=?-2
+Added Pin To Net: NetName=VTHRST Pin=?-2
+Added Pin To Net: NetName=VTHRST Pin=?-3
+Added Pin To Net: NetName=VTHRST Pin=?-3
+Added Pin To Net: NetName=VTHRST Pin=?-3
+Added Pin To Net: NetName=VTHRST Pin=J?-2
+Added Pin To Net: NetName=VTHRST Pin=J?-2
+Added Pin To Net: NetName=VTHRST Pin=J?-2
+Added Pin To Net: NetName=VTHRST Pin=J?-2
+Added Pin To Net: NetName=VTHRST Pin=J?-2
+Added Pin To Net: NetName=VTHRST Pin=J?-2
+Added Pin To Net: NetName=VTHRST Pin=J?-2
+Added Pin To Net: NetName=VTHRST Pin=J?-2
+Added Pin To Net: NetName=VTHRST Pin=J?-2
+Added Pin To Net: NetName=VTHRST Pin=J?-2
+Added Net: Name=VTHRST
+Added Class: Name=Sht1-Schem

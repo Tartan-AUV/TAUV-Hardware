@@ -1,0 +1,117 @@
+Removed Pin From Net: NetName=THRST_EN_P Pin=P3-10
+Added Component: Designator=4(TRANS_NexFET_Q5A)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "http://www.ti.com/lit/ds/symlink/csd18537nq5a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IdsMax"; Value = "50.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CSD18537NQ5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "QgTyp"; Value = "14.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rdson45"; Value = "0.014559"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VdsMax"; Value = "60.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Added Component: Designator=Cin1(C0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout1(C0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=D3(ONSC-SMA-2-403D-02_F_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/1SMA5913BT3-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/1SMA5913BT3-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Small Molded Package, J-Bend Lead, Body 2.605 x 4.315 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMA-2-403D-02_F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 11/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1SMA5931BT3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VZ Typ (V)"; Value = "18"; VariantName = "[No Variations]"
+Added Component: Designator=L1(WE-PD2-M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/74477420.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 2, Jun-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "100 ÂµH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMD Inductor, 2-Leads, Body 5.8 x 5.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WE-PD2-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2005"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found J1-0603
+Add Component: Footprint Not Found J1-0603
+Add Component: Footprint Not Found J1-0603
+Added Component: Designator=U2(FP-PG-DSO-8-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Halogen Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Drivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VTHRST Pin=4-1
+Added Pin To Net: NetName=VTHRST Pin=4-2
+Added Pin To Net: NetName=VTHRST Pin=4-3
+Added Pin To Net: NetName=THRST_EN_P Pin=4-4
+Added Pin To Net: NetName=VBATT Pin=4-5
+Added Pin To Net: NetName=VBATT Pin=4-6
+Added Pin To Net: NetName=VBATT Pin=4-7
+Added Pin To Net: NetName=VBATT Pin=4-8
+Added Pin To Net: NetName=VBATT Pin=4-9
+Added Pin To Net: NetName=GND Pin=Cin1-1
+Added Pin To Net: NetName=VBATT Pin=Cin1-2
+Added Pin To Net: NetName=VBATT Pin=Cout1-2
+Added Pin To Net: NetName=THRST_EN_P Pin=D3-1
+Added Pin To Net: NetName=VTHRST Pin=D3-2
+Added Pin To Net: NetName=VBATT Pin=L1-2
+Add Pin To Net: Unknown Pin: Pin Rg1-2
+Add Pin To Net: Unknown Pin: Pin Rs1-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VTHRST Pin=U2-5
+Added Pin To Net: NetName=VBATT Pin=U2-7
+Change Net Name : Old Net Name=THRST_EN_P New Net Name=THRUSTERS_GATE
+Added Pin To Net: NetName=NetCout1_1 Pin=Cout1-1
+Added Pin To Net: NetName=NetCout1_1 Pin=U2-8
+Added Net: Name=NetCout1_1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U2-4
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetRg1_1 Pin=U2-6
+Added Net: Name=NetRg1_1
+Added Pin To Net: NetName=NetRin1_1 Pin=U2-1
+Added Net: Name=NetRin1_1
+Added Pin To Net: NetName=NetRs1_2 Pin=U2-3
+Added Net: Name=NetRs1_2
+Added Pin To Net: NetName=THRST_EN_P Pin=P3-10
+Added Net: Name=THRST_EN_P
+Added Member To Class: ClassName=Sht1-Schem Member=Component 4 DNP
+Added Member To Class: ClassName=Sht1-Schem Member=Component Cin1 X7R
+Added Member To Class: ClassName=Sht1-Schem Member=Component Cout1 X7R
+Added Member To Class: ClassName=Sht1-Schem Member=Component D3 1SMA5931BT3G
+Added Member To Class: ClassName=Sht1-Schem Member=Component L1 74477420
+Add Class Member: Failed to add class member : Component Rg1 0603
+Add Class Member: Failed to add class member : Component Rin1 0603
+Add Class Member: Failed to add class member : Component Rs1 0603
+Added Member To Class: ClassName=Sht1-Schem Member=Component U2 AUIR3241STR

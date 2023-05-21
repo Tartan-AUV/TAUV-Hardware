@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=Rs1 Old Footprint=RESC1609X55X30ML10T20 New Footprint=RESC1608X55X25NL10T15
+Change Component Comment : Designator=Rs1 Old Comment=CRCW060310R0FKEAHP New Comment=RC0603FR-0710RL
+Change Managed Component Library Link : Designator=Rs1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=265E2685-010A-46B9-A968-DFEC1BEAC5A6 New ItemGUID=0E8A4B76-DD74-4CAD-B065-936A97A8589B Old RevisionGUID=8E7E6057-FDFA-44BC-A98B-1010737EA72A New RevisionGUID=F458723C-85C8-4CC4-9685-E2ADD4C44890
+Change component parameters: Designator = "Rs1" ("Rs1"); Footprint = "RESC1609X55X30ML10T20"; UniqueID = "\BJKMRDMC" ("\BJKMRDMC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.farnell.com/datasheets/443971.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4, 02/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.45 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"

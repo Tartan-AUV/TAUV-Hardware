@@ -1,0 +1,24 @@
+Added Component: Designator=Q1(TO254P1521X483-4N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF9Z34STRLPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "D2PAK Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF9Z34STRLPBF/Vishay%20Siliconix/view-part/813693/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(TO254P1521X483-4N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF9Z34STRLPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "D2PAK Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF9Z34STRLPBF/Vishay%20Siliconix/view-part/813693/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN_N Pin=Q1-1
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-3
+Added Pin To Net: NetName=VBATT_FILT Pin=Q1-4
+Added Pin To Net: NetName=EN_N Pin=Q2-1
+Added Pin To Net: NetName=NetD1_2 Pin=Q2-3
+Added Pin To Net: NetName=VBATT_FILT Pin=Q2-4
+Added Member To Class: ClassName=Sht1-Schem Member=Component Q1 IRF9Z34STRLPBF
+Added Member To Class: ClassName=Sht1-Schem Member=Component Q2 IRF9Z34STRLPBF

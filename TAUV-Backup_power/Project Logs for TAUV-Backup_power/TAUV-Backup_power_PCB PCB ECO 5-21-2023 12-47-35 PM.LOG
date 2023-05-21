@@ -1,0 +1,6 @@
+Added Component: Designator=C2(CAPC2013X135X45LL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR71H105KA12L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VBATT_FILT Pin=C2-2
+Added Member To Class: ClassName=Sht1-Schem Member=Component C2 GRM21BR71H105KA12L

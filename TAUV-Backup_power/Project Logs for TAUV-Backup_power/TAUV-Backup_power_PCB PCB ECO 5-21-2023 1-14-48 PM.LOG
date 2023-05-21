@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=MH3-0
+Removed Member From Class: ClassName=Sht1-Schem Member=MH3
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Added Component: Designator=R3(RESC0603(1608)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1200.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC0603(1608)_L)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1200.00 Ohm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D5-1
+Added Pin To Net: NetName=VBATT_FILT Pin=R3-2
+Added Pin To Net: NetName=VTHRST Pin=R4-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Pin To Net: NetName=NetD4_2 Pin=R3-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=R4-1
+Added Net: Name=NetD5_2
+Add Class Member: Failed to add class member : Component D4 LED GREEN
+Add Class Member: Failed to add class member : Component D5 LED GREEN
+Added Member To Class: ClassName=Sht1-Schem Member=Component R3 1K2
+Added Member To Class: ClassName=Sht1-Schem Member=Component R4 1K2
+Add Class Member: Failed to add class member : Component TP1 Test Point Loop
+Add Class Member: Failed to add class member : Component TP2 Test Point Loop
+Add Class Member: Failed to add class member : Component TP3 Test Point Loop
+Add Class Member: Failed to add class member : Component TP4 Test Point Loop

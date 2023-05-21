@@ -1,0 +1,41 @@
+Added Component: Designator=Rg1(RESC1609X50X30ML8T20)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "06/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.575 x 0.85 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=Rin1(RESC1609X50X30NL8T20)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11809/0900766b80d98afc-11809037.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "06/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.55 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.575 x 0.85 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75 V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found J1-0603
+Added Pin To Net: NetName=NetRg1_1 Pin=Rg1-1
+Added Pin To Net: NetName=THRUSTERS_GATE Pin=Rg1-2
+Added Pin To Net: NetName=THRST_EN_P Pin=Rin1-1
+Add Pin To Net: Unknown Pin: Pin Rs1-1
+Add Pin To Net: Unknown Pin: Pin Rs1-2
+Added Pin To Net: NetName=NetRin1_2 Pin=Rin1-2
+Added Pin To Net: NetName=NetRin1_2 Pin=U2-1
+Added Net: Name=NetRin1_2
+Added Member To Class: ClassName=Sht1-Schem Member=Component Rg1 CRCW0603100RFKEA
+Added Member To Class: ClassName=Sht1-Schem Member=Component Rin1 CRCW060310K0FKEA
+Add Class Member: Failed to add class member : Component Rs1 0603

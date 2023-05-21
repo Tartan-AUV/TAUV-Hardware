@@ -1,0 +1,32 @@
+Added Component: Designator=TP1(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TP1-1
+Added Pin To Net: NetName=VBATT_FILT Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=VTHRST Pin=TP4-1
+Added Member To Class: ClassName=Sht1-Schem Member=Component TP1 Test Point Loop
+Added Member To Class: ClassName=Sht1-Schem Member=Component TP2 Test Point Loop
+Added Member To Class: ClassName=Sht1-Schem Member=Component TP3 Test Point Loop
+Added Member To Class: ClassName=Sht1-Schem Member=Component TP4 Test Point Loop

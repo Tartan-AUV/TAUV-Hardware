@@ -1,0 +1,17 @@
+Add Component: Footprint Not Found SBRT15U50SP5-13
+Add Component: Footprint Not Found TO254P1521X483-4N
+Add Component: Footprint Not Found TO254P1521X483-4N
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q1-4
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin Q2-4
+Added Member To Class: ClassName=Sht1-Schem Member=Component 1 BSC0702LSATMA1
+Add Class Member: Failed to add class member : Component D1 SBRT15U50SP5-13
+Added Member To Class: ClassName=Sht1-Schem Member=Component J7 2-pin megafit
+Added Member To Class: ClassName=Sht1-Schem Member=Component P2 XT90
+Add Class Member: Failed to add class member : Component Q1 IRF9Z34STRLPBF
+Add Class Member: Failed to add class member : Component Q2 IRF9Z34STRLPBF

@@ -1,0 +1,16 @@
+Added Component: Designator=MH1(Mounting Hole #4-40)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://blogs.mentor.com/tom-hausherr/blog/tag/pcb-mounting-holes/"; VariantName = "[No Variations]"
+Added Component: Designator=MH2(Mounting Hole #4-40)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://blogs.mentor.com/tom-hausherr/blog/tag/pcb-mounting-holes/"; VariantName = "[No Variations]"
+Added Component: Designator=MH3(Mounting Hole #4-40)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://blogs.mentor.com/tom-hausherr/blog/tag/pcb-mounting-holes/"; VariantName = "[No Variations]"
+Added Component: Designator=MH4(Mounting Hole #4-40)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://blogs.mentor.com/tom-hausherr/blog/tag/pcb-mounting-holes/"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MH1-0
+Added Pin To Net: NetName=GND Pin=MH2-0
+Added Pin To Net: NetName=GND Pin=MH3-0
+Added Pin To Net: NetName=GND Pin=MH4-0
+Added Member To Class: ClassName=Sht1-Schem Member=Component MH1 DNP
+Added Member To Class: ClassName=Sht1-Schem Member=Component MH2 DNP
+Added Member To Class: ClassName=Sht1-Schem Member=Component MH3 DNP
+Added Member To Class: ClassName=Sht1-Schem Member=Component MH4 DNP

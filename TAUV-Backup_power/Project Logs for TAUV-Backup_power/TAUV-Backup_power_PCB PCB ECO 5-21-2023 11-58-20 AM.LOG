@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=Rs1 Old Footprint=FP-CRCW0603-e3-MFG New Footprint=RESC1609X55X30ML10T20
+Change Component Comment : Designator=Rs1 Old Comment=CRCW060310R0FKEB New Comment=CRCW060310R0FKEAHP
+Change Managed Component Library Link : Designator=Rs1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=27E382D8-F404-4A1F-88BC-4AFD5F6820A9 New ItemGUID=265E2685-010A-46B9-A968-DFEC1BEAC5A6 Old RevisionGUID=31761A5C-9880-4B93-BAE7-FAE9A7238A2F New RevisionGUID=8E7E6057-FDFA-44BC-A98B-1010737EA72A
+Change component parameters: Designator = "Rs1" ("Rs1"); Footprint = "FP-CRCW0603-e3-MFG"; UniqueID = "\YLAJGTJE" ("\YLAJGTJE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW060310R0FKEAHP"; VariantName = "[No Variations]"
