@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\victo\OneDrive\Documents\GitHub\TAUV-Hardware\TAUV- Powerboard_22-23\TAUV-Thruster_Power\TAUV-Thruster_Board.PcbDoc
-Date     : 5/15/2023
-Time     : 12:03:15 AM
+Date     : 5/26/2023
+Time     : 8:23:59 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -33,12 +33,12 @@ Rule Violations :0
 Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad Cin1-1(3160mil,2980.472mil) on Top Layer And Pad Cin1-2(3160mil,3039.528mil) on Top Layer [Top Solder] Mask Sliver [7.748mil]
    Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad Cout1-1(3555mil,3020.472mil) on Top Layer And Pad Cout1-2(3555mil,3079.528mil) on Top Layer [Top Solder] Mask Sliver [7.748mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad OCP_N-1(1825mil,3149.528mil) on Top Layer And Pad OCP_N-2(1825mil,3090.472mil) on Top Layer [Top Solder] Mask Sliver [7.748mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad D3-1(1713.78mil,3148.898mil) on Top Layer And Pad D3-2(1713.78mil,3089.843mil) on Top Layer [Top Solder] Mask Sliver [7.748mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad D4-1(1825mil,3149.528mil) on Top Layer And Pad D4-2(1825mil,3090.472mil) on Top Layer [Top Solder] Mask Sliver [7.748mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.268mil < 10mil) Between Pad Q1-4(2985mil,2805mil) on Top Layer And Via (2985mil,2760mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.268mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.976mil < 10mil) Between Pad Q4-4(2485mil,2805.709mil) on Top Layer And Via (2485mil,2760mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.976mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.717mil < 10mil) Between Pad R3-1(1715mil,3220.394mil) on Top Layer And Pad R3-2(1715mil,3269.606mil) on Top Layer [Top Solder] Mask Sliver [9.717mil]
    Violation between Minimum Solder Mask Sliver Constraint: (9.717mil < 10mil) Between Pad R4-1(1825mil,3220.394mil) on Top Layer And Pad R4-2(1825mil,3269.606mil) on Top Layer [Top Solder] Mask Sliver [9.717mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad THRST_EN-1(1713.78mil,3148.898mil) on Top Layer And Pad THRST_EN-2(1713.78mil,3089.843mil) on Top Layer [Top Solder] Mask Sliver [7.748mil]
    Violation between Minimum Solder Mask Sliver Constraint: (6.693mil < 10mil) Between Pad U3-1(4171.496mil,3181.339mil) on Top Layer And Pad U3-2(4155.748mil,3181.339mil) on Top Layer [Top Solder] Mask Sliver [6.693mil]
    Violation between Minimum Solder Mask Sliver Constraint: (7.059mil < 10mil) Between Pad U3-1(4171.496mil,3181.339mil) on Top Layer And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.059mil]
    Violation between Minimum Solder Mask Sliver Constraint: (7.059mil < 10mil) Between Pad U3-1(4171.496mil,3181.339mil) on Top Layer And Region (0 hole(s)) Top Solder [Top Solder] Mask Sliver [7.059mil]
