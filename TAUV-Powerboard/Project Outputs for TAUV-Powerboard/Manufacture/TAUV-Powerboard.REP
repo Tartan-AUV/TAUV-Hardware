@@ -2,10 +2,12 @@
 FileName = TAUV-Powerboard.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : TAUV-Powerboard.GTO
+Generating : Component Side
+      File : TAUV-Powerboard_Copper_Signal_Top.gbr
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
@@ -19,57 +21,6 @@ Used DCodes :
     D17
     D18
     D19
-*************************************************************
-
-*************************************************************
-Generating : Solder Side
-      File : TAUV-Powerboard.GBL
-
-    Adding Layer      : Solder Side
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D86
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D115
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : TAUV-Powerboard.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : TAUV-Powerboard.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Component Side
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
     D20
     D21
     D22
@@ -97,86 +48,6 @@ Used DCodes :
     D44
     D45
     D46
-*************************************************************
-
-*************************************************************
-Generating : Power Plane
-      File : TAUV-Powerboard.GP2
-
-    Adding Layer      : Power Plane
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D86
-    D88
-    D99
-    D100
-    D101
-    D103
-    D104
-    D105
-    D106
-    D108
-    D109
-    D111
-    D113
-    D114
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 7
-      File : TAUV-Powerboard.GM7
-
-    Adding Layer      : Mechanical 7
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Ground Plane
-      File : TAUV-Powerboard.GP1
-
-    Adding Layer      : Ground Plane
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D86
-    D88
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : TAUV-Powerboard.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Component Side
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
     D47
     D48
     D49
@@ -190,6 +61,19 @@ Used DCodes :
     D57
     D58
     D59
+*************************************************************
+
+*************************************************************
+Generating : Ground Plane
+      File : TAUV-Powerboard_Copper_Plane_1.gbr
+
+    Adding Layer      : Ground Plane
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D54
     D60
     D61
     D62
@@ -205,21 +89,37 @@ Used DCodes :
     D72
     D73
     D74
+*************************************************************
+
+*************************************************************
+Generating : Power Plane
+      File : TAUV-Powerboard_Copper_Plane_2.gbr
+
+    Adding Layer      : Power Plane
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D54
+    D60
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D71
+    D72
+    D73
     D75
     D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : TAUV-Powerboard.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Solder Side
+      File : TAUV-Powerboard_Copper_Signal_Bot.gbr
 
     Adding Layer      : Solder Side
 
@@ -227,13 +127,111 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D11
+    D43
+    D45
+    D48
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : TAUV-Powerboard_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : TAUV-Powerboard_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D82
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : TAUV-Powerboard_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
     D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
 *************************************************************
 
 *************************************************************
 Generating : Bottom Solder
-      File : TAUV-Powerboard.GBS
+      File : TAUV-Powerboard_Soldermask_Bot.gbr
 
     Adding Layer      : Bottom Solder
 
@@ -243,22 +241,22 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D116
-    D117
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
 *************************************************************
 
 *************************************************************
-Generating : Component Side
-      File : TAUV-Powerboard.GTL
+Generating : Top Paste
+      File : TAUV-Powerboard_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Component Side
 
@@ -266,7 +264,12 @@ Generating : Component Side
 
 
 Used DCodes :
+    D10
     D11
+    D12
+    D15
+    D17
+    D18
     D19
     D20
     D21
@@ -285,31 +288,63 @@ Used DCodes :
     D34
     D35
     D36
+    D37
     D38
     D39
     D40
     D41
     D42
-    D43
-    D44
-    D45
-    D46
-    D52
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
+    D128
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : TAUV-Powerboard_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : TAUV-Powerboard_Profile.gbr
+
+
+Used DCodes :
+    D129
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : TAUV-Powerboard_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : TAUV-Powerboard_PTH_Drill.gbr
+
+
+Used DCodes :
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
 *************************************************************
 
