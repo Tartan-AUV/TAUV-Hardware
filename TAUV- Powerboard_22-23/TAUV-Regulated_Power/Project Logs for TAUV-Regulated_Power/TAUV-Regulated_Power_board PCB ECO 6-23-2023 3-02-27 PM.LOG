@@ -1,0 +1,132 @@
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=R38-2
+Removed Pin From Net: NetName=SGND Pin=U6-B1
+Removed Member From Class: ClassName=Sht2-V12P0_reg Member=R27
+Removed Member From Class: ClassName=Sht2-V12P0_reg Member=R32
+Removed Member From Class: ClassName=C73_Nets Member=NetC73_1
+Removed Member From Class: ClassName=Designator_Nets Member=NetC73_1
+Removed Member From Class: ClassName=R39_Nets Member=NetC73_1
+Removed Member From Class: ClassName=C73_Nets Member=NetC73_2
+Removed Member From Class: ClassName=Designator_Nets Member=NetC73_2
+Removed Member From Class: ClassName=U9_Nets Member=NetC73_2
+Removed Member From Class: ClassName=U6_Nets Member=NetR27_1
+Removed Member From Class: ClassName=U6_Nets Member=NetR27_2
+Removed Member From Class: ClassName=U8_Nets Member=NetR32_1
+Removed Member From Class: ClassName=U8_Nets Member=NetR32_2
+Removed Member From Class: ClassName=Designator_Nets Member=NetR38_1
+Removed Member From Class: ClassName=R38_Nets Member=NetR38_1
+Removed Member From Class: ClassName=U9_Nets Member=NetR38_1
+Removed Member From Class: ClassName=Designator_Nets Member=NetR39_2
+Removed Member From Class: ClassName=R39_Nets Member=NetR39_2
+Removed Member From Class: ClassName=U9_Nets Member=NetR39_2
+Removed Member From Class: ClassName=TP28_Nets Member=V12P0_SYNC
+Removed Member From Class: ClassName=U6_Nets Member=V12P0_SYNC
+Removed Member From Class: ClassName=U8_Nets Member=V12P0_SYNC
+Change Component Comment : Designator=C24 Old Comment=12101C225KAT2A New Comment=2.2uF
+Change Component Comment : Designator=C25 Old Comment=12101C225KAT2A New Comment=2.2uF
+Change Component Comment : Designator=C26 Old Comment=12101C225KAT2A New Comment=2.2uF
+Change Component Comment : Designator=C27 Old Comment=12101C225KAT2A New Comment=2.2uF
+Change Component Comment : Designator=C28 Old Comment=12101C225KAT2A New Comment=2.2uF
+Change Component Comment : Designator=C42 Old Comment=12101C225KAT2A New Comment=2.2uF
+Change Component Comment : Designator=C43 Old Comment=12101C225KAT2A New Comment=2.2uF
+Change Component Comment : Designator=C44 Old Comment=12101C225KAT2A New Comment=2.2uF
+Change Component Comment : Designator=C45 Old Comment=12101C225KAT2A New Comment=2.2uF
+Change Component Comment : Designator=C46 Old Comment=12101C225KAT2A New Comment=2.2uF
+Change Component Comment : Designator=C65 Old Comment=C0603C224K8NACTU New Comment=220nF
+Change Component Comment : Designator=C40 Old Comment=C1608C0G1H560J080AA New Comment=56pF
+Change Component Comment : Designator=C58 Old Comment=C1608C0G1H560J080AA New Comment=56pF
+Change Component Comment : Designator=C22 Old Comment=C1608X7R1H334K080AC New Comment=330nF
+Change Component Comment : Designator=C60 Old Comment=C1608X7R1H334K080AC New Comment=330nF
+Change Component Comment : Designator=C73 Old Comment=CC0603KRX7R7BB105 New Comment=1uF
+Change Component Comment : Designator=C62 Old Comment=CC0603KRX7R9BB104 New Comment=0.1uF
+Change Component Comment : Designator=C70 Old Comment=CC0603KRX7R9BB104 New Comment=0.1uF
+Change Component Comment : Designator=C71 Old Comment=CC0603KRX7R9BB104 New Comment=0.1uF
+Change Component Comment : Designator=C72 Old Comment=CC0603KRX7R9BB104 New Comment=0.1uF
+Change Component Comment : Designator=C23 Old Comment=CGA3E2X7R1H104K080AA New Comment=100nF
+Change Component Comment : Designator=C61 Old Comment=CGA3E2X7R1H104K080AA New Comment=100nF
+Change Component Comment : Designator=C63 Old Comment=CL10A226MPCNUBE New Comment=22uF
+Change Component Comment : Designator=C64 Old Comment=CL10A226MPCNUBE New Comment=22uF
+Change Component Comment : Designator=C66 Old Comment=CL10A226MPCNUBE New Comment=22uF
+Change Component Comment : Designator=C67 Old Comment=CL10A226MPCNUBE New Comment=22uF
+Change Component Comment : Designator=C68 Old Comment=CL10A226MPCNUBE New Comment=22uF
+Change Component Comment : Designator=C69 Old Comment=CL10A226MPCNUBE New Comment=22uF
+Change Component Comment : Designator=R38 Old Comment=CRCW06031M50FKEA New Comment=1M5
+Change Component Comment : Designator=R26 Old Comment=CRCW060310K0FKEA New Comment=10K
+Change Component Comment : Designator=R28 Old Comment=CRCW060310K0FKEA New Comment=10K
+Change Component Comment : Designator=R30 Old Comment=CRCW060310K0FKEA New Comment=10K
+Change Component Comment : Designator=R33 Old Comment=CRCW060310K0FKEA New Comment=10K
+Change Component Comment : Designator=R34 Old Comment=CRCW060310K0FKEA New Comment=10K
+Change Component Comment : Designator=R29 Old Comment=CRCW08050000Z0EA New Comment=0R
+Change Component Comment : Designator=R41 Old Comment=ERA3AEB4122V New Comment=41K2
+Change Component Comment : Designator=R39 Old Comment=ERJ-3EKF1003V New Comment=100K
+Change Component Comment : Designator=R42 Old Comment=ERJ-3EKF5601V New Comment=5K6
+Change Component Comment : Designator=R40 Old Comment=ERJ-3RQF3R3V New Comment=3R3
+Change Component Comment : Designator=C29 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C30 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C31 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C32 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C33 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C34 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C35 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C36 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C37 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C38 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C47 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C48 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C49 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C50 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C51 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C52 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C53 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C54 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C55 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C56 Old Comment=GRM32ER71H106KA12L New Comment=10uF
+Change Component Comment : Designator=C39 Old Comment=GRM188R71E473KA01D New Comment=47nF
+Change Component Comment : Designator=C57 Old Comment=GRM188R71E473KA01D New Comment=47nF
+Change Component Comment : Designator=C41 Old Comment=GRM188R72A472KA01D New Comment=4700pF
+Change Component Comment : Designator=C59 Old Comment=GRM188R72A472KA01D New Comment=4700pF
+Change Component Comment : Designator=R31 Old Comment=RC0603FR-071K65L New Comment=1K65
+Change Component Comment : Designator=R35 Old Comment=RC0603FR-071K65L New Comment=1K65
+Added Component: Designator=R3(RESC1608X55X25NL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-072K55L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C73-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=R38-1
+Change Net Name : Old Net Name=V12P0_SYNC New Net Name=V12P0_SYNC0
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U6-B1
+Added Pin To Net: NetName=NetR3_2 Pin=U6-D1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=U9-12
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=U9-3
+Added Net: Name=NetR39_1
+Added Pin To Net: NetName=SERV_VCC Pin=C73-1
+Added Pin To Net: NetName=SERV_VCC Pin=R39-2
+Added Pin To Net: NetName=SERV_VCC Pin=U9-9
+Added Net: Name=SERV_VCC
+Added Pin To Net: NetName=V12P0_SYNC1 Pin=R3-1
+Added Pin To Net: NetName=V12P0_SYNC1 Pin=U8-C1
+Added Net: Name=V12P0_SYNC1
+Change Class Name : Old Net Name=Sht2-V12P0_reg New Net Name=Sht3-V12P0_reg
+Added Class: Name=R3_Nets
+Added Member To Class: ClassName=Sht3-V12P0_reg Member=Component R3 2K5
+Added Member To Class: ClassName=C73_Nets Member=Wire GND
+Added Member To Class: ClassName=U6_Nets Member=Wire NetR3_2
+Added Member To Class: ClassName=Designator_Nets Member=Wire NetR38_2
+Added Member To Class: ClassName=R38_Nets Member=Wire NetR38_2
+Added Member To Class: ClassName=U9_Nets Member=Wire NetR38_2
+Added Member To Class: ClassName=Designator_Nets Member=Wire NetR39_1
+Added Member To Class: ClassName=R39_Nets Member=Wire NetR39_1
+Added Member To Class: ClassName=U9_Nets Member=Wire NetR39_1
+Added Member To Class: ClassName=C73_Nets Member=Wire SERV_VCC
+Added Member To Class: ClassName=Designator_Nets Member=Wire SERV_VCC
+Added Member To Class: ClassName=R39_Nets Member=Wire SERV_VCC
+Added Member To Class: ClassName=U9_Nets Member=Wire SERV_VCC
+Added Member To Class: ClassName=TP28_Nets Member=Wire V12P0_SYNC0
+Added Member To Class: ClassName=U6_Nets Member=Wire V12P0_SYNC0
+Added Member To Class: ClassName=U8_Nets Member=Wire V12P0_SYNC0
+Added Member To Class: ClassName=U8_Nets Member=Wire V12P0_SYNC1
+Added Room: Name=Designator
+Added Room: Name=Designator
