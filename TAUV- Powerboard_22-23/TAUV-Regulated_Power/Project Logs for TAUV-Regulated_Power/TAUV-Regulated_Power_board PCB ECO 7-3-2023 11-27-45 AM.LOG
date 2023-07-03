@@ -1,0 +1,84 @@
+Added Component: Designator=C8(CAPC1608X90X35LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71E473KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC1608X90X35LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71E473KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC1608X90X35LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71E473KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC1608X90X35LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71E473KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC1608X90X35LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71E473KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAPC1608X90X35LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71E473KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAPC1608X90X35LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71E473KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C74(CAPC1608X90X35LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71E473KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C75(CAPC1608X90X35LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71E473KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C76(CAPC1608X90X35LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71E473KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C77(CAPC1608X90X35LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71E473KA01D"; VariantName = "[No Variations]"
+Added Component: Designator=C78(CAPC1608X90X35LL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R71E473KA01D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=V5P0 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=V5P0 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=V5P0 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=V5P0_Servo Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=V5P0_Servo Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=V5P0_Servo Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=V3P3 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=V3P3 Pin=C74-2
+Added Pin To Net: NetName=GND Pin=C75-1
+Added Pin To Net: NetName=V3P3 Pin=C75-2
+Added Pin To Net: NetName=GND Pin=C76-1
+Added Pin To Net: NetName=V12P0 Pin=C76-2
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=V12P0 Pin=C77-2
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=V12P0 Pin=C78-2
+Added Class: Name=C8_Nets
+Added Class: Name=C10_Nets
+Added Class: Name=C11_Nets
+Added Class: Name=C14_Nets
+Added Class: Name=C16_Nets
+Added Class: Name=C18_Nets
+Added Class: Name=C20_Nets
+Added Class: Name=C74_Nets
+Added Class: Name=C75_Nets
+Added Class: Name=C76_Nets
+Added Class: Name=C77_Nets
+Added Class: Name=C78_Nets
+Added Member To Class: ClassName=Designator Member=Component C8 47nF
+Added Member To Class: ClassName=Designator Member=Component C10 47nF
+Added Member To Class: ClassName=Designator Member=Component C11 47nF
+Added Member To Class: ClassName=Designator Member=Component C14 47nF
+Added Member To Class: ClassName=Designator Member=Component C16 47nF
+Added Member To Class: ClassName=Designator Member=Component C18 47nF
+Added Member To Class: ClassName=Designator Member=Component C20 47nF
+Added Member To Class: ClassName=Designator Member=Component C74 47nF
+Added Member To Class: ClassName=Designator Member=Component C75 47nF
+Added Member To Class: ClassName=Sht3-V12P0_reg Member=Component C76 47nF
+Added Member To Class: ClassName=Sht3-V12P0_reg Member=Component C77 47nF
+Added Member To Class: ClassName=Sht3-V12P0_reg Member=Component C78 47nF

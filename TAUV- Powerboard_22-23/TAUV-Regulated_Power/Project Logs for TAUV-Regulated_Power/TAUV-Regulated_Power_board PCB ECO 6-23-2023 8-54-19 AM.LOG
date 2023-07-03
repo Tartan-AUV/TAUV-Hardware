@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Member To Class: ClassName=U?_Nets Member=Wire GND
