@@ -1,22 +1,14 @@
-Output: Gerber X2 Files
-Type  : GerberX2
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:30:24 PM On 7/3/2023
+
+Output: Generates pick and place files
+Type  : Pick Place
 From  : Variant [[No Variations]] of PCB Document [TAUV-Thruster_Board.PcbDoc]
-   Generated File[TAUV-Thruster_Board_Copper_Signal_Top.gbr]
-   Generated File[TAUV-Thruster_Board_Copper_Signal_Bot.gbr]
-   Generated File[TAUV-Thruster_Board_Legend_Top.gbr]
-   Generated File[TAUV-Thruster_Board_Legend_Bot.gbr]
-   Generated File[TAUV-Thruster_Board_Soldermask_Top.gbr]
-   Generated File[TAUV-Thruster_Board_Soldermask_Bot.gbr]
-   Generated File[TAUV-Thruster_Board_Paste_Top.gbr]
-   Generated File[TAUV-Thruster_Board_Paste_Bot.gbr]
-   Generated File[TAUV-Thruster_Board_Profile.gbr]
-   Generated File[TAUV-Thruster_Board_NPTH_Drill.gbr]
-   Generated File[TAUV-Thruster_Board_PTH_Drill.gbr]
-   Generated File[TAUV-Thruster_Board.EXTREP]
-   Generated File[TAUV-Thruster_Board.REP]
+   Generated File[Pick Place for TAUV-Thruster_Board.txt]
 
 
-Files Generated   : 13
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:13:17 AM On 7/4/2023
+Finished Output Generation At 5:30:26 PM On 7/3/2023
