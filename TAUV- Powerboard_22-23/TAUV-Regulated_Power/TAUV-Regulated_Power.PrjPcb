@@ -158,74 +158,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for TAUV-Regulated_Power\Design Rule Check - TAUV-Regulated_Power_board.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board.REP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Copper_Plane_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Copper_Plane_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Copper_Signal_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Copper_Signal_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for TAUV-Regulated_Power\GerberX2\TAUV-Regulated_Power_board_Soldermask_Top.gbr
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -517,6 +449,12 @@ OutputDocumentPath14=
 OutputVariantName14=[No Variations]
 OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType15=PCBDrawing
+OutputName15=Draftsman
+OutputDocumentPath15=
+OutputVariantName15=[No Variations]
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
