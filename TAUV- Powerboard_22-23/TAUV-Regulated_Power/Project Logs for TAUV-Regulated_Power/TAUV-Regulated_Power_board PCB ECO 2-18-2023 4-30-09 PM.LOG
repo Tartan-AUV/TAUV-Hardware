@@ -1,0 +1,1027 @@
+Removed Pin From Net: NetName=GND Pin=Cbias1-2
+Removed Pin From Net: NetName=26_0 Pin=Cboot1-2
+Removed Pin From Net: NetName=11_0 Pin=Cboot2-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk1-1
+Removed Pin From Net: NetName=GND Pin=Cbulk1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk_1-1
+Removed Pin From Net: NetName=GND Pin=Cbulk_1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk_2-1
+Removed Pin From Net: NetName=GND Pin=Cbulk_2-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk_3-1
+Removed Pin From Net: NetName=GND Pin=Cbulk_3-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cbulk_4-1
+Removed Pin From Net: NetName=GND Pin=Cbulk_4-2
+Removed Pin From Net: NetName=GND Pin=Ccomp1-2
+Removed Pin From Net: NetName=GND Pin=Cf1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cin1-1
+Removed Pin From Net: NetName=GND Pin=Cin1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Cin_1-1
+Removed Pin From Net: NetName=GND Pin=Cin_1-2
+Removed Pin From Net: NetName=V12P0_Jetson Pin=Cout1-1
+Removed Pin From Net: NetName=GND Pin=Cout1-2
+Removed Pin From Net: NetName=V12P0_Jetson Pin=Cout_1-1
+Removed Pin From Net: NetName=GND Pin=Cout_1-2
+Removed Pin From Net: NetName=V12P0_Jetson Pin=Coutx1-1
+Removed Pin From Net: NetName=GND Pin=Coutx1-2
+Removed Pin From Net: NetName=V12P0_Jetson Pin=Coutx2-1
+Removed Pin From Net: NetName=GND Pin=Coutx2-2
+Removed Pin From Net: NetName=V12P0_Jetson Pin=Coutx3-1
+Removed Pin From Net: NetName=GND Pin=Coutx3-2
+Removed Pin From Net: NetName=GND Pin=Cslope1-2
+Removed Pin From Net: NetName=GND Pin=Css1-2
+Removed Pin From Net: NetName=GND Pin=Cvcc1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Df1-2
+Removed Pin From Net: NetName=26_0 Pin=L1-1
+Removed Pin From Net: NetName=11_0 Pin=L1-2
+Removed Pin From Net: NetName=26_0 Pin=M1-1
+Removed Pin From Net: NetName=26_0 Pin=M1-2
+Removed Pin From Net: NetName=26_0 Pin=M1-3
+Removed Pin From Net: NetName=33_0 Pin=M1-4
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1-5
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1-6
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1-7
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1-8
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=M1-9
+Removed Pin From Net: NetName=11_0 Pin=M2-1
+Removed Pin From Net: NetName=11_0 Pin=M2-2
+Removed Pin From Net: NetName=11_0 Pin=M2-3
+Removed Pin From Net: NetName=34_0 Pin=M2-4
+Removed Pin From Net: NetName=V12P0_Jetson Pin=M2-5
+Removed Pin From Net: NetName=V12P0_Jetson Pin=M2-6
+Removed Pin From Net: NetName=V12P0_Jetson Pin=M2-7
+Removed Pin From Net: NetName=V12P0_Jetson Pin=M2-8
+Removed Pin From Net: NetName=V12P0_Jetson Pin=M2-9
+Removed Pin From Net: NetName=15_0 Pin=M3-1
+Removed Pin From Net: NetName=15_0 Pin=M3-2
+Removed Pin From Net: NetName=15_0 Pin=M3-3
+Removed Pin From Net: NetName=32_0 Pin=M3-4
+Removed Pin From Net: NetName=26_0 Pin=M3-5
+Removed Pin From Net: NetName=26_0 Pin=M3-6
+Removed Pin From Net: NetName=26_0 Pin=M3-7
+Removed Pin From Net: NetName=26_0 Pin=M3-8
+Removed Pin From Net: NetName=26_0 Pin=M3-9
+Removed Pin From Net: NetName=15_0 Pin=M4-1
+Removed Pin From Net: NetName=15_0 Pin=M4-2
+Removed Pin From Net: NetName=15_0 Pin=M4-3
+Removed Pin From Net: NetName=27_0 Pin=M4-4
+Removed Pin From Net: NetName=11_0 Pin=M4-5
+Removed Pin From Net: NetName=11_0 Pin=M4-6
+Removed Pin From Net: NetName=11_0 Pin=M4-7
+Removed Pin From Net: NetName=11_0 Pin=M4-8
+Removed Pin From Net: NetName=11_0 Pin=M4-9
+Removed Pin From Net: NetName=GND Pin=Rcomp1-2
+Removed Pin From Net: NetName=GND Pin=Rcsg1-2
+Removed Pin From Net: NetName=15_0 Pin=Rcsp1-2
+Removed Pin From Net: NetName=GND Pin=Rfbb1-2
+Removed Pin From Net: NetName=V12P0_Jetson Pin=Rfbt1-1
+Removed Pin From Net: NetName=GND Pin=Rmode1-2
+Removed Pin From Net: NetName=15_0 Pin=Rsense1-1
+Removed Pin From Net: NetName=GND Pin=Rsense1-2
+Removed Pin From Net: NetName=GND Pin=Rt1-2
+Removed Pin From Net: NetName=GND Pin=Ruvb1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Ruvt1-1
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Rvisns1-2
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=V12P0_Jetson Pin=U1-9
+Removed Pin From Net: NetName=GND Pin=U1-10
+Removed Pin From Net: NetName=GND Pin=U1-11
+Removed Pin From Net: NetName=11_0 Pin=U1-15
+Removed Pin From Net: NetName=34_0 Pin=U1-16
+Removed Pin From Net: NetName=27_0 Pin=U1-18
+Removed Pin From Net: NetName=GND Pin=U1-19
+Removed Pin From Net: NetName=32_0 Pin=U1-22
+Removed Pin From Net: NetName=33_0 Pin=U1-24
+Removed Pin From Net: NetName=26_0 Pin=U1-25
+Removed Pin From Net: NetName=GND Pin=U1-29
+Removed Member From Class: ClassName=U1_Nets Member=26_0
+Removed Member From Class: ClassName=U1_Nets Member=27_0
+Removed Member From Class: ClassName=U1_Nets Member=32_0
+Removed Member From Class: ClassName=U1_Nets Member=33_0
+Removed Member From Class: ClassName=U1_Nets Member=GND
+Removed Member From Class: ClassName=U1_Nets Member=NetCbias1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetCboot1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetCboot2_1
+Removed Member From Class: ClassName=U1_Nets Member=NetCcomp1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetCcs1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetCcs1_2
+Removed Member From Class: ClassName=U1_Nets Member=NetCf1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetCslope1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetCss1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetCvcc1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetRfbb1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetRmode1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetRpg1_2
+Removed Member From Class: ClassName=U1_Nets Member=NetRt1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetRuvb1_1
+Removed Member From Class: ClassName=U1_Nets Member=NetRvisns1_1
+Added Component: Designator=Cbias1_Sht5-V12P0_Jetson.SchDoc1(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbias1_Sht5-V12P0_Jetson.SchDoc2(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "08053C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cboot1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cboot1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cboot2_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cboot2_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06033C104KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk1_Sht5-V12P0_Jetson.SchDoc1(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk1_Sht5-V12P0_Jetson.SchDoc2(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_1_Sht5-V12P0_Jetson.SchDoc1(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_1_Sht5-V12P0_Jetson.SchDoc2(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_2_Sht5-V12P0_Jetson.SchDoc1(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_2_Sht5-V12P0_Jetson.SchDoc2(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_3_Sht5-V12P0_Jetson.SchDoc1(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_3_Sht5-V12P0_Jetson.SchDoc2(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_4_Sht5-V12P0_Jetson.SchDoc1(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cbulk_4_Sht5-V12P0_Jetson.SchDoc2(CAPSMT_62_E12)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "100SXV15M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccomp1_Sht5-V12P0_Jetson.SchDoc1(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C181K5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0805C181K5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180pF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccomp1_Sht5-V12P0_Jetson.SchDoc2(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C181K5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0805C181K5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180pF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccomp2_Sht5-V12P0_Jetson.SchDoc1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccomp2_Sht5-V12P0_Jetson.SchDoc2(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccomp_1_Sht5-V12P0_Jetson.SchDoc1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccomp_1_Sht5-V12P0_Jetson.SchDoc2(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccs1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06035A470JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06035A470JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccs1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06035A470JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "06035A470JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cf1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA3E2X7R1H104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CGA3E2X7R1H104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cf1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA3E2X7R1H104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CGA3E2X7R1H104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cin1_Sht5-V12P0_Jetson.SchDoc1(SM_RADIAL_10BMM)
+Add component (AddParameter): Name = "Cap"; Value = "3.3E-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "http://industrial.panasonic.com/www%2Ddata/pdf/ABA0000/ABA0000CE136.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IRMS"; Value = "1.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEHZA1K330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "80.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=Cin1_Sht5-V12P0_Jetson.SchDoc2(SM_RADIAL_10BMM)
+Add component (AddParameter): Name = "Cap"; Value = "3.3E-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "http://industrial.panasonic.com/www%2Ddata/pdf/ABA0000/ABA0000CE136.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IRMS"; Value = "1.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEHZA1K330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "80.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=Cin_1_Sht5-V12P0_Jetson.SchDoc1(SM_RADIAL_10BMM)
+Add component (AddParameter): Name = "Cap"; Value = "3.3E-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "http://industrial.panasonic.com/www%2Ddata/pdf/ABA0000/ABA0000CE136.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IRMS"; Value = "1.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEHZA1K330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "80.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=Cin_1_Sht5-V12P0_Jetson.SchDoc2(SM_RADIAL_10BMM)
+Add component (AddParameter): Name = "Cap"; Value = "3.3E-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "http://industrial.panasonic.com/www%2Ddata/pdf/ABA0000/ABA0000CE136.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "0.036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IRMS"; Value = "1.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEHZA1K330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "80.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=Cout1_Sht5-V12P0_Jetson.SchDoc1(CAPSMT_62_E61)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout1_Sht5-V12P0_Jetson.SchDoc2(CAPSMT_62_E61)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout_1_Sht5-V12P0_Jetson.SchDoc1(CAPSMT_62_E61)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cout_1_Sht5-V12P0_Jetson.SchDoc2(CAPSMT_62_E61)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "16SVPF82M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx1_Sht5-V12P0_Jetson.SchDoc1(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx1_Sht5-V12P0_Jetson.SchDoc2(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx2_Sht5-V12P0_Jetson.SchDoc1(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx2_Sht5-V12P0_Jetson.SchDoc2(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx3_Sht5-V12P0_Jetson.SchDoc1(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx3_Sht5-V12P0_Jetson.SchDoc2(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cslope1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10C221JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CL10C221JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cslope1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10C221JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CL10C221JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220pF"; VariantName = "[No Variations]"
+Added Component: Designator=Css1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C153J3GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0603C153J3GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15nF"; VariantName = "[No Variations]"
+Added Component: Designator=Css1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C153J3GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0603C153J3GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15nF"; VariantName = "[No Variations]"
+Added Component: Designator=Cvcc1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=Cvcc1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "EMK107B7105KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=Dboot1_Sht5-V12P0_Jetson.SchDoc1(GEN_Diode)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GENERIC_DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500mV"; VariantName = "[No Variations]"
+Added Component: Designator=Dboot1_Sht5-V12P0_Jetson.SchDoc2(GEN_Diode)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GENERIC_DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500mV"; VariantName = "[No Variations]"
+Added Component: Designator=Dboot2_Sht5-V12P0_Jetson.SchDoc1(SOD-123F)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CDBK0520L-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CDBK0520L-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "385mV"; VariantName = "[No Variations]"
+Added Component: Designator=Dboot2_Sht5-V12P0_Jetson.SchDoc2(SOD-123F)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CDBK0520L-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CDBK0520L-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "385mV"; VariantName = "[No Variations]"
+Added Component: Designator=Df1_Sht5-V12P0_Jetson.SchDoc1(GEN_Diode)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GENERIC_DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500mV"; VariantName = "[No Variations]"
+Added Component: Designator=Df1_Sht5-V12P0_Jetson.SchDoc2(GEN_Diode)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GENERIC_DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500mV"; VariantName = "[No Variations]"
+Added Component: Designator=L1_Sht5-V12P0_Jetson.SchDoc1(SRP1270)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SRP1270-3R3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SRP1270-3R3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3uH"; VariantName = "[No Variations]"
+Added Component: Designator=L1_Sht5-V12P0_Jetson.SchDoc2(SRP1270)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SRP1270-3R3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SRP1270-3R3M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3uH"; VariantName = "[No Variations]"
+Added Component: Designator=M1_Sht5-V12P0_Jetson.SchDoc1(TRANS_NexFET_Q5A)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=M1_Sht5-V12P0_Jetson.SchDoc2(TRANS_NexFET_Q5A)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=M2_Sht5-V12P0_Jetson.SchDoc1(TRANS_NexFET_Q5)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17303Q5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD17303Q5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=M2_Sht5-V12P0_Jetson.SchDoc2(TRANS_NexFET_Q5)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17303Q5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD17303Q5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=M3_Sht5-V12P0_Jetson.SchDoc1(TRANS_NexFET_Q5A)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=M3_Sht5-V12P0_Jetson.SchDoc2(TRANS_NexFET_Q5A)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD19534Q5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=M4_Sht5-V12P0_Jetson.SchDoc1(DNK0008A)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17573Q5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD17573Q5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=M4_Sht5-V12P0_Jetson.SchDoc2(DNK0008A)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17573Q5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CSD17573Q5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=Rcomp1_Sht5-V12P0_Jetson.SchDoc1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040212K7FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040212K7FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12.7k"; VariantName = "[No Variations]"
+Added Component: Designator=Rcomp1_Sht5-V12P0_Jetson.SchDoc2(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040212K7FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040212K7FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12.7k"; VariantName = "[No Variations]"
+Added Component: Designator=Rcsg1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=Rcsg1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=Rcsp1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=Rcsp1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603100RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=Rf1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0710RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=Rf1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0710RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=Rfbb1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Added Component: Designator=Rfbb1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0720KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Added Component: Designator=Rfbt1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603280KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603280KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "280k"; VariantName = "[No Variations]"
+Added Component: Designator=Rfbt1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603280KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0603280KFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "280k"; VariantName = "[No Variations]"
+Added Component: Designator=Rmode1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0793K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0793K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "93.1k"; VariantName = "[No Variations]"
+Added Component: Designator=Rmode1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0793K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0793K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "93.1k"; VariantName = "[No Variations]"
+Added Component: Designator=Rpg1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=Rpg1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=Rsense1_Sht5-V12P0_Jetson.SchDoc1(4527)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WSR37L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WSR37L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "7m"; VariantName = "[No Variations]"
+Added Component: Designator=Rsense1_Sht5-V12P0_Jetson.SchDoc2(4527)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WSR37L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WSR37L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "7m"; VariantName = "[No Variations]"
+Added Component: Designator=Rt1_Sht5-V12P0_Jetson.SchDoc1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040223K2FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040223K2FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "23.2k"; VariantName = "[No Variations]"
+Added Component: Designator=Rt1_Sht5-V12P0_Jetson.SchDoc2(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040223K2FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040223K2FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "23.2k"; VariantName = "[No Variations]"
+Added Component: Designator=Ruvb1_Sht5-V12P0_Jetson.SchDoc1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040271K5FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040271K5FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "71.5k"; VariantName = "[No Variations]"
+Added Component: Designator=Ruvb1_Sht5-V12P0_Jetson.SchDoc2(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW040271K5FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW040271K5FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "71.5k"; VariantName = "[No Variations]"
+Added Component: Designator=Ruvt1_Sht5-V12P0_Jetson.SchDoc1(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0402249KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0402249KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "249k"; VariantName = "[No Variations]"
+Added Component: Designator=Ruvt1_Sht5-V12P0_Jetson.SchDoc2(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0402249KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW0402249KFKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "249k"; VariantName = "[No Variations]"
+Added Component: Designator=Rvisns1_Sht5-V12P0_Jetson.SchDoc1(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW06032K00FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW06032K00FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=Rvisns1_Sht5-V12P0_Jetson.SchDoc2(0603)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW06032K00FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CRCW06032K00FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=U1_Sht5-V12P0_Jetson.SchDoc1(VQFN_76RHFT_TEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "296-LM5176RHFTTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "296-LM5176RHFTCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "296-LM5176RHFTDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM5176RHFT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=U1_Sht5-V12P0_Jetson.SchDoc2(VQFN_76RHFT_TEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "296-LM5176RHFTTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "296-LM5176RHFTCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "296-LM5176RHFTDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM5176RHFT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cbias1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=Cbias1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=26_0 Pin=Cboot1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=26_0 Pin=Cboot1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=11_0 Pin=Cboot2_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=11_0 Pin=Cboot2_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cbulk1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Cbulk1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cbulk1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Cbulk1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cbulk_1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Cbulk_1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cbulk_1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Cbulk_1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cbulk_2_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Cbulk_2_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cbulk_2_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Cbulk_2_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cbulk_3_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Cbulk_3_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cbulk_3_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Cbulk_3_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cbulk_4_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Cbulk_4_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cbulk_4_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Cbulk_4_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=GND Pin=Ccomp1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=Ccomp1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=GND Pin=Cf1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=Cf1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cin1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Cin1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cin1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Cin1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cin_1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Cin_1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Cin_1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Cin_1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Cout1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Cout1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Cout1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Cout1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Cout_1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Cout_1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Cout_1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Cout_1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Coutx1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Coutx1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Coutx1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Coutx1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Coutx2_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Coutx2_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Coutx2_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Coutx2_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Coutx3_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Coutx3_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Coutx3_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Coutx3_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=GND Pin=Cslope1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=Cslope1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=GND Pin=Css1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=Css1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=GND Pin=Cvcc1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=Cvcc1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Df1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Df1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=26_0 Pin=L1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=11_0 Pin=L1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=26_0 Pin=L1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=11_0 Pin=L1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=26_0 Pin=M1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=26_0 Pin=M1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=26_0 Pin=M1_Sht5-V12P0_Jetson.SchDoc1-3
+Added Pin To Net: NetName=33_0 Pin=M1_Sht5-V12P0_Jetson.SchDoc1-4
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=M1_Sht5-V12P0_Jetson.SchDoc1-5
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=M1_Sht5-V12P0_Jetson.SchDoc1-6
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=M1_Sht5-V12P0_Jetson.SchDoc1-7
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=M1_Sht5-V12P0_Jetson.SchDoc1-8
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=M1_Sht5-V12P0_Jetson.SchDoc1-9
+Added Pin To Net: NetName=26_0 Pin=M1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=26_0 Pin=M1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=26_0 Pin=M1_Sht5-V12P0_Jetson.SchDoc2-3
+Added Pin To Net: NetName=33_0 Pin=M1_Sht5-V12P0_Jetson.SchDoc2-4
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=M1_Sht5-V12P0_Jetson.SchDoc2-5
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=M1_Sht5-V12P0_Jetson.SchDoc2-6
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=M1_Sht5-V12P0_Jetson.SchDoc2-7
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=M1_Sht5-V12P0_Jetson.SchDoc2-8
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=M1_Sht5-V12P0_Jetson.SchDoc2-9
+Added Pin To Net: NetName=11_0 Pin=M2_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=11_0 Pin=M2_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=11_0 Pin=M2_Sht5-V12P0_Jetson.SchDoc1-3
+Added Pin To Net: NetName=34_0 Pin=M2_Sht5-V12P0_Jetson.SchDoc1-4
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2_Sht5-V12P0_Jetson.SchDoc1-5
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2_Sht5-V12P0_Jetson.SchDoc1-6
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2_Sht5-V12P0_Jetson.SchDoc1-7
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2_Sht5-V12P0_Jetson.SchDoc1-8
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2_Sht5-V12P0_Jetson.SchDoc1-9
+Added Pin To Net: NetName=11_0 Pin=M2_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=11_0 Pin=M2_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=11_0 Pin=M2_Sht5-V12P0_Jetson.SchDoc2-3
+Added Pin To Net: NetName=34_0 Pin=M2_Sht5-V12P0_Jetson.SchDoc2-4
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2_Sht5-V12P0_Jetson.SchDoc2-5
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2_Sht5-V12P0_Jetson.SchDoc2-6
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2_Sht5-V12P0_Jetson.SchDoc2-7
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2_Sht5-V12P0_Jetson.SchDoc2-8
+Added Pin To Net: NetName=V12P0_Jetson Pin=M2_Sht5-V12P0_Jetson.SchDoc2-9
+Added Pin To Net: NetName=15_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=15_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=15_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc1-3
+Added Pin To Net: NetName=32_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc1-4
+Added Pin To Net: NetName=26_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc1-5
+Added Pin To Net: NetName=26_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc1-6
+Added Pin To Net: NetName=26_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc1-7
+Added Pin To Net: NetName=26_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc1-8
+Added Pin To Net: NetName=26_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc1-9
+Added Pin To Net: NetName=15_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=15_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=15_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc2-3
+Added Pin To Net: NetName=32_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc2-4
+Added Pin To Net: NetName=26_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc2-5
+Added Pin To Net: NetName=26_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc2-6
+Added Pin To Net: NetName=26_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc2-7
+Added Pin To Net: NetName=26_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc2-8
+Added Pin To Net: NetName=26_0 Pin=M3_Sht5-V12P0_Jetson.SchDoc2-9
+Added Pin To Net: NetName=15_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=15_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=15_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc1-3
+Added Pin To Net: NetName=27_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc1-4
+Added Pin To Net: NetName=11_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc1-5
+Added Pin To Net: NetName=11_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc1-6
+Added Pin To Net: NetName=11_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc1-7
+Added Pin To Net: NetName=11_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc1-8
+Added Pin To Net: NetName=11_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc1-9
+Added Pin To Net: NetName=15_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=15_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=15_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc2-3
+Added Pin To Net: NetName=27_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc2-4
+Added Pin To Net: NetName=11_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc2-5
+Added Pin To Net: NetName=11_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc2-6
+Added Pin To Net: NetName=11_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc2-7
+Added Pin To Net: NetName=11_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc2-8
+Added Pin To Net: NetName=11_0 Pin=M4_Sht5-V12P0_Jetson.SchDoc2-9
+Added Pin To Net: NetName=GND Pin=Rcomp1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=Rcomp1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=GND Pin=Rcsg1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=Rcsg1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=15_0 Pin=Rcsp1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=15_0 Pin=Rcsp1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=GND Pin=Rfbb1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=Rfbb1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Rfbt1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=V12P0_Jetson Pin=Rfbt1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Rmode1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=Rmode1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=15_0 Pin=Rsense1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=GND Pin=Rsense1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=15_0 Pin=Rsense1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=GND Pin=Rsense1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=GND Pin=Rt1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=Rt1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=GND Pin=Ruvb1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=Ruvb1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Ruvt1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Ruvt1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Rvisns1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Rvisns1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=GND Pin=U1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=GND Pin=U1_Sht5-V12P0_Jetson.SchDoc1-7
+Added Pin To Net: NetName=V12P0_Jetson Pin=U1_Sht5-V12P0_Jetson.SchDoc1-9
+Added Pin To Net: NetName=GND Pin=U1_Sht5-V12P0_Jetson.SchDoc1-10
+Added Pin To Net: NetName=GND Pin=U1_Sht5-V12P0_Jetson.SchDoc1-11
+Added Pin To Net: NetName=11_0 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-15
+Added Pin To Net: NetName=34_0 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-16
+Added Pin To Net: NetName=27_0 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-18
+Added Pin To Net: NetName=GND Pin=U1_Sht5-V12P0_Jetson.SchDoc1-19
+Added Pin To Net: NetName=32_0 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-22
+Added Pin To Net: NetName=33_0 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-24
+Added Pin To Net: NetName=26_0 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-25
+Added Pin To Net: NetName=GND Pin=U1_Sht5-V12P0_Jetson.SchDoc1-29
+Added Pin To Net: NetName=GND Pin=U1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=GND Pin=U1_Sht5-V12P0_Jetson.SchDoc2-7
+Added Pin To Net: NetName=V12P0_Jetson Pin=U1_Sht5-V12P0_Jetson.SchDoc2-9
+Added Pin To Net: NetName=GND Pin=U1_Sht5-V12P0_Jetson.SchDoc2-10
+Added Pin To Net: NetName=GND Pin=U1_Sht5-V12P0_Jetson.SchDoc2-11
+Added Pin To Net: NetName=11_0 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-15
+Added Pin To Net: NetName=34_0 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-16
+Added Pin To Net: NetName=27_0 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-18
+Added Pin To Net: NetName=GND Pin=U1_Sht5-V12P0_Jetson.SchDoc2-19
+Added Pin To Net: NetName=32_0 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-22
+Added Pin To Net: NetName=33_0 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-24
+Added Pin To Net: NetName=26_0 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-25
+Added Pin To Net: NetName=GND Pin=U1_Sht5-V12P0_Jetson.SchDoc2-29
+Added Pin To Net: NetName=NetCbias1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Cbias1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCbias1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-21
+Added Net: Name=NetCbias1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetCbias1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Cbias1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCbias1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-21
+Added Net: Name=NetCbias1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetCboot1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Cboot1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCboot1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Dboot1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCboot1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-23
+Added Net: Name=NetCboot1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetCboot1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Cboot1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCboot1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Dboot1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCboot1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-23
+Added Net: Name=NetCboot1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetCboot2_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Cboot2_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCboot2_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Dboot2_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCboot2_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-17
+Added Net: Name=NetCboot2_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetCboot2_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Cboot2_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCboot2_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Dboot2_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCboot2_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-17
+Added Net: Name=NetCboot2_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetCcomp1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Ccomp1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCcomp1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Ccomp2_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCcomp1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Ccomp_1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCcomp1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-6
+Added Net: Name=NetCcomp1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetCcomp1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Ccomp1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCcomp1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Ccomp2_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCcomp1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Ccomp_1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCcomp1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-6
+Added Net: Name=NetCcomp1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetCcomp2_Sht5-V12P0_Jetson.SchDoc1_2 Pin=Ccomp2_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=NetCcomp2_Sht5-V12P0_Jetson.SchDoc1_2 Pin=Ccomp_1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=NetCcomp2_Sht5-V12P0_Jetson.SchDoc1_2 Pin=Rcomp1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Net: Name=NetCcomp2_Sht5-V12P0_Jetson.SchDoc1_2
+Added Pin To Net: NetName=NetCcomp2_Sht5-V12P0_Jetson.SchDoc2_2 Pin=Ccomp2_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=NetCcomp2_Sht5-V12P0_Jetson.SchDoc2_2 Pin=Ccomp_1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=NetCcomp2_Sht5-V12P0_Jetson.SchDoc2_2 Pin=Rcomp1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Net: Name=NetCcomp2_Sht5-V12P0_Jetson.SchDoc2_2
+Added Pin To Net: NetName=NetCcs1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Ccs1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCcs1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Rcsp1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCcs1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-13
+Added Net: Name=NetCcs1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetCcs1_Sht5-V12P0_Jetson.SchDoc1_2 Pin=Ccs1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=NetCcs1_Sht5-V12P0_Jetson.SchDoc1_2 Pin=Rcsg1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCcs1_Sht5-V12P0_Jetson.SchDoc1_2 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-12
+Added Net: Name=NetCcs1_Sht5-V12P0_Jetson.SchDoc1_2
+Added Pin To Net: NetName=NetCcs1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Ccs1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCcs1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Rcsp1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCcs1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-13
+Added Net: Name=NetCcs1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetCcs1_Sht5-V12P0_Jetson.SchDoc2_2 Pin=Ccs1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=NetCcs1_Sht5-V12P0_Jetson.SchDoc2_2 Pin=Rcsg1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCcs1_Sht5-V12P0_Jetson.SchDoc2_2 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-12
+Added Net: Name=NetCcs1_Sht5-V12P0_Jetson.SchDoc2_2
+Added Pin To Net: NetName=NetCf1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Cf1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCf1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Rf1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=NetCf1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-27
+Added Net: Name=NetCf1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetCf1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Cf1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCf1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Rf1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=NetCf1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-27
+Added Net: Name=NetCf1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetCslope1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Cslope1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCslope1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-4
+Added Net: Name=NetCslope1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetCslope1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Cslope1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCslope1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-4
+Added Net: Name=NetCslope1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetCss1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Css1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCss1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-5
+Added Net: Name=NetCss1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetCss1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Css1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCss1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-5
+Added Net: Name=NetCss1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetCvcc1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Cvcc1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCvcc1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Dboot1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=NetCvcc1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Dboot2_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=NetCvcc1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Rpg1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetCvcc1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-20
+Added Net: Name=NetCvcc1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetCvcc1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Cvcc1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCvcc1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Dboot1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=NetCvcc1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Dboot2_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=NetCvcc1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Rpg1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetCvcc1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-20
+Added Net: Name=NetCvcc1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetDf1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Df1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetDf1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Rf1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Net: Name=NetDf1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetDf1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Df1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetDf1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Rf1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Net: Name=NetDf1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetRfbb1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Rfbb1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetRfbb1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Rfbt1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=NetRfbb1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-8
+Added Net: Name=NetRfbb1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetRfbb1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Rfbb1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetRfbb1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Rfbt1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=NetRfbb1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-8
+Added Net: Name=NetRfbb1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetRmode1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Rmode1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetRmode1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Net: Name=NetRmode1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetRmode1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Rmode1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetRmode1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Net: Name=NetRmode1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetRpg1_Sht5-V12P0_Jetson.SchDoc1_2 Pin=Rpg1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=NetRpg1_Sht5-V12P0_Jetson.SchDoc1_2 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-14
+Added Net: Name=NetRpg1_Sht5-V12P0_Jetson.SchDoc1_2
+Added Pin To Net: NetName=NetRpg1_Sht5-V12P0_Jetson.SchDoc2_2 Pin=Rpg1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=NetRpg1_Sht5-V12P0_Jetson.SchDoc2_2 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-14
+Added Net: Name=NetRpg1_Sht5-V12P0_Jetson.SchDoc2_2
+Added Pin To Net: NetName=NetRt1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Rt1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetRt1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-3
+Added Net: Name=NetRt1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetRt1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Rt1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetRt1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-3
+Added Net: Name=NetRt1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetRuvb1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Ruvb1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetRuvb1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Ruvt1_Sht5-V12P0_Jetson.SchDoc1-2
+Added Pin To Net: NetName=NetRuvb1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-26
+Added Net: Name=NetRuvb1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetRuvb1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Ruvb1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetRuvb1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Ruvt1_Sht5-V12P0_Jetson.SchDoc2-2
+Added Pin To Net: NetName=NetRuvb1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-26
+Added Net: Name=NetRuvb1_Sht5-V12P0_Jetson.SchDoc2_1
+Added Pin To Net: NetName=NetRvisns1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=Rvisns1_Sht5-V12P0_Jetson.SchDoc1-1
+Added Pin To Net: NetName=NetRvisns1_Sht5-V12P0_Jetson.SchDoc1_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc1-28
+Added Net: Name=NetRvisns1_Sht5-V12P0_Jetson.SchDoc1_1
+Added Pin To Net: NetName=NetRvisns1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=Rvisns1_Sht5-V12P0_Jetson.SchDoc2-1
+Added Pin To Net: NetName=NetRvisns1_Sht5-V12P0_Jetson.SchDoc2_1 Pin=U1_Sht5-V12P0_Jetson.SchDoc2-28
+Added Net: Name=NetRvisns1_Sht5-V12P0_Jetson.SchDoc2_1
+Change Class Name : Old Net Name=Cbulk_1_Nets New Net Name=Cbulk_2_Sht5-V12P0_Jetson.SchDoc1_Nets
+Change Class Name : Old Net Name=Cin_1_Nets New Net Name=Cbulk_2_Sht5-V12P0_Jetson.SchDoc2_Nets
+Change Class Name : Old Net Name=Cout1_Nets New Net Name=Coutx1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Change Class Name : Old Net Name=L1_Nets New Net Name=L1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Change Class Name : Old Net Name=M1_Nets New Net Name=M1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Change Class Name : Old Net Name=M2_Nets New Net Name=M2_Sht5-V12P0_Jetson.SchDoc2_Nets
+Change Class Name : Old Net Name=M3_Nets New Net Name=M3_Sht5-V12P0_Jetson.SchDoc2_Nets
+Change Class Name : Old Net Name=M4_Nets New Net Name=M4_Sht5-V12P0_Jetson.SchDoc1_Nets
+Change Class Name : Old Net Name=Rsense1_Nets New Net Name=Rsense1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Change Class Name : Old Net Name=U1_Nets New Net Name=M2_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Sht5-V12P0_Jetson.SchDoc1
+Added Class: Name=Sht5-V12P0_Jetson.SchDoc2
+Added Class: Name=Cbias1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cbias1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cboot1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cboot1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cboot2_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cboot2_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cbulk1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cbulk1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cbulk_1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cbulk_1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cbulk_3_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cbulk_3_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cbulk_4_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cbulk_4_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Ccomp1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Ccomp1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Ccomp2_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Ccomp2_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Ccomp_1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Ccomp_1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Ccs1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Ccs1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cf1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cf1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cin1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cin1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cin_1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cin_1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cout1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cout1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cout_1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cout_1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Coutx1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Coutx2_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Coutx2_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Coutx3_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Coutx3_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cslope1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cslope1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Css1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Css1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Cvcc1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Cvcc1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Dboot1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Dboot1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Dboot2_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Dboot2_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Df1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Df1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=L1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=M1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=M3_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=M4_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Rcomp1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Rcomp1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Rcsg1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Rcsg1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Rcsp1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Rcsp1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Rf1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Rf1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Rfbb1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Rfbb1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Rfbt1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Rfbt1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Rmode1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Rmode1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Rpg1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Rpg1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Rsense1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Rt1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Rt1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Ruvb1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Ruvb1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Ruvt1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Ruvt1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Rvisns1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=Rvisns1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=U1_Sht5-V12P0_Jetson.SchDoc1_Nets
+Added Class: Name=U1_Sht5-V12P0_Jetson.SchDoc2_Nets
+Added Class: Name=Sht5-V12P0_Jetson
+Change Room Name: Old Name=Designator_1 New Name=Designator

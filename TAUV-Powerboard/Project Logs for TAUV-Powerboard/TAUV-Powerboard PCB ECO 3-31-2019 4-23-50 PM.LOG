@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=R17-3
+Removed Pin From Net: NetName=GND Pin=R32-1
+Added Component: Designator=NT?(Net_Tie_80mil)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=NT?-1
+Added Pin To Net: NetName=RSENSE+ Pin=NT?-2
+Added Pin To Net: NetName=RSENSE+ Pin=R17-3
+Added Pin To Net: NetName=RSENSE+ Pin=R32-1
+Added Net: Name=RSENSE+
+Added Member To Class: ClassName=U_Power Member=Component NT? Net Tie

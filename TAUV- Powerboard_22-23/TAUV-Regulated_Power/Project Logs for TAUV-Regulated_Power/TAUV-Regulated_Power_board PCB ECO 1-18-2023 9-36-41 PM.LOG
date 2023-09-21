@@ -1,0 +1,60 @@
+Added Component: Designator=Coutx1(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx2(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx3(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx4(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx5(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=Coutx6(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C2012X5R1V226M125AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V12P0_Jetson Pin=Coutx1-1
+Added Pin To Net: NetName=Ard_AREF Pin=Coutx1-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Coutx2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Coutx2-2
+Added Pin To Net: NetName=V12P0_Jetson Pin=Coutx3-1
+Added Pin To Net: NetName=Ard_AREF Pin=Coutx3-2
+Added Pin To Net: NetName=Ard_VIN Pin=Coutx4-1
+Added Pin To Net: NetName=Ard_AREF Pin=Coutx4-2
+Added Pin To Net: NetName=Ard_VIN Pin=Coutx5-1
+Added Pin To Net: NetName=Ard_AREF Pin=Coutx5-2
+Added Pin To Net: NetName=Ard_VIN Pin=Coutx6-1
+Added Pin To Net: NetName=Ard_AREF Pin=Coutx6-2
+Add Pin To Net: Unknown Pin: Pin Rcomp1-1
+Add Pin To Net: Unknown Pin: Pin Rcomp1-2
+Add Pin To Net: Unknown Pin: Pin Rcomp2-1
+Add Pin To Net: Unknown Pin: Pin Rcomp2-2
+Add Pin To Net: Unknown Pin: Pin Rsense2-1
+Add Pin To Net: Unknown Pin: Pin Rsense2-2
+Add Pin To Net: Unknown Pin: Pin Rvisns1-1
+Add Pin To Net: Unknown Pin: Pin Rvisns1-2
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Coutx1 C2012X5R1V226M125AC
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Coutx2 C2012X5R1V226M125AC
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Coutx3 C2012X5R1V226M125AC
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Coutx4 C2012X5R1V226M125AC
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Coutx5 C2012X5R1V226M125AC
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Coutx6 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Rcomp1 CRCW040212K7FKED
+Add Class Member: Failed to add class member : Component Rcomp2 CRCW040212K7FKED
+Add Class Member: Failed to add class member : Component Rsense2 WSR37L000FEA
+Add Class Member: Failed to add class member : Component Rvisns1 CRCW06032K00FKEA

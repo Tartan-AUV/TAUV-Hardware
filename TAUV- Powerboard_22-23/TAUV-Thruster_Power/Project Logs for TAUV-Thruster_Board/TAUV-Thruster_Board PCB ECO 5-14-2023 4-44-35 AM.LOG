@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=D1-2
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=D2-2
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=J1-2
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=J2-2
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=J3-2
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=J4-2
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=J5-2
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=J6-2
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=J7-2
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=J8-2
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=U1-5
+Change Component Designator: OldDesignator=SENSE+ NewDesignator=J10
+Add Component: Footprint Not Found J1-0603
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Cin1-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Cout1-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J9-1
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J9-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J9-3
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J9-4
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=L1-2
+Add Pin To Net: Unknown Pin: Pin Rs-1
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=U1-7
+Change Net Name : Old Net Name=VBAT_THRUSTERS New Net Name=VBAT
+Added Pin To Net: NetName=NetRs_2 Pin=U1-3
+Added Net: Name=NetRs_2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=D1-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=D2-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J1-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J2-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J3-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J4-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J5-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J6-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J7-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J8-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q1-1
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q1-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q1-3
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q4-1
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q4-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q4-3
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q5-1
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q5-2
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q5-3
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=U1-5
+Added Net: Name=VBAT_THRUSTERS
+Add Class Member: Failed to add class member : Component Rs 0603
+Added Room: Name=U_Interfaces
+Added Room: Name=U_Power

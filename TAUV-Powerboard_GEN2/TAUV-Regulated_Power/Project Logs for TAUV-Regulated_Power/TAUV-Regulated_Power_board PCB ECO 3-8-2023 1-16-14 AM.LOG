@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=J1 Old Footprint=FP-UMPT-10-02_5-L-V-S-W-M-MFG New Footprint=FP-UMPT-10-06_5-L-V-S-W-T-MFG
-Change Component Comment : Designator=J1 Old Comment=UMPT-10-02.5-L-V-S-W-M-TR New Comment=UMPT-10-06.5-L-V-S-W-TR
-Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3FDA8EE5-5BEC-44B8-976A-87E68C11B8B7 New ItemGUID=888D3E85-7CF7-46C7-9E9A-03F6132FD572 Old RevisionGUID=C01C14F5-5895-47B0-B8C3-B36EBA513BEA New RevisionGUID=C0BECDA3-7309-48A6-BE9E-144D81AC817B
-Added Member To Class: ClassName=Designator Member=Component J1 UMPT-10-06.5-L-V-S-W-TR

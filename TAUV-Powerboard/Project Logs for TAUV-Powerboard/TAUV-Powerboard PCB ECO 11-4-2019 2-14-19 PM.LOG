@@ -1,0 +1,167 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=Q1-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Q1-3
+Removed Pin From Net: NetName=NetD1_2 Pin=Q1-4
+Removed Pin From Net: NetName=NetD1_2 Pin=Q2-2
+Removed Pin From Net: NetName=VCC_BATT_FILT Pin=Q2-3
+Removed Pin From Net: NetName=NetD1_2 Pin=Q2-4
+Removed Member From Class: ClassName=U_BMS Member=C19
+Removed Member From Class: ClassName=U_External Member=C31
+Removed Member From Class: ClassName=U_BMS Member=C33
+Removed Member From Class: ClassName=U_Regulators Member=C38
+Removed Member From Class: ClassName=U_External Member=D11
+Removed Member From Class: ClassName=U_Interface Member=D16
+Removed Member From Class: ClassName=U_Power Member=D17
+Removed Member From Class: ClassName=U_Thrusters Member=D17
+Removed Member From Class: ClassName=U_Power Member=P3
+Removed Member From Class: ClassName=U_Interface Member=R3
+Removed Member From Class: ClassName=U_Power Member=R11
+Removed Member From Class: ClassName=U_Regulators Member=R14
+Removed Member From Class: ClassName=U_Power Member=R20
+Removed Member From Class: ClassName=U_Thrusters Member=R20
+Removed Member From Class: ClassName=U_Thrusters Member=R23
+Removed Member From Class: ClassName=U_Interface Member=R28
+Removed Member From Class: ClassName=U_BMS Member=R44
+Removed Member From Class: ClassName=U_Thrusters Member=U3
+Removed Member From Class: ClassName=U_External Member=U8
+Removed Member From Class: ClassName=U_Thrusters Member=U13
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Q1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-3
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Q1-4
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Q2-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q2-3
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=Q2-4
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC18_1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC18_2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC21_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC16_1
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC20_1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC22_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC27_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetC28_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC31_1 New Net Name=NetC40_1
+Change Net Name : Old Net Name=NetC39_1 New Net Name=NetC19_1
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD17_1
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD14_1
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD13_1
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD12_1
+Change Net Name : Old Net Name=NetD11_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetD12_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD13_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD14_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetD15_2 New Net Name=NetD22_2
+Change Net Name : Old Net Name=NetD16_2 New Net Name=NetD18_2
+Change Net Name : Old Net Name=NetD17_2 New Net Name=NetD20_2
+Change Net Name : Old Net Name=NetD18_2 New Net Name=NetD19_2
+Change Net Name : Old Net Name=NetD19_2 New Net Name=NetD21_2
+Change Net Name : Old Net Name=NetD22_2 New Net Name=NetD11_2
+Change Net Name : Old Net Name=NetP2_5 New Net Name=NetP3_5
+Change Net Name : Old Net Name=NetP2_6 New Net Name=NetP3_6
+Change Net Name : Old Net Name=NetP2_11 New Net Name=NetP3_11
+Change Net Name : Old Net Name=NetP2_13 New Net Name=NetP3_13
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR26_2
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR39_1
+Change Net Name : Old Net Name=NetR28_1 New Net Name=NetR38_1
+Change Net Name : Old Net Name=NetR30_1 New Net Name=NetR37_1
+Change Net Name : Old Net Name=NetR32_1 New Net Name=NetR35_1
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR34_1
+Change Net Name : Old Net Name=NetR34_1 New Net Name=NetR33_1
+Change Net Name : Old Net Name=NetR35_1 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR36_1 New Net Name=NetR25_1
+Added Member To Class: ClassName=U_Regulators Member=Component C2 30pF
+Added Member To Class: ClassName=U_Regulators Member=Component C3 100nF
+Added Member To Class: ClassName=U_Regulators Member=Component C4 1uF 25V
+Added Member To Class: ClassName=U_Regulators Member=Component C8 4.7uF
+Added Member To Class: ClassName=U_Regulators Member=Component C9 47uF
+Added Member To Class: ClassName=U_Regulators Member=Component C10 4.7uF
+Added Member To Class: ClassName=U_Regulators Member=Component C13 4.7uF
+Added Member To Class: ClassName=U_Regulators Member=Component C17 1uF 25V
+Added Member To Class: ClassName=U_Regulators Member=Component C18 680nF
+Added Member To Class: ClassName=U_Regulators Member=Component C20 75pF
+Added Member To Class: ClassName=U_Regulators Member=Component C21 100nF
+Added Member To Class: ClassName=U_Regulators Member=Component C25 CAP 22uF 16V 1206(3216)
+Added Member To Class: ClassName=U_Regulators Member=Component C29 4.7uF
+Added Member To Class: ClassName=U_External Member=Component C30 CAP 22uF 25V 1210(3225)
+Added Member To Class: ClassName=U_BMS Member=Component C32 100nF
+Added Member To Class: ClassName=U_BMS Member=Component C37 1uF 25V
+Added Member To Class: ClassName=U_BMS Member=Component C39 1uF 25V
+Added Member To Class: ClassName=U_Thrusters Member=Component C40 10nF
+Added Member To Class: ClassName=U_Power Member=Component D3 SMAJ30CA
+Added Member To Class: ClassName=U_Thrusters Member=Component D4 LED RED
+Added Member To Class: ClassName=U_Thrusters Member=Component D5 LED RED
+Added Member To Class: ClassName=U_BMS Member=Component D6 MMBZ5V6ALT1G
+Added Member To Class: ClassName=U_BMS Member=Component D7 LED GREEN
+Added Member To Class: ClassName=U_BMS Member=Component D9 LED GREEN
+Added Member To Class: ClassName=U_BMS Member=Component D13 LED YELLOW
+Added Member To Class: ClassName=U_External Member=Component D15 SBRT15U50SP5-13
+Added Member To Class: ClassName=U_Interface Member=Component D18 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D20 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D22 LED GREEN
+Added Member To Class: ClassName=U_Regulators Member=Component F3 Fuse Holder 3588
+Added Member To Class: ClassName=U_Regulators Member=Component F4 Fuse Holder 3588
+Added Member To Class: ClassName=U_Thrusters Member=Component J3 2-pin megafit
+Added Member To Class: ClassName=U_Thrusters Member=Component J6 2-pin megafit
+Added Member To Class: ClassName=U_Thrusters Member=Component J7 2-pin megafit
+Added Member To Class: ClassName=U_Thrusters Member=Component J8 2-pin megafit
+Added Member To Class: ClassName=U_Regulators Member=Component L1 SRP6540-8R2M
+Added Member To Class: ClassName=U_Regulators Member=Component L3 SRP6540-100M
+Added Member To Class: ClassName=U_Interface Member=Component MH3 #4-40
+Added Member To Class: ClassName=U_Interface Member=Component MH4 #4-40
+Added Member To Class: ClassName=U_Interface Member=Component P1 14-Pin 2-Row Nano-Fit Right Angle
+Added Member To Class: ClassName=U_Power Member=Component P2 XT90
+Added Member To Class: ClassName=U_Power Member=Component Q2 NVF6P02T3G
+Added Member To Class: ClassName=U_Thrusters Member=Component Q4 NVTR01P02LT1G
+Added Member To Class: ClassName=U_Interface Member=Component R1 1K2
+Added Member To Class: ClassName=U_Regulators Member=Component R2 88K7 1%
+Added Member To Class: ClassName=U_Regulators Member=Component R4 88K7 1%
+Added Member To Class: ClassName=U_Regulators Member=Component R5 22K1 1%
+Added Member To Class: ClassName=U_Regulators Member=Component R6 22K1 1%
+Added Member To Class: ClassName=U_Power Member=Component R7 4K7
+Added Member To Class: ClassName=U_Regulators Member=Component R8 200K 1%
+Added Member To Class: ClassName=U_Regulators Member=Component R9 51K 1%
+Added Member To Class: ClassName=U_Power Member=Component R13 WSLP59312 2mR 8W
+Added Member To Class: ClassName=U_BMS Member=Component R19 100R
+Added Member To Class: ClassName=U_Thrusters Member=Component R21 7K5 1%
+Added Member To Class: ClassName=U_Thrusters Member=Component R22 10K
+Added Member To Class: ClassName=U_BMS Member=Component R24 100R
+Added Member To Class: ClassName=U_BMS Member=Component R25 100R
+Added Member To Class: ClassName=U_BMS Member=Component R27 294K
+Added Member To Class: ClassName=U_BMS Member=Component R30 4K7
+Added Member To Class: ClassName=U_BMS Member=Component R31 100R 1%
+Added Member To Class: ClassName=U_BMS Member=Component R32 100R 1%
+Added Member To Class: ClassName=U_BMS Member=Component R33 100R
+Added Member To Class: ClassName=U_BMS Member=Component R35 100R
+Added Member To Class: ClassName=U_Interface Member=Component R36 1K2
+Added Member To Class: ClassName=U_BMS Member=Component R38 100R
+Added Member To Class: ClassName=U_Interface Member=Component R40 470R
+Added Member To Class: ClassName=U_Interface Member=Component TP1 Test Point Loop
+Added Member To Class: ClassName=U_Interface Member=Component TP3 Test Point Loop
+Added Member To Class: ClassName=U_Interface Member=Component TP4 Test Point Loop
+Added Member To Class: ClassName=U_Interface Member=Component TP8 Test Point Loop
+Added Member To Class: ClassName=U_Regulators Member=Component U1 LMR23630-Q1
+Added Member To Class: ClassName=U_Regulators Member=Component U2 LMR23630-Q1
+Added Member To Class: ClassName=U_External Member=Component U6 MIC5021YM
+Added Member To Class: ClassName=U_Thrusters Member=Component U7 SN74LVC1G97QDCKRQ1
+Added Member To Class: ClassName=U_Thrusters Member=Component U11 MIC5021YM
+Added Member To Class: ClassName=U_Thrusters Member=Component U12 Part Number: INA300AIDSQT

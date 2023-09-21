@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC_10V Pin=P3-1
+Removed Pin From Net: NetName=VCC_5V Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-2
+Change Component Footprint: Designator=P3 Old Footprint=MOLEX NANO-FIT 1X2 New Footprint=MOLEX NANO-FIT 1X4
+Change Component Comment : Designator=P3 Old Comment=2-Pos Molex Nano-Fit New Comment=4-Pin Molex Nano-Fit
+Change component parameters: Designator = "P3"; Footprint = "MOLEX NANO-FIT 1X4"; UniqueID = "\WKQUPXKT\SRDUEFOY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "105313-1204"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "538-105313-1204"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_5V Pin=P3-1
+Added Pin To Net: NetName=VCC_10V Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4

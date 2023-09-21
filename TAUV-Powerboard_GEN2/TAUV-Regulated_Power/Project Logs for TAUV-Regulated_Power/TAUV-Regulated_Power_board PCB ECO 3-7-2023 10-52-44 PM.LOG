@@ -1,9 +1,0 @@
-Change Component Designator: OldDesignator=Cbulk1 NewDesignator=Cbulk_2
-Change Component Designator: OldDesignator=Cin1 NewDesignator=Cin_3
-Change Component Designator: OldDesignator=Cout1 NewDesignator=Cout_3
-Add Pin To Net: Unknown Pin: Pin Rcomp1-1
-Add Pin To Net: Unknown Pin: Pin Rcomp1-2
-Change Class Name : Old Net Name=Cbulk1_Nets New Net Name=Cbulk_2_Nets
-Added Class: Name=Cin_3_Nets
-Added Class: Name=Cout_3_Nets
-Add Class Member: Failed to add class member : Component Rcomp1 CRCW040210K5FKED

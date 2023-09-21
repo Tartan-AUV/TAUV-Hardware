@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=P4_Nets Member=NetP4_5
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=P4-5
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=P4-6
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=P4-7
+Added Member To Class: ClassName=P4_Nets Member=Wire VCC_BATT_FILT

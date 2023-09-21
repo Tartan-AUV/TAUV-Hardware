@@ -1,9 +1,0 @@
-Added Component: Designator=J4(FP-UMPT-04-01_5-L-V-S-W-T-MFG)
-Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J4-1
-Added Pin To Net: NetName=THRUST_Sense Pin=J4-2
-Added Pin To Net: NetName=THRUST_Sense Pin=U5-2
-Added Net: Name=THRUST_Sense
-Added Class: Name=J4_Nets
-Added Member To Class: ClassName=Designator Member=Component J4 UMPT-04-01.5-L-V-S-W-TR
-Added Member To Class: ClassName=Sht2-V12P0_reg Member=Component TP29 Test Point Pad
-Added Member To Class: ClassName=U5_Nets Member=Wire THRUST_Sense

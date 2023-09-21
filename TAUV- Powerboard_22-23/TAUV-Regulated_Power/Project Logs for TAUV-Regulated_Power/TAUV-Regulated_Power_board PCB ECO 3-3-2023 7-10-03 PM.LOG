@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=Q NewDesignator=Q2
+Added Component: Designator=TP1(Test Point Loop - Black)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-5001-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TP1-1
+Change Class Name : Old Net Name=Q_Nets New Net Name=Q2_Nets
+Added Member To Class: ClassName=Designator Member=Component TP1 Test Point Loop
+Added Room: Name=Designator
+Added Room: Name=Designator

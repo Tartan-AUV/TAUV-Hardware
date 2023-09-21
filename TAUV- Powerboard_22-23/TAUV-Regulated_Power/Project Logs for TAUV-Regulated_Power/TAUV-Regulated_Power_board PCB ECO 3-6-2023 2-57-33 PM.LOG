@@ -1,0 +1,14 @@
+Change Component Library : Designator=MH1 Old Library=CMR_PCB_Components.IntLib New Library=TAUV-Lib.SchLib
+Change Component Library : Designator=MH2 Old Library=CMR_PCB_Components.IntLib New Library=TAUV-Lib.SchLib
+Change Component Library : Designator=MH3 Old Library=CMR_PCB_Components.IntLib New Library=TAUV-Lib.SchLib
+Change Component Library : Designator=MH4 Old Library=CMR_PCB_Components.IntLib New Library=TAUV-Lib.SchLib
+Added Component: Designator=MH5(Mounting Hole #4-40)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://blogs.mentor.com/tom-hausherr/blog/tag/pcb-mounting-holes/"; VariantName = "[No Variations]"
+Added Component: Designator=MH6(Mounting Hole #4-40)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://blogs.mentor.com/tom-hausherr/blog/tag/pcb-mounting-holes/"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MH5-0
+Added Pin To Net: NetName=GND Pin=MH6-0
+Added Member To Class: ClassName=Designator Member=Component MH5 #4-40
+Added Member To Class: ClassName=Designator Member=Component MH6 #4-40
+Added Room: Name=Designator
+Added Room: Name=Designator

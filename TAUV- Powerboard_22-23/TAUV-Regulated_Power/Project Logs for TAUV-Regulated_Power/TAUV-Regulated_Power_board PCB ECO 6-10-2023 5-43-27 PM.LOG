@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SGND Pin=*-1
+Removed Pin From Net: NetName=GND Pin=*-2
+Added Component: Designator=*?(Net_Tie)
+Added Class: Name=*?_Nets
+Added Member To Class: ClassName=Sht2-V12P0_reg Member=Component *? Net_Tie

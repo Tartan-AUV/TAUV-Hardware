@@ -1,3 +1,0 @@
-Added Component: Designator=TP35(Test Point Pad)
-Added Pin To Net: NetName=VCC_BATT_FILT Pin=TP35-1
-Added Member To Class: ClassName=Designator Member=Component TP35 Test Point Pad

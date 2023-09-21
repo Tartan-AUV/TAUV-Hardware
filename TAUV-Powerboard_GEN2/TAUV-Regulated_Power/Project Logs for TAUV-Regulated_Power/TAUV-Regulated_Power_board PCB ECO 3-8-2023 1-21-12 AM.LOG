@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=J1 Old Footprint=FP-UMPT-10-06_5-L-V-S-W-T-MFG New Footprint=FP-UMPT-10-01_5-L-V-S-W-T-MFG
-Change Component Comment : Designator=J1 Old Comment=UMPT-10-06.5-L-V-S-W-TR New Comment=UMPT-10-01.5-L-V-S-W-TR
-Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=888D3E85-7CF7-46C7-9E9A-03F6132FD572 New ItemGUID=7903506C-89BA-4362-9937-61767DD06BAF Old RevisionGUID=C0BECDA3-7309-48A6-BE9E-144D81AC817B New RevisionGUID=84DCA2E7-515B-4DFD-B42B-E6A6C228EFD8
-Change component parameters: Designator = "J1" ("J1"); Footprint = "FP-UMPT-10-06_5-L-V-S-W-T-MFG"; UniqueID = "\HCTMQPSF\NKMVYQPW" ("\HCTMQPSF\NKMVYQPW")
-Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"

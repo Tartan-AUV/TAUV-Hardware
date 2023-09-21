@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=C16-1
-Removed Pin From Net: NetName=V5P0_Servo Pin=C16-2
-Removed Pin From Net: NetName=GND Pin=C18-1
-Removed Pin From Net: NetName=V5P0_Servo Pin=C18-2
-Removed Member From Class: ClassName=Designator Member=C16
-Removed Member From Class: ClassName=Designator Member=C18

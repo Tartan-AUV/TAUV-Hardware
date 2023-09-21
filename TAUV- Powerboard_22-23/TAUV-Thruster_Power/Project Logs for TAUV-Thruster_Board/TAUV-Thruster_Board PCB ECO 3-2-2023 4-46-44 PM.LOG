@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=VBAT_THRUSTERS Pin=Q1-1-2-3-4
+Removed Pin From Net: NetName=THRUSTERS_GATE Pin=Q1-5
+Removed Pin From Net: NetName=VBAT Pin=Q1-6
+Change Component Footprint: Designator=Q1 Old Footprint=FP-PG-HSOF-5-MFG New Footprint=PG-TDSON-8-7
+Change Component Comment : Designator=Q1 Old Comment=IAUA250N04S6N007AUMA1 New Comment=BSC0702LSATMA1
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D714E993-9062-4377-8C28-B57C23049FC0 New ItemGUID= Old RevisionGUID=9720ABEF-3336-4162-8BE8-B072738A02CE New RevisionGUID=
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "FP-PG-HSOF-5-MFG"; UniqueID = "\ODIBTRLA\BAXAPFPB" ("\ODIBTRLA\BAXAPFPB")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(PG-TDSON-8-7)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(PG-TDSON-8-7)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=Q1-1
+Added Pin To Net: NetName=VBAT Pin=Q1-2
+Added Pin To Net: NetName=VBAT Pin=Q1-3
+Added Pin To Net: NetName=THRUSTERS_GATE Pin=Q1-4
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q1-5
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q1-6
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q1-7
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q1-8
+Added Pin To Net: NetName=VBAT Pin=Q4-1
+Added Pin To Net: NetName=VBAT Pin=Q4-2
+Added Pin To Net: NetName=VBAT Pin=Q4-3
+Added Pin To Net: NetName=THRUSTERS_GATE Pin=Q4-4
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q4-5
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q4-6
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q4-7
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q4-8
+Added Pin To Net: NetName=VBAT Pin=Q5-1
+Added Pin To Net: NetName=VBAT Pin=Q5-2
+Added Pin To Net: NetName=VBAT Pin=Q5-3
+Added Pin To Net: NetName=THRUSTERS_GATE Pin=Q5-4
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q5-5
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q5-6
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q5-7
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=Q5-8
+Added Member To Class: ClassName=U_Power Member=Component Q4 BSC0702LSATMA1
+Added Member To Class: ClassName=U_Power Member=Component Q5 BSC0702LSATMA1
+Added Room: Name=U_Interfaces
+Added Room: Name=U_Power

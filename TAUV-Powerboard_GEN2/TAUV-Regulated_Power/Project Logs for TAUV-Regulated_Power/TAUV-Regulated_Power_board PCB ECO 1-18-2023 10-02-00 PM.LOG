@@ -1,8 +1,0 @@
-Added Component: Designator=Rvisns1(0603)
-Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW06032K00FKEA"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "PackageReference"; Value = "CRCW06032K00FKEA"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=NetRvisns1_1 Pin=Rvisns1-1
-Added Pin To Net: NetName=VBATT Pin=Rvisns1-2
-Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rvisns1 CRCW06032K00FKEA

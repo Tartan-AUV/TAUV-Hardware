@@ -1,0 +1,11 @@
+Added Component: Designator=Rsense2(4527)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Vishay-Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WSR37L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WSR37L000FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "7m"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=15 Pin=Rsense2-1
+Added Pin To Net: NetName=Ard_AREF Pin=Rsense2-2
+Add Pin To Net: Unknown Pin: Pin Rvisns1-1
+Add Pin To Net: Unknown Pin: Pin Rvisns1-2
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Rsense2 WSR37L000FEA
+Add Class Member: Failed to add class member : Component Rvisns1 CRCW06032K00FKEA
