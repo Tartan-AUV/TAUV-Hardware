@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=Ard_D12 Pin=J1-01
+Removed Pin From Net: NetName=Ard_D11 Pin=J1-02
+Removed Pin From Net: NetName=Ard_D10 Pin=J1-03
+Removed Pin From Net: NetName=Ard_D9 Pin=J1-04
+Removed Pin From Net: NetName=Ard_D8 Pin=J1-05
+Removed Pin From Net: NetName=Ard_D7 Pin=J1-06
+Removed Pin From Net: NetName=Ard_D6 Pin=J1-07
+Removed Pin From Net: NetName=Ard_D5 Pin=J1-08
+Removed Pin From Net: NetName=Ard_D4 Pin=J1-09
+Removed Pin From Net: NetName=Ard_D3 Pin=J1-10
+Removed Pin From Net: NetName=Ard_D2 Pin=J1-11
+Removed Pin From Net: NetName=GND Pin=J1-12
+Removed Pin From Net: NetName=Ard_RESET Pin=J1-13
+Removed Pin From Net: NetName=Ard_D0/RX Pin=J1-14
+Removed Pin From Net: NetName=Ard_D1/TX Pin=J1-15
+Removed Pin From Net: NetName=Ard_D13 Pin=J-01
+Removed Pin From Net: NetName=Ard_3V3 Pin=J-02
+Removed Pin From Net: NetName=Ard_A0 Pin=J-04
+Removed Pin From Net: NetName=Ard_A1 Pin=J-05
+Removed Pin From Net: NetName=Ard_A2 Pin=J-06
+Removed Pin From Net: NetName=Ard_A3 Pin=J-07
+Removed Pin From Net: NetName=Ard_A4/SDA Pin=J-08
+Removed Pin From Net: NetName=Ard_A5/SCL Pin=J-09
+Removed Pin From Net: NetName=Ard_A6 Pin=J-10
+Removed Pin From Net: NetName=Ard_A7 Pin=J-11
+Removed Pin From Net: NetName=Ard_5V Pin=J-12
+Removed Pin From Net: NetName=Ard_RESET Pin=J-13
+Removed Pin From Net: NetName=GND Pin=J-14
+Removed Pin From Net: NetName=V12P0 Pin=J-15
+Removed Member From Class: ClassName=Designator Member=J1
+Removed Member From Class: ClassName=Designator Member=J
+Added Component: Designator=TB?(SHIELD_ARDUINO_NANO)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Arduino Nano"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Nano/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Ard_D1/TX Pin=TB?-1
+Added Pin To Net: NetName=Ard_D0/RX Pin=TB?-2
+Added Pin To Net: NetName=Ard_RESET Pin=TB?-3
+Added Pin To Net: NetName=GND Pin=TB?-4
+Added Pin To Net: NetName=Ard_D2 Pin=TB?-5
+Added Pin To Net: NetName=Ard_D3 Pin=TB?-6
+Added Pin To Net: NetName=Ard_D4 Pin=TB?-7
+Added Pin To Net: NetName=Ard_D5 Pin=TB?-8
+Added Pin To Net: NetName=Ard_D6 Pin=TB?-9
+Added Pin To Net: NetName=Ard_D7 Pin=TB?-10
+Added Pin To Net: NetName=Ard_D8 Pin=TB?-11
+Added Pin To Net: NetName=Ard_D9 Pin=TB?-12
+Added Pin To Net: NetName=Ard_D10 Pin=TB?-13
+Added Pin To Net: NetName=Ard_D11 Pin=TB?-14
+Added Pin To Net: NetName=Ard_D12 Pin=TB?-15
+Added Pin To Net: NetName=Ard_D13 Pin=TB?-16
+Added Pin To Net: NetName=Ard_3V3 Pin=TB?-17
+Added Pin To Net: NetName=GND Pin=TB?-18
+Added Pin To Net: NetName=Ard_A0 Pin=TB?-19
+Added Pin To Net: NetName=Ard_A1 Pin=TB?-20
+Added Pin To Net: NetName=Ard_A2 Pin=TB?-21
+Added Pin To Net: NetName=Ard_A3 Pin=TB?-22
+Added Pin To Net: NetName=Ard_A4/SDA Pin=TB?-23
+Added Pin To Net: NetName=Ard_A5/SCL Pin=TB?-24
+Added Pin To Net: NetName=Ard_A6 Pin=TB?-25
+Added Pin To Net: NetName=Ard_A7 Pin=TB?-26
+Added Pin To Net: NetName=Ard_5V Pin=TB?-27
+Added Pin To Net: NetName=Ard_RESET Pin=TB?-28
+Added Pin To Net: NetName=GND Pin=TB?-29
+Added Pin To Net: NetName=V12P0 Pin=TB?-30
+Change Class Name : Old Net Name=J1_Nets New Net Name=TB?_Nets
+Added Member To Class: ClassName=Designator Member=Component TB? ARDUINO_NANO
+Added Member To Class: ClassName=TB?_Nets Member=Wire Ard_3V3
+Added Member To Class: ClassName=TB?_Nets Member=Wire Ard_5V
+Added Member To Class: ClassName=TB?_Nets Member=Wire Ard_A0
+Added Member To Class: ClassName=TB?_Nets Member=Wire Ard_A1
+Added Member To Class: ClassName=TB?_Nets Member=Wire Ard_A2
+Added Member To Class: ClassName=TB?_Nets Member=Wire Ard_A3
+Added Member To Class: ClassName=TB?_Nets Member=Wire Ard_A4/SDA
+Added Member To Class: ClassName=TB?_Nets Member=Wire Ard_A5/SCL
+Added Member To Class: ClassName=TB?_Nets Member=Wire Ard_A6
+Added Member To Class: ClassName=TB?_Nets Member=Wire Ard_A7
+Added Member To Class: ClassName=TB?_Nets Member=Wire Ard_D13
+Added Member To Class: ClassName=TB?_Nets Member=Wire V12P0

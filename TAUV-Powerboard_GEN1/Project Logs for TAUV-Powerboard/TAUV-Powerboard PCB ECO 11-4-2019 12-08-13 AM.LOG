@@ -1,0 +1,160 @@
+Removed Member From Class: ClassName=U_BMS Member=C29
+Removed Member From Class: ClassName=U_BMS Member=C30
+Removed Member From Class: ClassName=U_Thrusters Member=C33
+Removed Member From Class: ClassName=U_Thrusters Member=C36
+Removed Member From Class: ClassName=U_Thrusters Member=D5
+Removed Member From Class: ClassName=U_Interface Member=D6
+Removed Member From Class: ClassName=U_Thrusters Member=D6
+Removed Member From Class: ClassName=U_BMS Member=D18
+Removed Member From Class: ClassName=U_External Member=J7
+Removed Member From Class: ClassName=U_Interface Member=P1
+Removed Member From Class: ClassName=U_Power Member=Q4
+Removed Member From Class: ClassName=U_Interface Member=R16
+Removed Member From Class: ClassName=U_Interface Member=R18
+Removed Member From Class: ClassName=U_Regulators Member=R19
+Removed Member From Class: ClassName=U_Thrusters Member=R19
+Removed Member From Class: ClassName=U_BMS Member=R38
+Removed Member From Class: ClassName=U_BMS Member=R40
+Removed Member From Class: ClassName=U_Thrusters Member=U10
+Removed Member From Class: ClassName=U_Thrusters Member=U11
+Added Component: Designator=C7(CAPC0603(1608)100_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Â±0.25pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12pF"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAPC0603(1608)100_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Â±2%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C40(CAPC1210(3225)220_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "2.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "-20% to +80%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4700.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=U1(DDA0008E_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ti.com/lit/ds/symlink/lmr23630-q1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lmr23630-q1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency - Switching"; Value = "400kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Step-Down"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LMR23630AFQDDARQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC (0.154", 3.90mm Width) Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3.97, 10=3.564, 100=2.9204, 500=2.48604, 1000=2.09667 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1636"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "8-SO PowerPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-45260-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Min)"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Max)"; Value = "28V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Min/Fixed)"; Value = "1V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=VBAT_EXT Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=VBAT Pin=C40-2
+Added Pin To Net: NetName=NetP2_5 Pin=R2-1
+Added Pin To Net: NetName=NetD1_2 Pin=R2-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Pin To Net: NetName=NetC13_2 Pin=U1-3
+Added Pin To Net: NetName=NetC7_1 Pin=U1-4
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Member To Class: ClassName=U_Regulators Member=Component C7 12pF
+Added Member To Class: ClassName=U_Regulators Member=Component C9 4.7uF
+Added Member To Class: ClassName=U_Regulators Member=Component C11 CAP 22uF 16V 1206(3216)
+Added Member To Class: ClassName=U_Thrusters Member=Component C29 100nF
+Added Member To Class: ClassName=U_Thrusters Member=Component C30 100nF
+Added Member To Class: ClassName=U_Thrusters Member=Component C31 10nF
+Added Member To Class: ClassName=U_BMS Member=Component C34 1uF 25V
+Added Member To Class: ClassName=U_BMS Member=Component C35 100nF
+Added Member To Class: ClassName=U_BMS Member=Component C37 100nF
+Added Member To Class: ClassName=U_BMS Member=Component C38 100nF
+Added Member To Class: ClassName=U_External Member=Component C39 10nF
+Added Member To Class: ClassName=U_External Member=Component C40 CAP 22uF 25V 1210(3225)
+Added Member To Class: ClassName=U_Thrusters Member=Component D3 LED RED
+Added Member To Class: ClassName=U_Thrusters Member=Component D4 LED RED
+Added Member To Class: ClassName=U_BMS Member=Component D8 LED YELLOW
+Added Member To Class: ClassName=U_BMS Member=Component D11 LED GREEN
+Added Member To Class: ClassName=U_BMS Member=Component D12 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D14 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D15 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D16 LED GREEN
+Added Member To Class: ClassName=U_Interface Member=Component D19 LED GREEN
+Added Member To Class: ClassName=U_Thrusters Member=Component J1 2-pin megafit
+Added Member To Class: ClassName=U_Thrusters Member=Component J4 2-pin megafit
+Added Member To Class: ClassName=U_Thrusters Member=Component J8 2-pin megafit
+Added Member To Class: ClassName=U_External Member=Component J9 2-pin megafit
+Added Member To Class: ClassName=U_Interface Member=Component P2 14-Pin 2-Row Nano-Fit Right Angle
+Added Member To Class: ClassName=U_Interface Member=Component P3 14-Pin 2-Row Nano-Fit Right Angle
+Added Member To Class: ClassName=U_Power Member=Component Q2 NVF6P02T3G
+Added Member To Class: ClassName=U_Thrusters Member=Component Q3 NVTR01P02LT1G
+Added Member To Class: ClassName=U_Power Member=Component R2 4K7
+Added Member To Class: ClassName=U_Power Member=Component R3 WSLP59312 2mR 8W
+Added Member To Class: ClassName=U_Power Member=Component R4 WSLP59312 2mR 8W
+Added Member To Class: ClassName=U_Regulators Member=Component R5 200K 1%
+Added Member To Class: ClassName=U_Regulators Member=Component R6 51K 1%
+Added Member To Class: ClassName=U_Regulators Member=Component R7 22K1 1%
+Added Member To Class: ClassName=U_Regulators Member=Component R9 88K7 1%
+Added Member To Class: ClassName=U_Regulators Member=Component R11 22K1 1%
+Added Member To Class: ClassName=U_Regulators Member=Component R12 22K1 1%
+Added Member To Class: ClassName=U_Thrusters Member=Component R13 7K5 1%
+Added Member To Class: ClassName=U_Thrusters Member=Component R14 10K
+Added Member To Class: ClassName=U_Thrusters Member=Component R15 10K
+Added Member To Class: ClassName=U_BMS Member=Component R20 4K7
+Added Member To Class: ClassName=U_BMS Member=Component R21 100R
+Added Member To Class: ClassName=U_BMS Member=Component R22 100R
+Added Member To Class: ClassName=U_BMS Member=Component R23 294K
+Added Member To Class: ClassName=U_BMS Member=Component R29 100R 1%
+Added Member To Class: ClassName=U_BMS Member=Component R31 100R 1%
+Added Member To Class: ClassName=U_BMS Member=Component R32 100R
+Added Member To Class: ClassName=U_BMS Member=Component R34 100R
+Added Member To Class: ClassName=U_BMS Member=Component R36 100R
+Added Member To Class: ClassName=U_Interface Member=Component R37 1K2
+Added Member To Class: ClassName=U_Interface Member=Component R39 470R
+Added Member To Class: ClassName=U_Interface Member=Component R41 220R
+Added Member To Class: ClassName=U_Interface Member=Component TP7 Test Point Loop
+Added Member To Class: ClassName=U_Regulators Member=Component U1 LMR23630-Q1
+Added Member To Class: ClassName=U_Thrusters Member=Component U5 Part Number: INA300AIDSQT
+Added Member To Class: ClassName=U_Thrusters Member=Component U6 Part Number: CSD18563Q5A
+Added Member To Class: ClassName=U_Thrusters Member=Component U8 SN74LVC1G97QDCKRQ1
+Added Member To Class: ClassName=U_Thrusters Member=Component U9 MIC5021YM

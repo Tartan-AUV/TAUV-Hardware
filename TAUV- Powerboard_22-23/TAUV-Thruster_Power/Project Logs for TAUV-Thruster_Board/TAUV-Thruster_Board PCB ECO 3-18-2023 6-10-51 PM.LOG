@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=VCC_3V3 Pin=U2-1
-Change Component Designator: OldDesignator=OCP NewDesignator=D4
-Change Component Designator: OldDesignator=Sense+ NewDesignator=J10
-Change Component Designator: OldDesignator=THRST_EN NewDesignator=D3
-Added Pin To Net: NetName=GND Pin=U2-1
-Added Member To Class: ClassName=U_Power Member=Component U3 Part Number: INA300AIDSQT
-Added Room: Name=U_Interfaces
-Added Room: Name=U_Power

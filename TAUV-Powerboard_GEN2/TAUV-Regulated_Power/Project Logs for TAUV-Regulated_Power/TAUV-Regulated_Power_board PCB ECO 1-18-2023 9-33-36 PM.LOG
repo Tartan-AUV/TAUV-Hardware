@@ -1,0 +1,92 @@
+Added Component: Designator=Ccomp3(0805)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C181K5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0805C181K5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180pF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccomp4(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=Ccomp_2(0402)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CGA2B3X7R1H103K050BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=Dboot1(GEN_Diode)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GENERIC_DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500mV"; VariantName = "[No Variations]"
+Added Component: Designator=Dboot3(GEN_Diode)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GENERIC_DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500mV"; VariantName = "[No Variations]"
+Added Component: Designator=Df1(GEN_Diode)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GENERIC_DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500mV"; VariantName = "[No Variations]"
+Added Component: Designator=Df2(GEN_Diode)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GENERIC_DIODE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CUSTOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500mV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCcomp3_1 Pin=Ccomp3-1
+Added Pin To Net: NetName=Ard_AREF Pin=Ccomp3-2
+Added Pin To Net: NetName=NetCcomp3_1 Pin=Ccomp4-1
+Added Pin To Net: NetName=NetCcomp4_2 Pin=Ccomp4-2
+Added Pin To Net: NetName=NetCcomp3_1 Pin=Ccomp_2-1
+Added Pin To Net: NetName=NetCcomp4_2 Pin=Ccomp_2-2
+Add Pin To Net: Unknown Pin: Pin Cf1-1
+Add Pin To Net: Unknown Pin: Pin Cf1-2
+Add Pin To Net: Unknown Pin: Pin Cf2-1
+Add Pin To Net: Unknown Pin: Pin Cf2-2
+Add Pin To Net: Unknown Pin: Pin Coutx1-1
+Add Pin To Net: Unknown Pin: Pin Coutx1-2
+Add Pin To Net: Unknown Pin: Pin Coutx2-1
+Add Pin To Net: Unknown Pin: Pin Coutx2-2
+Add Pin To Net: Unknown Pin: Pin Coutx3-1
+Add Pin To Net: Unknown Pin: Pin Coutx3-2
+Add Pin To Net: Unknown Pin: Pin Coutx4-1
+Add Pin To Net: Unknown Pin: Pin Coutx4-2
+Add Pin To Net: Unknown Pin: Pin Coutx5-1
+Add Pin To Net: Unknown Pin: Pin Coutx5-2
+Add Pin To Net: Unknown Pin: Pin Coutx6-1
+Add Pin To Net: Unknown Pin: Pin Coutx6-2
+Added Pin To Net: NetName=NetCboot1_1 Pin=Dboot1-1
+Added Pin To Net: NetName=NetCvcc1_1 Pin=Dboot1-2
+Added Pin To Net: NetName=NetCboot3_1 Pin=Dboot3-1
+Added Pin To Net: NetName=NetCvcc2_1 Pin=Dboot3-2
+Added Pin To Net: NetName=NetDf1_1 Pin=Df1-1
+Added Pin To Net: NetName=VBATT Pin=Df1-2
+Added Pin To Net: NetName=NetDf2_1 Pin=Df2-1
+Added Pin To Net: NetName=VBATT Pin=Df2-2
+Add Pin To Net: Unknown Pin: Pin Rcomp1-1
+Add Pin To Net: Unknown Pin: Pin Rcomp1-2
+Add Pin To Net: Unknown Pin: Pin Rcomp2-1
+Add Pin To Net: Unknown Pin: Pin Rcomp2-2
+Add Pin To Net: Unknown Pin: Pin Rsense2-1
+Add Pin To Net: Unknown Pin: Pin Rsense2-2
+Add Pin To Net: Unknown Pin: Pin Rvisns1-1
+Add Pin To Net: Unknown Pin: Pin Rvisns1-2
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Ccomp3 C0805C181K5GACTU
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Ccomp4 CGA2B3X7R1H103K050BB
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Ccomp_2 CGA2B3X7R1H103K050BB
+Add Class Member: Failed to add class member : Component Cf1 CGA3E2X7R1H104K080AA
+Add Class Member: Failed to add class member : Component Cf2 CGA3E2X7R1H104K080AA
+Add Class Member: Failed to add class member : Component Coutx1 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx2 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx3 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx4 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx5 C2012X5R1V226M125AC
+Add Class Member: Failed to add class member : Component Coutx6 C2012X5R1V226M125AC
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Dboot1 GENERIC_DIODE
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Dboot3 GENERIC_DIODE
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Df1 GENERIC_DIODE
+Added Member To Class: ClassName=Sht2-V12P0 Member=Component Df2 GENERIC_DIODE
+Add Class Member: Failed to add class member : Component Rcomp1 CRCW040212K7FKED
+Add Class Member: Failed to add class member : Component Rcomp2 CRCW040212K7FKED
+Add Class Member: Failed to add class member : Component Rsense2 WSR37L000FEA
+Add Class Member: Failed to add class member : Component Rvisns1 CRCW06032K00FKEA

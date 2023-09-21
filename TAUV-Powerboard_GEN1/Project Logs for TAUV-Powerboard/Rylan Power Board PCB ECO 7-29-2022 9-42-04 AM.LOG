@@ -1,0 +1,335 @@
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found SBRT15U50SP5-13
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found SBRT15U50SP5-13
+Add Component: Footprint Not Found SBRT15U50SP5-13
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found Fuse Holder 3588
+Add Component: Footprint Not Found Fuse Holder 3588
+Add Component: Footprint Not Found Fuse Holder 3588
+Add Component: Footprint Not Found Fuse Holder 3588
+Add Component: Footprint Not Found 2-pin Megafit RA
+Add Component: Footprint Not Found 2-pin Megafit RA
+Add Component: Footprint Not Found 2-pin Megafit RA
+Add Component: Footprint Not Found 2-pin Megafit RA
+Add Component: Footprint Not Found 2-pin Megafit RA
+Add Component: Footprint Not Found 2-pin Megafit RA
+Added Component: Designator=J7(2-pin Megafit RA)
+Add Component: Footprint Not Found 2-pin Megafit RA
+Add Component: Footprint Not Found 2-pin Megafit RA
+Add Component: Footprint Not Found BOURNS SRP5030T
+Add Component: Footprint Not Found BOURNS SRP5030T
+Add Component: Footprint Not Found IND_SRP6540-100M
+Add Component: Footprint Not Found Mounting Hole #4-40
+Add Component: Footprint Not Found Mounting Hole #4-40
+Add Component: Footprint Not Found Mounting Hole #4-40
+Add Component: Footprint Not Found Mounting Hole #4-40
+Add Component: Footprint Not Found Net_Tie_80mil
+Add Component: Footprint Not Found MOLEX NANO-FIT 2X7 - Right Angle
+Add Component: Footprint Not Found XT90
+Add Component: Footprint Not Found MOLEX NANO-FIT 2X7 - Right Angle
+Add Component: Footprint Not Found WSLP59312L000FEA
+Add Component: Footprint Not Found WSLP59312L000FEA
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found Test Point Loop - Black
+Add Component: Footprint Not Found DDA0008E_N
+Add Component: Footprint Not Found DDA0008E_N
+Add Component: Footprint Not Found DQJ8
+Add Component: Footprint Not Found DDA0008E_N
+Add Component: Footprint Not Found DDA0008E_N
+Add Component: Footprint Not Found DQJ8
+Add Component: Footprint Not Found DQJ8
+Add Component: Footprint Not Found PW14
+Add Component: Footprint Not Found DSQ10_P9X1P5
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin D10-1
+Add Pin To Net: Unknown Pin: Pin D10-2
+Add Pin To Net: Unknown Pin: Pin D11-1
+Add Pin To Net: Unknown Pin: Pin D11-2
+Add Pin To Net: Unknown Pin: Pin D12-1
+Add Pin To Net: Unknown Pin: Pin D12-2
+Add Pin To Net: Unknown Pin: Pin D13-1
+Add Pin To Net: Unknown Pin: Pin D13-2
+Add Pin To Net: Unknown Pin: Pin D14-1
+Add Pin To Net: Unknown Pin: Pin D14-2
+Add Pin To Net: Unknown Pin: Pin D15-1
+Add Pin To Net: Unknown Pin: Pin D15-2
+Add Pin To Net: Unknown Pin: Pin D16-1
+Add Pin To Net: Unknown Pin: Pin D16-2
+Add Pin To Net: Unknown Pin: Pin D17-1
+Add Pin To Net: Unknown Pin: Pin D17-2
+Add Pin To Net: Unknown Pin: Pin D18-1
+Add Pin To Net: Unknown Pin: Pin D18-2
+Add Pin To Net: Unknown Pin: Pin D19-1
+Add Pin To Net: Unknown Pin: Pin D19-2
+Add Pin To Net: Unknown Pin: Pin D20-1
+Add Pin To Net: Unknown Pin: Pin D20-2
+Add Pin To Net: Unknown Pin: Pin D21-1
+Add Pin To Net: Unknown Pin: Pin D21-2
+Add Pin To Net: Unknown Pin: Pin D22-1
+Add Pin To Net: Unknown Pin: Pin D22-2
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin F2-1
+Add Pin To Net: Unknown Pin: Pin F2-2
+Add Pin To Net: Unknown Pin: Pin F3-1
+Add Pin To Net: Unknown Pin: Pin F3-2
+Add Pin To Net: Unknown Pin: Pin F4-1
+Add Pin To Net: Unknown Pin: Pin F4-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=J7-2
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Add Pin To Net: Unknown Pin: Pin J9-1
+Add Pin To Net: Unknown Pin: Pin J9-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin MH1-0
+Add Pin To Net: Unknown Pin: Pin MH2-0
+Add Pin To Net: Unknown Pin: Pin MH3-0
+Add Pin To Net: Unknown Pin: Pin MH4-0
+Add Pin To Net: Unknown Pin: Pin NT1-1
+Add Pin To Net: Unknown Pin: Pin NT1-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P1-4
+Add Pin To Net: Unknown Pin: Pin P1-5
+Add Pin To Net: Unknown Pin: Pin P1-6
+Add Pin To Net: Unknown Pin: Pin P1-7
+Add Pin To Net: Unknown Pin: Pin P1-8
+Add Pin To Net: Unknown Pin: Pin P1-9
+Add Pin To Net: Unknown Pin: Pin P1-10
+Add Pin To Net: Unknown Pin: Pin P1-11
+Add Pin To Net: Unknown Pin: Pin P1-12
+Add Pin To Net: Unknown Pin: Pin P1-13
+Add Pin To Net: Unknown Pin: Pin P1-14
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-2
+Add Pin To Net: Unknown Pin: Pin P3-3
+Add Pin To Net: Unknown Pin: Pin P3-4
+Add Pin To Net: Unknown Pin: Pin P3-5
+Add Pin To Net: Unknown Pin: Pin P3-6
+Add Pin To Net: Unknown Pin: Pin P3-7
+Add Pin To Net: Unknown Pin: Pin P3-8
+Add Pin To Net: Unknown Pin: Pin P3-9
+Add Pin To Net: Unknown Pin: Pin P3-10
+Add Pin To Net: Unknown Pin: Pin P3-11
+Add Pin To Net: Unknown Pin: Pin P3-12
+Add Pin To Net: Unknown Pin: Pin P3-13
+Add Pin To Net: Unknown Pin: Pin P3-14
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Add Pin To Net: Unknown Pin: Pin TP6-1
+Add Pin To Net: Unknown Pin: Pin TP7-1
+Add Pin To Net: Unknown Pin: Pin TP8-1
+Add Pin To Net: Unknown Pin: Pin TP9-1
+Add Pin To Net: Unknown Pin: Pin TP10-1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-5
+Add Pin To Net: Unknown Pin: Pin U8-6
+Add Pin To Net: Unknown Pin: Pin U8-7
+Add Pin To Net: Unknown Pin: Pin U8-8
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-6
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Pin To Net: Unknown Pin: Pin U10-1
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U10-5
+Add Pin To Net: Unknown Pin: Pin U10-6
+Add Pin To Net: Unknown Pin: Pin U10-7
+Add Pin To Net: Unknown Pin: Pin U10-8
+Add Pin To Net: Unknown Pin: Pin U10-9
+Add Pin To Net: Unknown Pin: Pin U10-10
+Add Pin To Net: Unknown Pin: Pin U10-11
+Add Pin To Net: Unknown Pin: Pin U10-13
+Add Pin To Net: Unknown Pin: Pin U10-14
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U12-7
+Add Pin To Net: Unknown Pin: Pin U12-8
+Add Pin To Net: Unknown Pin: Pin U12-9
+Add Pin To Net: Unknown Pin: Pin U12-10
+Add Pin To Net: Unknown Pin: Pin U12-11
+Add Class Member: Failed to add class member : Component D1 LED GREEN
+Add Class Member: Failed to add class member : Component D2 SBRT15U50SP5-13
+Add Class Member: Failed to add class member : Component D4 LED RED
+Add Class Member: Failed to add class member : Component D5 LED RED
+Add Class Member: Failed to add class member : Component D7 LED GREEN
+Add Class Member: Failed to add class member : Component D8 LED GREEN
+Add Class Member: Failed to add class member : Component D9 LED GREEN
+Add Class Member: Failed to add class member : Component D10 LED YELLOW
+Add Class Member: Failed to add class member : Component D11 LED GREEN
+Add Class Member: Failed to add class member : Component D12 LED YELLOW
+Add Class Member: Failed to add class member : Component D13 LED YELLOW
+Add Class Member: Failed to add class member : Component D14 LED RED
+Add Class Member: Failed to add class member : Component D15 SBRT15U50SP5-13
+Add Class Member: Failed to add class member : Component D16 SBRT15U50SP5-13
+Add Class Member: Failed to add class member : Component D17 LED RED
+Add Class Member: Failed to add class member : Component D18 LED GREEN
+Add Class Member: Failed to add class member : Component D19 LED GREEN
+Add Class Member: Failed to add class member : Component D20 LED GREEN
+Add Class Member: Failed to add class member : Component D21 LED GREEN
+Add Class Member: Failed to add class member : Component D22 LED GREEN
+Add Class Member: Failed to add class member : Component F1 Fuse Holder 3588
+Add Class Member: Failed to add class member : Component F2 Fuse Holder 3588
+Add Class Member: Failed to add class member : Component F3 Fuse Holder 3588
+Add Class Member: Failed to add class member : Component F4 Fuse Holder 3588
+Add Class Member: Failed to add class member : Component J1 2-pin megafit
+Add Class Member: Failed to add class member : Component J2 2-pin megafit
+Add Class Member: Failed to add class member : Component J3 2-pin megafit
+Add Class Member: Failed to add class member : Component J4 2-pin megafit
+Add Class Member: Failed to add class member : Component J5 2-pin megafit
+Add Class Member: Failed to add class member : Component J6 2-pin megafit
+Added Member To Class: ClassName=U_Thrusters Member=Component J7
+Add Class Member: Failed to add class member : Component J8 2-pin megafit
+Add Class Member: Failed to add class member : Component J9 2-pin megafit
+Add Class Member: Failed to add class member : Component L1 SRP6540-8R2M
+Add Class Member: Failed to add class member : Component L2 SRP6540-8R2M
+Add Class Member: Failed to add class member : Component L3 SRP6540-100M
+Add Class Member: Failed to add class member : Component MH1 #4-40
+Add Class Member: Failed to add class member : Component MH2 #4-40
+Add Class Member: Failed to add class member : Component MH3 #4-40
+Add Class Member: Failed to add class member : Component MH4 #4-40
+Add Class Member: Failed to add class member : Component NT1 Net Tie
+Add Class Member: Failed to add class member : Component P1 14-Pin 2-Row Nano-Fit Right Angle
+Add Class Member: Failed to add class member : Component P2 XT90
+Add Class Member: Failed to add class member : Component P3 14-Pin 2-Row Nano-Fit Right Angle
+Add Class Member: Failed to add class member : Component R13 WSLP59312 2mR 8W
+Add Class Member: Failed to add class member : Component R14 WSLP59312 2mR 8W
+Add Class Member: Failed to add class member : Component TP1 Test Point Loop
+Add Class Member: Failed to add class member : Component TP2 Test Point Loop
+Add Class Member: Failed to add class member : Component TP3 Test Point Loop
+Add Class Member: Failed to add class member : Component TP4 Test Point Loop
+Add Class Member: Failed to add class member : Component TP5 Test Point Loop
+Add Class Member: Failed to add class member : Component TP6 Test Point Loop
+Add Class Member: Failed to add class member : Component TP7 Test Point Loop
+Add Class Member: Failed to add class member : Component TP8 Test Point Loop
+Add Class Member: Failed to add class member : Component TP9 Test Point Loop
+Add Class Member: Failed to add class member : Component TP10 Test Point Loop
+Add Class Member: Failed to add class member : Component U1 LMR23630-Q1
+Add Class Member: Failed to add class member : Component U2 LMR23630-Q1
+Add Class Member: Failed to add class member : Component U3 Part Number: CSD18563Q5A
+Add Class Member: Failed to add class member : Component U4 LMR23630-Q1
+Add Class Member: Failed to add class member : Component U5 LMR23630-Q1
+Add Class Member: Failed to add class member : Component U8 Part Number: CSD18563Q5A
+Add Class Member: Failed to add class member : Component U9 Part Number: CSD18563Q5A
+Add Class Member: Failed to add class member : Component U10 BQ34Z100PWR-G1
+Add Class Member: Failed to add class member : Component U12 Part Number: INA300AIDSQT

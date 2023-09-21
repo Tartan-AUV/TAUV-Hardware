@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=V12P0 Pin=J3-01
-Removed Member From Class: ClassName=J3_Nets Member=V12P0
-Change Component Description : Designator=R29 Old Description= New Description=0 Ohm 0805
-Added Pin To Net: NetName=V12P0_ARD Pin=J3-01
-Added Member To Class: ClassName=J3_Nets Member=Wire V12P0_ARD

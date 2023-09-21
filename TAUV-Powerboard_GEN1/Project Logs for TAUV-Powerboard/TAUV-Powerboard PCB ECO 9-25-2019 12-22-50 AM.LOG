@@ -1,0 +1,17 @@
+Change Component DesignItemId : Designator=J2 Old DesignItemId=2-pin megafit RA New DesignItemId=2-pin megafit
+Change Component DesignItemId : Designator=J3 Old DesignItemId=2-pin megafit RA New DesignItemId=2-pin megafit
+Change Component DesignItemId : Designator=J4 Old DesignItemId=2-pin megafit RA New DesignItemId=2-pin megafit
+Change Component DesignItemId : Designator=J5 Old DesignItemId=2-pin megafit RA New DesignItemId=2-pin megafit
+Change Component DesignItemId : Designator=J6 Old DesignItemId=2-pin megafit RA New DesignItemId=2-pin megafit
+Change Component DesignItemId : Designator=J7 Old DesignItemId=2-pin megafit RA New DesignItemId=2-pin megafit
+Change Component DesignItemId : Designator=J8 Old DesignItemId=2-pin megafit RA New DesignItemId=2-pin megafit
+Change Component DesignItemId : Designator=J9 Old DesignItemId=2-pin megafit RA New DesignItemId=2-pin megafit
+Change Component Comment : Designator=J2 Old Comment=2-pin megafit RA New Comment=2-pin megafit
+Change Component Comment : Designator=J3 Old Comment=2-pin megafit RA New Comment=2-pin megafit
+Change Component Comment : Designator=J4 Old Comment=2-pin megafit RA New Comment=2-pin megafit
+Change Component Comment : Designator=J5 Old Comment=2-pin megafit RA New Comment=2-pin megafit
+Change Component Comment : Designator=J6 Old Comment=2-pin megafit RA New Comment=2-pin megafit
+Change Component Comment : Designator=J7 Old Comment=2-pin megafit RA New Comment=2-pin megafit
+Change Component Comment : Designator=J8 Old Comment=2-pin megafit RA New Comment=2-pin megafit
+Change Component Comment : Designator=J9 Old Comment=2-pin megafit RA New Comment=2-pin megafit
+Added Member To Class: ClassName=U_BMS Member=Component U8 BQ34Z100PWR-G1

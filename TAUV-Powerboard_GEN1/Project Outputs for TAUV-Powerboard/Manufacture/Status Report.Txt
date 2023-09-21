@@ -1,0 +1,24 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [TAUV-Powerboard.PcbDoc]
+   Generated File[TAUV-Powerboard_Copper_Signal_Top.gbr]
+   Generated File[TAUV-Powerboard_Copper_Plane_1.gbr]
+   Generated File[TAUV-Powerboard_Copper_Plane_2.gbr]
+   Generated File[TAUV-Powerboard_Copper_Signal_Bot.gbr]
+   Generated File[TAUV-Powerboard_Legend_Top.gbr]
+   Generated File[TAUV-Powerboard_Legend_Bot.gbr]
+   Generated File[TAUV-Powerboard_Soldermask_Top.gbr]
+   Generated File[TAUV-Powerboard_Soldermask_Bot.gbr]
+   Generated File[TAUV-Powerboard_Paste_Top.gbr]
+   Generated File[TAUV-Powerboard_Paste_Bot.gbr]
+   Generated File[TAUV-Powerboard_Profile.gbr]
+   Generated File[TAUV-Powerboard_NPTH_Drill.gbr]
+   Generated File[TAUV-Powerboard_PTH_Drill.gbr]
+   Generated File[TAUV-Powerboard.EXTREP]
+   Generated File[TAUV-Powerboard.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 6:36:35 PM On 6/16/2023

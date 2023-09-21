@@ -1,0 +1,213 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=NetC7_2 Pin=C11-2
+Removed Pin From Net: NetName=VBAT Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=SRP Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=SRN Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Member From Class: ClassName=U_Regulators Member=C11
+Change Component Footprint: Designator=C24 Old Footprint=CAPC1210(3225)100_L New Footprint=CAPC1210(3225)220_M
+Change Component Footprint: Designator=R5 Old Footprint=J1-0603 New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R4 Old Footprint=J1-0603 New Footprint=RESC0603(1608)_N
+Change Component Comment : Designator=C13 Old Comment=1uF New Comment=1uF 25V
+Change Component Comment : Designator=C14 Old Comment=1uF New Comment=1uF 25V
+Change Component Comment : Designator=C22 Old Comment=1uF New Comment=1uF 25V
+Change Component Comment : Designator=C24 Old Comment=22uF New Comment=CAP 22uF 25V 1210(3225)
+Change Component Comment : Designator=C27 Old Comment=100nF 25V New Comment=100nF
+Change Component Comment : Designator=C28 Old Comment=100nF 25V New Comment=100nF
+Change Component Comment : Designator=C29 Old Comment=100nF 25V New Comment=100nF
+Change Component Comment : Designator=C30 Old Comment=100nF 25V New Comment=100nF
+Change Component Comment : Designator=R5 Old Comment=Res3 New Comment=22K1 1%
+Change Component Comment : Designator=R4 Old Comment=Res3 New Comment=51K 1%
+Change component parameters: Designator = "C6"; Footprint = "CAPC0603(1608)100_L"; UniqueID = "\FVSOLMQG\FNOGORHR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "CAPC0603(1608)100_L"; UniqueID = "\FVSOLMQG\YHPMXXNG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14"; Footprint = "CAPC0603(1608)100_L"; UniqueID = "\FVSOLMQG\JOGFUDAI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15"; Footprint = "CAPC0603(1608)100_L"; UniqueID = "\FVSOLMQG\FGMXEHIU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17"; Footprint = "CAPC0603(1608)100_L"; UniqueID = "\FVSOLMQG\EBDCFFYU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22"; Footprint = "CAPC0603(1608)100_L"; UniqueID = "\FVSOLMQG\BEMYSRCP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27"; Footprint = "CAPC0603(1608)100_L"; UniqueID = "\HXLIUJEV\ODXDDPBK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28"; Footprint = "CAPC0603(1608)100_L"; UniqueID = "\HXLIUJEV\MEMNBKRX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29"; Footprint = "CAPC0603(1608)100_L"; UniqueID = "\HXLIUJEV\EYROGFHQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30"; Footprint = "CAPC0603(1608)100_L"; UniqueID = "\HXLIUJEV\VEYCTMRS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6"; Footprint = "LED_0805"; UniqueID = "\HXLIUJEV\WTOSIXSD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-110/LTST-C171KSKT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-110/LTST-C171KSKT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 1.40mm x 1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Millicandela Rating"; Value = "35mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.31, 10=0.225, 25=0.1656, 100=0.1183, 250=0.0804, 500=0.07096, 1000=0.05558 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "350441"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1428-1-ND "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130�"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength - Dominant"; Value = "571nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength - Peak"; Value = "574nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7"; Footprint = "LED_0805"; UniqueID = "\HXLIUJEV\VLBQERAT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-110/LTST-C171KSKT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-110/LTST-C171KSKT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Style/Size"; Value = "Rectangle with Flat Top, 1.40mm x 1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KGKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Millicandela Rating"; Value = "35mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.31, 10=0.225, 25=0.1656, 100=0.1183, 250=0.0804, 500=0.07096, 1000=0.05558 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "350441"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1428-1-ND "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "130�"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength - Dominant"; Value = "571nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength - Peak"; Value = "574nm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24"; Footprint = "CAPC1210(3225)220_M"; UniqueID = "\SJCSCICP\EEKDMMHE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "2.2 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "-20% to +80%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "RESC0603(1608)_N"; UniqueID = "\FVSOLMQG\AISYHOER"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "51000.00 Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RESC0603(1608)_L"; UniqueID = "\FVSOLMQG\YQKGDUSM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22100.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAPC1206(3216)190_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=VBAT Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=SRP Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=SRN Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=NetC7_2 Pin=C31-2
+Added Member To Class: ClassName=U_Regulators Member=Component C31 CAP 33uF 16V 1206(3216)

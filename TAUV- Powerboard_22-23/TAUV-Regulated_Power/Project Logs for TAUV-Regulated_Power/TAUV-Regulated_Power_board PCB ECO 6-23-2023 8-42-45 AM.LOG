@@ -1,7 +1,0 @@
-Removed Member From Class: ClassName=Designator_Nets Member=NetR4_1
-Removed Member From Class: ClassName=R4_Nets Member=NetR4_1
-Removed Member From Class: ClassName=R6_Nets Member=NetR4_1
-Added Pin To Net: NetName=NetC15_1 Pin=R4-1
-Added Pin To Net: NetName=NetC15_1 Pin=R6-2
-Added Member To Class: ClassName=R4_Nets Member=Wire NetC15_1
-Added Member To Class: ClassName=R6_Nets Member=Wire NetC15_1

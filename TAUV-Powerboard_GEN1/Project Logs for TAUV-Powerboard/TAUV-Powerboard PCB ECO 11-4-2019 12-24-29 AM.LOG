@@ -1,0 +1,26 @@
+Added Component: Designator=D?(SBRT15U50SP5-13)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance @ Vr, F"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/SBRT15U50SP5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/SBRT15U50SP5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Average Rectified (Io)"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Super Barrier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SBRT15U50SP5-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature - Junction"; Value = "-65°C ~ 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "PowerDI™ 5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.93, 10=0.823, 100=0.6306, 500=0.49852, 1000=0.39882 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "12134"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "PowerDI®5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SBRT15U50SP5-13DICT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=VBAT_THRUSTERS Pin=D?-2
+Added Member To Class: ClassName=U_Thrusters Member=Component D? SBRT15U50SP5-13

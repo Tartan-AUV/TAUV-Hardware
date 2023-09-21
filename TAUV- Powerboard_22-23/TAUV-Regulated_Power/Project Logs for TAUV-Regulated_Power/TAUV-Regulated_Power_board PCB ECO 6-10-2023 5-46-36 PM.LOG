@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=*?-1
-Removed Pin From Net: NetName=SGND Pin=*?-2
-Removed Member From Class: ClassName=Sht2-V12P0_reg Member=*?
-Removed Member From Class: ClassName=Sht2-V12P0_reg Member=*
