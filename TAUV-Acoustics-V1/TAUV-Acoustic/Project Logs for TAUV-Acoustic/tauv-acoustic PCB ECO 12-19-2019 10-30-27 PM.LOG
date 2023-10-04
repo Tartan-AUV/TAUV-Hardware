@@ -1,0 +1,1687 @@
+Added Component: Designator=C1_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6nF"; VariantName = "[No Variations]"
+Added Component: Designator=C9_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C9_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C9_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C9_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C11_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C11_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C11_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C11_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C12_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C12_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C12_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C12_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C13_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C13_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C13_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C13_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C14_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C14_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C14_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C14_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C15_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C15_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C15_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C15_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16_U_Hydrophone0(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16_U_Hydrophone1(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16_U_Hydrophone2(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C16_U_Hydrophone3(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=J1_U_Hydrophone0(ACJS-MHDR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "889-1817-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J1_U_Hydrophone1(ACJS-MHDR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "889-1817-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J1_U_Hydrophone2(ACJS-MHDR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "889-1817-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J1_U_Hydrophone3(ACJS-MHDR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "889-1817-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_Hydrophone0(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.62k"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_Hydrophone1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.62k"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_Hydrophone2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.62k"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_Hydrophone3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.62k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_Hydrophone0(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.76k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_Hydrophone1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.76k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_Hydrophone2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.76k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_Hydrophone3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.76k"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_Hydrophone0(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.96k"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_Hydrophone1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.96k"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_Hydrophone2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.96k"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_Hydrophone3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.96k"; VariantName = "[No Variations]"
+Added Component: Designator=R4_U_Hydrophone0(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=R4_U_Hydrophone1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=R4_U_Hydrophone2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=R4_U_Hydrophone3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=R5_U_Hydrophone0(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "420"; VariantName = "[No Variations]"
+Added Component: Designator=R5_U_Hydrophone1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "420"; VariantName = "[No Variations]"
+Added Component: Designator=R5_U_Hydrophone2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "420"; VariantName = "[No Variations]"
+Added Component: Designator=R5_U_Hydrophone3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "420"; VariantName = "[No Variations]"
+Added Component: Designator=R6_U_Hydrophone0(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R6_U_Hydrophone1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R6_U_Hydrophone2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R6_U_Hydrophone3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R7_U_Hydrophone0(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.96k"; VariantName = "[No Variations]"
+Added Component: Designator=R7_U_Hydrophone1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.96k"; VariantName = "[No Variations]"
+Added Component: Designator=R7_U_Hydrophone2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.96k"; VariantName = "[No Variations]"
+Added Component: Designator=R7_U_Hydrophone3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.96k"; VariantName = "[No Variations]"
+Added Component: Designator=R8_U_Hydrophone0(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=R8_U_Hydrophone1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=R8_U_Hydrophone2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=R8_U_Hydrophone3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=R9_U_Hydrophone0(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.62k"; VariantName = "[No Variations]"
+Added Component: Designator=R9_U_Hydrophone1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.62k"; VariantName = "[No Variations]"
+Added Component: Designator=R9_U_Hydrophone2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.62k"; VariantName = "[No Variations]"
+Added Component: Designator=R9_U_Hydrophone3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.62k"; VariantName = "[No Variations]"
+Added Component: Designator=R10_U_Hydrophone0(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.76k"; VariantName = "[No Variations]"
+Added Component: Designator=R10_U_Hydrophone1(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.76k"; VariantName = "[No Variations]"
+Added Component: Designator=R10_U_Hydrophone2(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.76k"; VariantName = "[No Variations]"
+Added Component: Designator=R10_U_Hydrophone3(J1-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.76k"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_Hydrophone0(DGK0008A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "2nd Harmonic(dBc)"; Value = "88"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3rd Harmonic(dBc)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "@ MHz"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=THS4131&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds028d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS318H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Io(Typ)(mA)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Voltage Drift (+/-)(Max)(uV/Degrees Celsius"; Value = "4.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Thin Small Outline, Body 3 x 3 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DGK0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073329/E, 05/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "THS4131IDGK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rail-Rail"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Settling Time (0.1%)(Typ)(ns)"; Value = "78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Fully Differential Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD (Fc is 1 MHz)(Typ)(dB)"; Value = "-80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio(Max)(mV)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_Hydrophone1(DGK0008A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "2nd Harmonic(dBc)"; Value = "88"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3rd Harmonic(dBc)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "@ MHz"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=THS4131&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds028d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS318H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Io(Typ)(mA)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Voltage Drift (+/-)(Max)(uV/Degrees Celsius"; Value = "4.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Thin Small Outline, Body 3 x 3 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DGK0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073329/E, 05/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "THS4131IDGK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rail-Rail"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Settling Time (0.1%)(Typ)(ns)"; Value = "78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Fully Differential Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD (Fc is 1 MHz)(Typ)(dB)"; Value = "-80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio(Max)(mV)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_Hydrophone2(DGK0008A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "2nd Harmonic(dBc)"; Value = "88"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3rd Harmonic(dBc)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "@ MHz"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=THS4131&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds028d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS318H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Io(Typ)(mA)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Voltage Drift (+/-)(Max)(uV/Degrees Celsius"; Value = "4.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Thin Small Outline, Body 3 x 3 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DGK0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073329/E, 05/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "THS4131IDGK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rail-Rail"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Settling Time (0.1%)(Typ)(ns)"; Value = "78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Fully Differential Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD (Fc is 1 MHz)(Typ)(dB)"; Value = "-80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio(Max)(mV)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_Hydrophone3(DGK0008A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "2nd Harmonic(dBc)"; Value = "88"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3rd Harmonic(dBc)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "@ MHz"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=THS4131&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds028d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS318H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Io(Typ)(mA)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Voltage Drift (+/-)(Max)(uV/Degrees Celsius"; Value = "4.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Thin Small Outline, Body 3 x 3 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DGK0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073329/E, 05/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "THS4131IDGK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rail-Rail"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Settling Time (0.1%)(Typ)(ns)"; Value = "78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Fully Differential Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD (Fc is 1 MHz)(Typ)(dB)"; Value = "-80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio(Max)(mV)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=U2_U_Hydrophone0(DGK0008A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "2nd Harmonic(dBc)"; Value = "88"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3rd Harmonic(dBc)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "@ MHz"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=THS4131&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds028d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS318H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Io(Typ)(mA)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Voltage Drift (+/-)(Max)(uV/Degrees Celsius"; Value = "4.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Thin Small Outline, Body 3 x 3 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DGK0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073329/E, 05/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "THS4131IDGK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rail-Rail"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Settling Time (0.1%)(Typ)(ns)"; Value = "78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Fully Differential Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD (Fc is 1 MHz)(Typ)(dB)"; Value = "-80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio(Max)(mV)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=U2_U_Hydrophone1(DGK0008A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "2nd Harmonic(dBc)"; Value = "88"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3rd Harmonic(dBc)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "@ MHz"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=THS4131&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds028d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS318H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Io(Typ)(mA)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Voltage Drift (+/-)(Max)(uV/Degrees Celsius"; Value = "4.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Thin Small Outline, Body 3 x 3 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DGK0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073329/E, 05/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "THS4131IDGK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rail-Rail"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Settling Time (0.1%)(Typ)(ns)"; Value = "78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Fully Differential Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD (Fc is 1 MHz)(Typ)(dB)"; Value = "-80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio(Max)(mV)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=U2_U_Hydrophone2(DGK0008A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "2nd Harmonic(dBc)"; Value = "88"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3rd Harmonic(dBc)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "@ MHz"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=THS4131&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds028d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS318H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Io(Typ)(mA)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Voltage Drift (+/-)(Max)(uV/Degrees Celsius"; Value = "4.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Thin Small Outline, Body 3 x 3 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DGK0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073329/E, 05/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "THS4131IDGK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rail-Rail"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Settling Time (0.1%)(Typ)(ns)"; Value = "78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Fully Differential Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD (Fc is 1 MHz)(Typ)(dB)"; Value = "-80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio(Max)(mV)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=U2_U_Hydrophone3(DGK0008A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "2nd Harmonic(dBc)"; Value = "88"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "3rd Harmonic(dBc)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "@ MHz"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BW @ Acl(MHz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=THS4131&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds028d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLOS318H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW(Typ)(MHz)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Io(Typ)(mA)"; Value = "85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Offset Voltage Drift (+/-)(Max)(uV/Degrees Celsius"; Value = "4.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Thin Small Outline, Body 3 x 3 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DGK0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4073329/E, 05/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "THS4131IDGK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rail-Rail"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Settling Time (0.1%)(Typ)(ns)"; Value = "78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Fully Differential Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "THD (Fc is 1 MHz)(Typ)(dB)"; Value = "-80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vio(Max)(mV)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "1.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=U3(LTC2357)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9_U_Hydrophone0-2
+Added Pin To Net: NetName=GND Pin=C9_U_Hydrophone1-2
+Added Pin To Net: NetName=GND Pin=C9_U_Hydrophone2-2
+Added Pin To Net: NetName=GND Pin=C9_U_Hydrophone3-2
+Added Pin To Net: NetName=GND Pin=C10_U_Hydrophone0-2
+Added Pin To Net: NetName=GND Pin=C10_U_Hydrophone1-2
+Added Pin To Net: NetName=GND Pin=C10_U_Hydrophone2-2
+Added Pin To Net: NetName=GND Pin=C10_U_Hydrophone3-2
+Added Pin To Net: NetName=GND Pin=C11_U_Hydrophone0-2
+Added Pin To Net: NetName=GND Pin=C11_U_Hydrophone1-2
+Added Pin To Net: NetName=GND Pin=C11_U_Hydrophone2-2
+Added Pin To Net: NetName=GND Pin=C11_U_Hydrophone3-2
+Added Pin To Net: NetName=GND Pin=C12_U_Hydrophone0-2
+Added Pin To Net: NetName=GND Pin=C12_U_Hydrophone1-2
+Added Pin To Net: NetName=GND Pin=C12_U_Hydrophone2-2
+Added Pin To Net: NetName=GND Pin=C12_U_Hydrophone3-2
+Added Pin To Net: NetName=GND Pin=C13_U_Hydrophone0-2
+Added Pin To Net: NetName=GND Pin=C13_U_Hydrophone1-2
+Added Pin To Net: NetName=GND Pin=C13_U_Hydrophone2-2
+Added Pin To Net: NetName=GND Pin=C13_U_Hydrophone3-2
+Added Pin To Net: NetName=GND Pin=C14_U_Hydrophone0-2
+Added Pin To Net: NetName=GND Pin=C14_U_Hydrophone1-2
+Added Pin To Net: NetName=GND Pin=C14_U_Hydrophone2-2
+Added Pin To Net: NetName=GND Pin=C14_U_Hydrophone3-2
+Added Pin To Net: NetName=GND Pin=C15_U_Hydrophone0-2
+Added Pin To Net: NetName=GND Pin=C15_U_Hydrophone1-2
+Added Pin To Net: NetName=GND Pin=C15_U_Hydrophone2-2
+Added Pin To Net: NetName=GND Pin=C15_U_Hydrophone3-2
+Added Pin To Net: NetName=GND Pin=C16_U_Hydrophone0-2
+Added Pin To Net: NetName=GND Pin=C16_U_Hydrophone1-2
+Added Pin To Net: NetName=GND Pin=C16_U_Hydrophone2-2
+Added Pin To Net: NetName=GND Pin=C16_U_Hydrophone3-2
+Added Pin To Net: NetName=GND Pin=J1_U_Hydrophone0-1
+Added Pin To Net: NetName=GND Pin=J1_U_Hydrophone0-4
+Added Pin To Net: NetName=GND Pin=J1_U_Hydrophone0-7
+Added Pin To Net: NetName=GND Pin=J1_U_Hydrophone1-1
+Added Pin To Net: NetName=GND Pin=J1_U_Hydrophone1-4
+Added Pin To Net: NetName=GND Pin=J1_U_Hydrophone1-7
+Added Pin To Net: NetName=GND Pin=J1_U_Hydrophone2-1
+Added Pin To Net: NetName=GND Pin=J1_U_Hydrophone2-4
+Added Pin To Net: NetName=GND Pin=J1_U_Hydrophone2-7
+Added Pin To Net: NetName=GND Pin=J1_U_Hydrophone3-1
+Added Pin To Net: NetName=GND Pin=J1_U_Hydrophone3-4
+Added Pin To Net: NetName=GND Pin=J1_U_Hydrophone3-7
+Added Pin To Net: NetName=GND Pin=U1_U_Hydrophone0-2
+Added Pin To Net: NetName=GND Pin=U1_U_Hydrophone1-2
+Added Pin To Net: NetName=GND Pin=U1_U_Hydrophone2-2
+Added Pin To Net: NetName=GND Pin=U1_U_Hydrophone3-2
+Added Pin To Net: NetName=GND Pin=U2_U_Hydrophone0-2
+Added Pin To Net: NetName=GND Pin=U2_U_Hydrophone1-2
+Added Pin To Net: NetName=GND Pin=U2_U_Hydrophone2-2
+Added Pin To Net: NetName=GND Pin=U2_U_Hydrophone3-2
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Pin To Net: NetName=GND Pin=U3-18
+Added Pin To Net: NetName=GND Pin=U3-20
+Added Pin To Net: NetName=GND Pin=U3-22
+Added Pin To Net: NetName=GND Pin=U3-25
+Added Pin To Net: NetName=GND Pin=U3-30
+Added Pin To Net: NetName=GND Pin=U3-36
+Added Pin To Net: NetName=GND Pin=U3-41
+Added Pin To Net: NetName=GND Pin=U3-44
+Added Pin To Net: NetName=GND Pin=U3-46
+Added Net: Name=GND
+Added Pin To Net: NetName=IN+_U_Hydrophone0 Pin=J1_U_Hydrophone0-3
+Added Pin To Net: NetName=IN+_U_Hydrophone0 Pin=J1_U_Hydrophone0-6
+Added Pin To Net: NetName=IN+_U_Hydrophone0 Pin=R7_U_Hydrophone0-2
+Added Net: Name=IN+_U_Hydrophone0
+Added Pin To Net: NetName=IN+_U_Hydrophone1 Pin=J1_U_Hydrophone1-3
+Added Pin To Net: NetName=IN+_U_Hydrophone1 Pin=J1_U_Hydrophone1-6
+Added Pin To Net: NetName=IN+_U_Hydrophone1 Pin=R7_U_Hydrophone1-2
+Added Net: Name=IN+_U_Hydrophone1
+Added Pin To Net: NetName=IN+_U_Hydrophone2 Pin=J1_U_Hydrophone2-3
+Added Pin To Net: NetName=IN+_U_Hydrophone2 Pin=J1_U_Hydrophone2-6
+Added Pin To Net: NetName=IN+_U_Hydrophone2 Pin=R7_U_Hydrophone2-2
+Added Net: Name=IN+_U_Hydrophone2
+Added Pin To Net: NetName=IN+_U_Hydrophone3 Pin=J1_U_Hydrophone3-3
+Added Pin To Net: NetName=IN+_U_Hydrophone3 Pin=J1_U_Hydrophone3-6
+Added Pin To Net: NetName=IN+_U_Hydrophone3 Pin=R7_U_Hydrophone3-2
+Added Net: Name=IN+_U_Hydrophone3
+Added Pin To Net: NetName=IN-_U_Hydrophone0 Pin=J1_U_Hydrophone0-2
+Added Pin To Net: NetName=IN-_U_Hydrophone0 Pin=J1_U_Hydrophone0-5
+Added Pin To Net: NetName=IN-_U_Hydrophone0 Pin=R3_U_Hydrophone0-1
+Added Net: Name=IN-_U_Hydrophone0
+Added Pin To Net: NetName=IN-_U_Hydrophone1 Pin=J1_U_Hydrophone1-2
+Added Pin To Net: NetName=IN-_U_Hydrophone1 Pin=J1_U_Hydrophone1-5
+Added Pin To Net: NetName=IN-_U_Hydrophone1 Pin=R3_U_Hydrophone1-1
+Added Net: Name=IN-_U_Hydrophone1
+Added Pin To Net: NetName=IN-_U_Hydrophone2 Pin=J1_U_Hydrophone2-2
+Added Pin To Net: NetName=IN-_U_Hydrophone2 Pin=J1_U_Hydrophone2-5
+Added Pin To Net: NetName=IN-_U_Hydrophone2 Pin=R3_U_Hydrophone2-1
+Added Net: Name=IN-_U_Hydrophone2
+Added Pin To Net: NetName=IN-_U_Hydrophone3 Pin=J1_U_Hydrophone3-2
+Added Pin To Net: NetName=IN-_U_Hydrophone3 Pin=J1_U_Hydrophone3-5
+Added Pin To Net: NetName=IN-_U_Hydrophone3 Pin=R3_U_Hydrophone3-1
+Added Net: Name=IN-_U_Hydrophone3
+Added Pin To Net: NetName=NetC1_U_Hydrophone0_1 Pin=C1_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC1_U_Hydrophone0_1 Pin=C3_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC1_U_Hydrophone0_1 Pin=R3_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC1_U_Hydrophone0_1 Pin=R5_U_Hydrophone0-1
+Added Net: Name=NetC1_U_Hydrophone0_1
+Added Pin To Net: NetName=NetC1_U_Hydrophone0_2 Pin=C1_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC1_U_Hydrophone0_2 Pin=R1_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC1_U_Hydrophone0_2 Pin=R8_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC1_U_Hydrophone0_2 Pin=U1_U_Hydrophone0-4
+Added Net: Name=NetC1_U_Hydrophone0_2
+Added Pin To Net: NetName=NetC1_U_Hydrophone1_1 Pin=C1_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC1_U_Hydrophone1_1 Pin=C3_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC1_U_Hydrophone1_1 Pin=R3_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC1_U_Hydrophone1_1 Pin=R5_U_Hydrophone1-1
+Added Net: Name=NetC1_U_Hydrophone1_1
+Added Pin To Net: NetName=NetC1_U_Hydrophone1_2 Pin=C1_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC1_U_Hydrophone1_2 Pin=R1_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC1_U_Hydrophone1_2 Pin=R8_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC1_U_Hydrophone1_2 Pin=U1_U_Hydrophone1-4
+Added Net: Name=NetC1_U_Hydrophone1_2
+Added Pin To Net: NetName=NetC1_U_Hydrophone2_1 Pin=C1_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC1_U_Hydrophone2_1 Pin=C3_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC1_U_Hydrophone2_1 Pin=R3_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC1_U_Hydrophone2_1 Pin=R5_U_Hydrophone2-1
+Added Net: Name=NetC1_U_Hydrophone2_1
+Added Pin To Net: NetName=NetC1_U_Hydrophone2_2 Pin=C1_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC1_U_Hydrophone2_2 Pin=R1_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC1_U_Hydrophone2_2 Pin=R8_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC1_U_Hydrophone2_2 Pin=U1_U_Hydrophone2-4
+Added Net: Name=NetC1_U_Hydrophone2_2
+Added Pin To Net: NetName=NetC1_U_Hydrophone3_1 Pin=C1_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC1_U_Hydrophone3_1 Pin=C3_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC1_U_Hydrophone3_1 Pin=R3_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC1_U_Hydrophone3_1 Pin=R5_U_Hydrophone3-1
+Added Net: Name=NetC1_U_Hydrophone3_1
+Added Pin To Net: NetName=NetC1_U_Hydrophone3_2 Pin=C1_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC1_U_Hydrophone3_2 Pin=R1_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC1_U_Hydrophone3_2 Pin=R8_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC1_U_Hydrophone3_2 Pin=U1_U_Hydrophone3-4
+Added Net: Name=NetC1_U_Hydrophone3_2
+Added Pin To Net: NetName=NetC2_U_Hydrophone0_1 Pin=C2_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC2_U_Hydrophone0_1 Pin=C4_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC2_U_Hydrophone0_1 Pin=R4_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC2_U_Hydrophone0_1 Pin=R6_U_Hydrophone0-1
+Added Net: Name=NetC2_U_Hydrophone0_1
+Added Pin To Net: NetName=NetC2_U_Hydrophone0_2 Pin=C2_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC2_U_Hydrophone0_2 Pin=R2_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC2_U_Hydrophone0_2 Pin=U2_U_Hydrophone0-4
+Added Pin To Net: NetName=NetC2_U_Hydrophone0_2 Pin=U3-14
+Added Net: Name=NetC2_U_Hydrophone0_2
+Added Pin To Net: NetName=NetC2_U_Hydrophone1_1 Pin=C2_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC2_U_Hydrophone1_1 Pin=C4_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC2_U_Hydrophone1_1 Pin=R4_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC2_U_Hydrophone1_1 Pin=R6_U_Hydrophone1-1
+Added Net: Name=NetC2_U_Hydrophone1_1
+Added Pin To Net: NetName=NetC2_U_Hydrophone1_2 Pin=C2_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC2_U_Hydrophone1_2 Pin=R2_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC2_U_Hydrophone1_2 Pin=U2_U_Hydrophone1-4
+Added Pin To Net: NetName=NetC2_U_Hydrophone1_2 Pin=U3-10
+Added Net: Name=NetC2_U_Hydrophone1_2
+Added Pin To Net: NetName=NetC2_U_Hydrophone2_1 Pin=C2_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC2_U_Hydrophone2_1 Pin=C4_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC2_U_Hydrophone2_1 Pin=R4_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC2_U_Hydrophone2_1 Pin=R6_U_Hydrophone2-1
+Added Net: Name=NetC2_U_Hydrophone2_1
+Added Pin To Net: NetName=NetC2_U_Hydrophone2_2 Pin=C2_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC2_U_Hydrophone2_2 Pin=R2_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC2_U_Hydrophone2_2 Pin=U2_U_Hydrophone2-4
+Added Pin To Net: NetName=NetC2_U_Hydrophone2_2 Pin=U3-4
+Added Net: Name=NetC2_U_Hydrophone2_2
+Added Pin To Net: NetName=NetC2_U_Hydrophone3_1 Pin=C2_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC2_U_Hydrophone3_1 Pin=C4_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC2_U_Hydrophone3_1 Pin=R4_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC2_U_Hydrophone3_1 Pin=R6_U_Hydrophone3-1
+Added Net: Name=NetC2_U_Hydrophone3_1
+Added Pin To Net: NetName=NetC2_U_Hydrophone3_2 Pin=C2_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC2_U_Hydrophone3_2 Pin=R2_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC2_U_Hydrophone3_2 Pin=U2_U_Hydrophone3-4
+Added Pin To Net: NetName=NetC2_U_Hydrophone3_2 Pin=U3-48
+Added Net: Name=NetC2_U_Hydrophone3_2
+Added Pin To Net: NetName=NetC3_U_Hydrophone0_2 Pin=C3_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC3_U_Hydrophone0_2 Pin=R1_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC3_U_Hydrophone0_2 Pin=U1_U_Hydrophone0-1
+Added Net: Name=NetC3_U_Hydrophone0_2
+Added Pin To Net: NetName=NetC3_U_Hydrophone1_2 Pin=C3_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC3_U_Hydrophone1_2 Pin=R1_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC3_U_Hydrophone1_2 Pin=U1_U_Hydrophone1-1
+Added Net: Name=NetC3_U_Hydrophone1_2
+Added Pin To Net: NetName=NetC3_U_Hydrophone2_2 Pin=C3_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC3_U_Hydrophone2_2 Pin=R1_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC3_U_Hydrophone2_2 Pin=U1_U_Hydrophone2-1
+Added Net: Name=NetC3_U_Hydrophone2_2
+Added Pin To Net: NetName=NetC3_U_Hydrophone3_2 Pin=C3_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC3_U_Hydrophone3_2 Pin=R1_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC3_U_Hydrophone3_2 Pin=U1_U_Hydrophone3-1
+Added Net: Name=NetC3_U_Hydrophone3_2
+Added Pin To Net: NetName=NetC4_U_Hydrophone0_2 Pin=C4_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC4_U_Hydrophone0_2 Pin=R2_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC4_U_Hydrophone0_2 Pin=U2_U_Hydrophone0-1
+Added Net: Name=NetC4_U_Hydrophone0_2
+Added Pin To Net: NetName=NetC4_U_Hydrophone1_2 Pin=C4_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC4_U_Hydrophone1_2 Pin=R2_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC4_U_Hydrophone1_2 Pin=U2_U_Hydrophone1-1
+Added Net: Name=NetC4_U_Hydrophone1_2
+Added Pin To Net: NetName=NetC4_U_Hydrophone2_2 Pin=C4_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC4_U_Hydrophone2_2 Pin=R2_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC4_U_Hydrophone2_2 Pin=U2_U_Hydrophone2-1
+Added Net: Name=NetC4_U_Hydrophone2_2
+Added Pin To Net: NetName=NetC4_U_Hydrophone3_2 Pin=C4_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC4_U_Hydrophone3_2 Pin=R2_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC4_U_Hydrophone3_2 Pin=U2_U_Hydrophone3-1
+Added Net: Name=NetC4_U_Hydrophone3_2
+Added Pin To Net: NetName=NetC5_U_Hydrophone0_1 Pin=C5_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC5_U_Hydrophone0_1 Pin=C7_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC5_U_Hydrophone0_1 Pin=R5_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC5_U_Hydrophone0_1 Pin=R7_U_Hydrophone0-1
+Added Net: Name=NetC5_U_Hydrophone0_1
+Added Pin To Net: NetName=NetC5_U_Hydrophone0_2 Pin=C5_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC5_U_Hydrophone0_2 Pin=R9_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC5_U_Hydrophone0_2 Pin=U1_U_Hydrophone0-8
+Added Net: Name=NetC5_U_Hydrophone0_2
+Added Pin To Net: NetName=NetC5_U_Hydrophone1_1 Pin=C5_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC5_U_Hydrophone1_1 Pin=C7_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC5_U_Hydrophone1_1 Pin=R5_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC5_U_Hydrophone1_1 Pin=R7_U_Hydrophone1-1
+Added Net: Name=NetC5_U_Hydrophone1_1
+Added Pin To Net: NetName=NetC5_U_Hydrophone1_2 Pin=C5_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC5_U_Hydrophone1_2 Pin=R9_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC5_U_Hydrophone1_2 Pin=U1_U_Hydrophone1-8
+Added Net: Name=NetC5_U_Hydrophone1_2
+Added Pin To Net: NetName=NetC5_U_Hydrophone2_1 Pin=C5_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC5_U_Hydrophone2_1 Pin=C7_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC5_U_Hydrophone2_1 Pin=R5_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC5_U_Hydrophone2_1 Pin=R7_U_Hydrophone2-1
+Added Net: Name=NetC5_U_Hydrophone2_1
+Added Pin To Net: NetName=NetC5_U_Hydrophone2_2 Pin=C5_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC5_U_Hydrophone2_2 Pin=R9_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC5_U_Hydrophone2_2 Pin=U1_U_Hydrophone2-8
+Added Net: Name=NetC5_U_Hydrophone2_2
+Added Pin To Net: NetName=NetC5_U_Hydrophone3_1 Pin=C5_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC5_U_Hydrophone3_1 Pin=C7_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC5_U_Hydrophone3_1 Pin=R5_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC5_U_Hydrophone3_1 Pin=R7_U_Hydrophone3-1
+Added Net: Name=NetC5_U_Hydrophone3_1
+Added Pin To Net: NetName=NetC5_U_Hydrophone3_2 Pin=C5_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC5_U_Hydrophone3_2 Pin=R9_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC5_U_Hydrophone3_2 Pin=U1_U_Hydrophone3-8
+Added Net: Name=NetC5_U_Hydrophone3_2
+Added Pin To Net: NetName=NetC6_U_Hydrophone0_1 Pin=C6_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC6_U_Hydrophone0_1 Pin=C8_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC6_U_Hydrophone0_1 Pin=R6_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC6_U_Hydrophone0_1 Pin=R8_U_Hydrophone0-1
+Added Net: Name=NetC6_U_Hydrophone0_1
+Added Pin To Net: NetName=NetC6_U_Hydrophone0_2 Pin=C6_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC6_U_Hydrophone0_2 Pin=R10_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC6_U_Hydrophone0_2 Pin=U2_U_Hydrophone0-8
+Added Net: Name=NetC6_U_Hydrophone0_2
+Added Pin To Net: NetName=NetC6_U_Hydrophone1_1 Pin=C6_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC6_U_Hydrophone1_1 Pin=C8_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC6_U_Hydrophone1_1 Pin=R6_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC6_U_Hydrophone1_1 Pin=R8_U_Hydrophone1-1
+Added Net: Name=NetC6_U_Hydrophone1_1
+Added Pin To Net: NetName=NetC6_U_Hydrophone1_2 Pin=C6_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC6_U_Hydrophone1_2 Pin=R10_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC6_U_Hydrophone1_2 Pin=U2_U_Hydrophone1-8
+Added Net: Name=NetC6_U_Hydrophone1_2
+Added Pin To Net: NetName=NetC6_U_Hydrophone2_1 Pin=C6_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC6_U_Hydrophone2_1 Pin=C8_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC6_U_Hydrophone2_1 Pin=R6_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC6_U_Hydrophone2_1 Pin=R8_U_Hydrophone2-1
+Added Net: Name=NetC6_U_Hydrophone2_1
+Added Pin To Net: NetName=NetC6_U_Hydrophone2_2 Pin=C6_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC6_U_Hydrophone2_2 Pin=R10_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC6_U_Hydrophone2_2 Pin=U2_U_Hydrophone2-8
+Added Net: Name=NetC6_U_Hydrophone2_2
+Added Pin To Net: NetName=NetC6_U_Hydrophone3_1 Pin=C6_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC6_U_Hydrophone3_1 Pin=C8_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC6_U_Hydrophone3_1 Pin=R6_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC6_U_Hydrophone3_1 Pin=R8_U_Hydrophone3-1
+Added Net: Name=NetC6_U_Hydrophone3_1
+Added Pin To Net: NetName=NetC6_U_Hydrophone3_2 Pin=C6_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC6_U_Hydrophone3_2 Pin=R10_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC6_U_Hydrophone3_2 Pin=U2_U_Hydrophone3-8
+Added Net: Name=NetC6_U_Hydrophone3_2
+Added Pin To Net: NetName=NetC7_U_Hydrophone0_2 Pin=C7_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC7_U_Hydrophone0_2 Pin=R4_U_Hydrophone0-1
+Added Pin To Net: NetName=NetC7_U_Hydrophone0_2 Pin=R9_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC7_U_Hydrophone0_2 Pin=U1_U_Hydrophone0-5
+Added Net: Name=NetC7_U_Hydrophone0_2
+Added Pin To Net: NetName=NetC7_U_Hydrophone1_2 Pin=C7_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC7_U_Hydrophone1_2 Pin=R4_U_Hydrophone1-1
+Added Pin To Net: NetName=NetC7_U_Hydrophone1_2 Pin=R9_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC7_U_Hydrophone1_2 Pin=U1_U_Hydrophone1-5
+Added Net: Name=NetC7_U_Hydrophone1_2
+Added Pin To Net: NetName=NetC7_U_Hydrophone2_2 Pin=C7_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC7_U_Hydrophone2_2 Pin=R4_U_Hydrophone2-1
+Added Pin To Net: NetName=NetC7_U_Hydrophone2_2 Pin=R9_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC7_U_Hydrophone2_2 Pin=U1_U_Hydrophone2-5
+Added Net: Name=NetC7_U_Hydrophone2_2
+Added Pin To Net: NetName=NetC7_U_Hydrophone3_2 Pin=C7_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC7_U_Hydrophone3_2 Pin=R4_U_Hydrophone3-1
+Added Pin To Net: NetName=NetC7_U_Hydrophone3_2 Pin=R9_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC7_U_Hydrophone3_2 Pin=U1_U_Hydrophone3-5
+Added Net: Name=NetC7_U_Hydrophone3_2
+Added Pin To Net: NetName=NetC8_U_Hydrophone0_2 Pin=C8_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC8_U_Hydrophone0_2 Pin=R10_U_Hydrophone0-2
+Added Pin To Net: NetName=NetC8_U_Hydrophone0_2 Pin=U2_U_Hydrophone0-5
+Added Pin To Net: NetName=NetC8_U_Hydrophone0_2 Pin=U3-13
+Added Net: Name=NetC8_U_Hydrophone0_2
+Added Pin To Net: NetName=NetC8_U_Hydrophone1_2 Pin=C8_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC8_U_Hydrophone1_2 Pin=R10_U_Hydrophone1-2
+Added Pin To Net: NetName=NetC8_U_Hydrophone1_2 Pin=U2_U_Hydrophone1-5
+Added Pin To Net: NetName=NetC8_U_Hydrophone1_2 Pin=U3-9
+Added Net: Name=NetC8_U_Hydrophone1_2
+Added Pin To Net: NetName=NetC8_U_Hydrophone2_2 Pin=C8_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC8_U_Hydrophone2_2 Pin=R10_U_Hydrophone2-2
+Added Pin To Net: NetName=NetC8_U_Hydrophone2_2 Pin=U2_U_Hydrophone2-5
+Added Pin To Net: NetName=NetC8_U_Hydrophone2_2 Pin=U3-3
+Added Net: Name=NetC8_U_Hydrophone2_2
+Added Pin To Net: NetName=NetC8_U_Hydrophone3_2 Pin=C8_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC8_U_Hydrophone3_2 Pin=R10_U_Hydrophone3-2
+Added Pin To Net: NetName=NetC8_U_Hydrophone3_2 Pin=U2_U_Hydrophone3-5
+Added Pin To Net: NetName=NetC8_U_Hydrophone3_2 Pin=U3-47
+Added Net: Name=NetC8_U_Hydrophone3_2
+Added Pin To Net: NetName=VCC+ Pin=C9_U_Hydrophone0-1
+Added Pin To Net: NetName=VCC+ Pin=C9_U_Hydrophone1-1
+Added Pin To Net: NetName=VCC+ Pin=C9_U_Hydrophone2-1
+Added Pin To Net: NetName=VCC+ Pin=C9_U_Hydrophone3-1
+Added Pin To Net: NetName=VCC+ Pin=C10_U_Hydrophone0-1
+Added Pin To Net: NetName=VCC+ Pin=C10_U_Hydrophone1-1
+Added Pin To Net: NetName=VCC+ Pin=C10_U_Hydrophone2-1
+Added Pin To Net: NetName=VCC+ Pin=C10_U_Hydrophone3-1
+Added Pin To Net: NetName=VCC+ Pin=C11_U_Hydrophone0-1
+Added Pin To Net: NetName=VCC+ Pin=C11_U_Hydrophone1-1
+Added Pin To Net: NetName=VCC+ Pin=C11_U_Hydrophone2-1
+Added Pin To Net: NetName=VCC+ Pin=C11_U_Hydrophone3-1
+Added Pin To Net: NetName=VCC+ Pin=C12_U_Hydrophone0-1
+Added Pin To Net: NetName=VCC+ Pin=C12_U_Hydrophone1-1
+Added Pin To Net: NetName=VCC+ Pin=C12_U_Hydrophone2-1
+Added Pin To Net: NetName=VCC+ Pin=C12_U_Hydrophone3-1
+Added Pin To Net: NetName=VCC+ Pin=U1_U_Hydrophone0-3
+Added Pin To Net: NetName=VCC+ Pin=U1_U_Hydrophone1-3
+Added Pin To Net: NetName=VCC+ Pin=U1_U_Hydrophone2-3
+Added Pin To Net: NetName=VCC+ Pin=U1_U_Hydrophone3-3
+Added Pin To Net: NetName=VCC+ Pin=U2_U_Hydrophone0-3
+Added Pin To Net: NetName=VCC+ Pin=U2_U_Hydrophone1-3
+Added Pin To Net: NetName=VCC+ Pin=U2_U_Hydrophone2-3
+Added Pin To Net: NetName=VCC+ Pin=U2_U_Hydrophone3-3
+Added Pin To Net: NetName=VCC+ Pin=U3-16
+Added Net: Name=VCC+
+Added Pin To Net: NetName=VCC- Pin=C13_U_Hydrophone0-1
+Added Pin To Net: NetName=VCC- Pin=C13_U_Hydrophone1-1
+Added Pin To Net: NetName=VCC- Pin=C13_U_Hydrophone2-1
+Added Pin To Net: NetName=VCC- Pin=C13_U_Hydrophone3-1
+Added Pin To Net: NetName=VCC- Pin=C14_U_Hydrophone0-1
+Added Pin To Net: NetName=VCC- Pin=C14_U_Hydrophone1-1
+Added Pin To Net: NetName=VCC- Pin=C14_U_Hydrophone2-1
+Added Pin To Net: NetName=VCC- Pin=C14_U_Hydrophone3-1
+Added Pin To Net: NetName=VCC- Pin=C15_U_Hydrophone0-1
+Added Pin To Net: NetName=VCC- Pin=C15_U_Hydrophone1-1
+Added Pin To Net: NetName=VCC- Pin=C15_U_Hydrophone2-1
+Added Pin To Net: NetName=VCC- Pin=C15_U_Hydrophone3-1
+Added Pin To Net: NetName=VCC- Pin=C16_U_Hydrophone0-1
+Added Pin To Net: NetName=VCC- Pin=C16_U_Hydrophone1-1
+Added Pin To Net: NetName=VCC- Pin=C16_U_Hydrophone2-1
+Added Pin To Net: NetName=VCC- Pin=C16_U_Hydrophone3-1
+Added Pin To Net: NetName=VCC- Pin=U1_U_Hydrophone0-6
+Added Pin To Net: NetName=VCC- Pin=U1_U_Hydrophone1-6
+Added Pin To Net: NetName=VCC- Pin=U1_U_Hydrophone2-6
+Added Pin To Net: NetName=VCC- Pin=U1_U_Hydrophone3-6
+Added Pin To Net: NetName=VCC- Pin=U2_U_Hydrophone0-6
+Added Pin To Net: NetName=VCC- Pin=U2_U_Hydrophone1-6
+Added Pin To Net: NetName=VCC- Pin=U2_U_Hydrophone2-6
+Added Pin To Net: NetName=VCC- Pin=U2_U_Hydrophone3-6
+Added Pin To Net: NetName=VCC- Pin=U3-17
+Added Pin To Net: NetName=VCC- Pin=U3-45
+Added Net: Name=VCC-
+Added Pin To Net: NetName=VCC_3V3 Pin=U3-31
+Added Net: Name=VCC_3V3
+Added Pin To Net: NetName=VCC_5V Pin=U3-42
+Added Pin To Net: NetName=VCC_5V Pin=U3-43
+Added Net: Name=VCC_5V
+Added Class: Name=U_adc
+Added Class: Name=U_Hydrophone0
+Added Class: Name=U_Hydrophone1
+Added Class: Name=U_Hydrophone2
+Added Class: Name=U_Hydrophone3
+Added Class: Name=Hydrophone
+Added Room: Name=U_adc
+Added Room: Name=U_Hydrophone0
+Added Room: Name=U_Hydrophone1
+Added Room: Name=U_Hydrophone2
+Added Room: Name=U_Hydrophone3

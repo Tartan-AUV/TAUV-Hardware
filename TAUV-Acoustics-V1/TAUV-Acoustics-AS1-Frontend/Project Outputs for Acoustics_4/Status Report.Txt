@@ -1,0 +1,29 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Acoustics_4.PrjPcb]
+   Generated File[Acoustics_4_Copper_Signal_Top.gbr]
+   Generated File[Acoustics_4_Copper_Signal_Bot.gbr]
+   Generated File[Acoustics_4_Pads_Bot.gbr]
+   Generated File[Acoustics_4_Pads_Top.gbr]
+   Generated File[Acoustics_4_Soldermask_Bot.gbr]
+   Generated File[Acoustics_4_Legend_Top.gbr]
+   Generated File[Acoustics_4_Paste_Top.gbr]
+   Generated File[Acoustics_4_Soldermask_Top.gbr]
+   Generated File[Acoustics_4_Mechanical_13.gbr]
+   Generated File[Acoustics_4_Mechanical_5.gbr]
+   Generated File[Acoustics_4_Mechanical_1.gbr]
+   Generated File[Acoustics_4_Mechanical_15.gbr]
+   Generated File[Acoustics_4_Profile.gbr]
+   Generated File[Acoustics_4_NPTH_Drill.gbr]
+   Generated File[Acoustics_4_PTH_Drill.gbr]
+   Generated File[Acoustics_4_Drawing_1.gbr]
+   Generated File[Acoustics_4_Drillmap_1.gbr]
+   Generated File[Acoustics_4.RUL]
+   Generated File[Acoustics_4.EXTREP]
+   Generated File[Acoustics_4.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 3:22:44 PM On 9/30/2022
