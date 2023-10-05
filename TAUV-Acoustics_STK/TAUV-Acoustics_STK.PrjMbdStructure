@@ -1,6 +1,0 @@
-Record=DiagramHierarchy|SourceDocument=TAUV-Acoustics_STK_SCHEM.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\TAUV-Acoustics Power Board\TAUV-Acoustics Power Board.PrjPcb
-Record=SubProject|SourceDocument=TAUV-Acoustics_STK_SCHEM.MbsDoc|ProjectPath=..\TAUV-Acoustics Power Board\TAUV-Acoustics Power Board.PrjPcb
-Record=DiagramHierarchy|SourceDocument=TAUV-Acoustics_STK_SCHEM.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\TAUV-Modem\TAUV-Modem\TAUV-Modem.PrjPcb
-Record=SubProject|SourceDocument=TAUV-Acoustics_STK_SCHEM.MbsDoc|ProjectPath=..\TAUV-Modem\TAUV-Modem\TAUV-Modem.PrjPcb
-Record=DiagramHierarchy|SourceDocument=TAUV-Acoustics_STK_SCHEM.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\TAUV-PHOD-Board\TAUV-PHOD-Board.PrjPcb
-Record=SubProject|SourceDocument=TAUV-Acoustics_STK_SCHEM.MbsDoc|ProjectPath=..\TAUV-PHOD-Board\TAUV-PHOD-Board.PrjPcb

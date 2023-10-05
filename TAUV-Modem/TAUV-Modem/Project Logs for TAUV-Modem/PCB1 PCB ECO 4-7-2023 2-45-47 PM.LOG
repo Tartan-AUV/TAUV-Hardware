@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=Piezo+ Pin=J?-1
-Removed Pin From Net: NetName=Piezo- Pin=J?-2
-Removed Pin From Net: NetName=GND Pin=J?-3
-Removed Pin From Net: NetName=GND Pin=J?-4
-Added Pin To Net: NetName=GND Pin=J?-1
-Added Pin To Net: NetName=GND Pin=J?-2
-Added Pin To Net: NetName=Piezo+ Pin=J?-3
-Added Pin To Net: NetName=Piezo- Pin=J?-4

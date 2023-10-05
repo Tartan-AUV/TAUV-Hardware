@@ -1,0 +1,128 @@
+(ExpressProject "Transducer-Characterization"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[10/05/23]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\transducer-characterization.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\transducer-characterization-pspicefiles\schematic1\schematic1.net"
+      (Type "Report"))
+    (File
+       ".\transducer-characterization-pspicefiles\z-measurement-setup\z-measurement-setup.net"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile
+         ".\transducer-characterization-pspicefiles\z-measurement-setup\profile1.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\transducer-characterization-pspicefiles\z-measurement-setup\profile1.sim"
+        (DisplayName "Z-Measurement-Setup-Profile1")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (Folder "Logs")
+  (MPSSessionName "Gleb Ryabtsev")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transducer-characterization.dsn")
+      (Path "Design Resources"
+         "C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transducer-characterization.dsn"
+         "Z-Measurement-Setup")
+      (Path "Design Resources"
+         "C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transducer-characterization.dsn"
+         "TD-Van-Dyke")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transducer-characterization.dsn"
+         "TD-Van-Dyke"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 225 0 1023"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1162 24 1041")
+        (Scroll "550 69")
+        (Zoom "210")
+        (Occurrence "/"))
+      (Path
+         "C:\DEV\TAUV-HARDWARE\TAUV-ACOUSTICS-V2\SIMULATION\TRANSDUCER-CHARACTERIZATION\TRANSDUCER-CHARACTERIZATION.DSN")
+      (Schematic "Z-Measurement-Setup")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 0 0 5 1162 24 1041")
+        (Scroll "0 0")
+        (Zoom "138"))
+      (Frame
+        (Placement "44 0 1 -1 -1 0 0 5 1162 24 1041")
+        (Scroll "706 505")
+        (Zoom "236")
+        (Occurrence "/TD"))
+      (Path
+         "C:\DEV\TAUV-HARDWARE\TAUV-ACOUSTICS-V2\SIMULATION\TRANSDUCER-CHARACTERIZATION\TRANSDUCER-CHARACTERIZATION.DSN")
+      (Schematic "TD-Van-Dyke")
+      (Page "PAGE1")))
+  (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (VAC
+      (FullPartName "VAC.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (VSIN
+      (FullPartName "VSIN.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (OPA547/BB
+      (FullPartName "OPA547/BB.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\BURR_BRN.OLB")
+      (DeviceIndex "0"))))

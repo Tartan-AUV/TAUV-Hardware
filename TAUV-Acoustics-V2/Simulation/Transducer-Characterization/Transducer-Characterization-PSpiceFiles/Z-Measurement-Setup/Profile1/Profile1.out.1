@@ -1,0 +1,47 @@
+
+**** 10/05/23 16:26:07 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\Transducer-Charac
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Profile1.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\Gleb Ryabtsev\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\17.4.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.AC DEC 100 1k 10M
+---------------$
+ERROR(ORPSIM-16103): Invalid value
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source TRANSDUCER-CHARACTERIZATION
+X_U1         N00330 N00137 V- V- V+ N00167 N00757 OPA547/BB
+R_R1         0 N00137  10k TC=0,0 
+R_R2         N00137 N00167  50k TC=0,0 
+V_V2         V+ 0 30Vdc
+V_V3         0 V- 30Vdc
+R_R3         0 N00167  1k TC=0,0 
+V_V4         N00330 0 DC 0Vdc AC 5Vac 
+R_R4         N00757 0  100k TC=0,0 
+
+**** RESUMING Profile1.cir ****
+.END
+

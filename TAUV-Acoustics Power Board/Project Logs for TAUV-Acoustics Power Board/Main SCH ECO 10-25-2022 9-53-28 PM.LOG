@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=Cout1 Old Footprint=FP-EEH-D8-MFG New Footprint=RAD-0.3
-Change Component Comment: Designator=Cout1 Old Comment=EEHZA1V680XP New Comment=Low ESR
-Change Pin Designator/Name:  Old Designator=Cout1-1 Old Name=C New Designator =A New Name=2
-Change Pin Designator/Name:  Old Designator=Cout1-2 Old Name=A New Designator =C New Name=1
