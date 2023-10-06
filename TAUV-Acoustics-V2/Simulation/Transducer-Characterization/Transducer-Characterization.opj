@@ -48,22 +48,19 @@
       (Path "Design Resources"
          "C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transducer-characterization.dsn"
          "TD-Van-Dyke")
-      (Path "Outputs")
-      (Select "Design Resources"
-         "C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transducer-characterization.dsn"
-         "TD-Van-Dyke"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 225 0 1023"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 278 0 1023"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1162 24 1041")
-        (Scroll "550 69")
-        (Zoom "210")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1109 24 1041")
+        (Scroll "521 294")
+        (Zoom "218")
         (Occurrence "/"))
       (Path
          "C:\DEV\TAUV-HARDWARE\TAUV-ACOUSTICS-V2\SIMULATION\TRANSDUCER-CHARACTERIZATION\TRANSDUCER-CHARACTERIZATION.DSN")
@@ -72,11 +69,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 0 0 5 1162 24 1041")
+        (Placement "44 0 1 -1 -1 0 0 5 1109 24 1041")
         (Scroll "0 0")
         (Zoom "138"))
       (Frame
-        (Placement "44 0 1 -1 -1 0 0 5 1162 24 1041")
+        (Placement "44 0 1 -1 -1 0 0 5 1109 24 1041")
         (Scroll "706 505")
         (Zoom "236")
         (Occurrence "/TD"))

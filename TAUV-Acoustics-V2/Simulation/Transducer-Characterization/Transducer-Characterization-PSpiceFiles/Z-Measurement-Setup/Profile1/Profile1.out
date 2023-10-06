@@ -1,7 +1,7 @@
-
-**** 10/05/23 16:43:22 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
- ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\Transduc
+**** 10/05/23 21:50:55 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\transducer-characterization\transduc
 
 
  ****     CIRCUIT DESCRIPTION
@@ -47,9 +47,9 @@ R_R5         0 N01048  10 TC=0,0
 **** RESUMING Profile1.cir ****
 .END
 
-**** 10/05/23 16:43:22 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/05/23 21:50:55 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
- ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\Transduc
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\transducer-characterization\transduc
 
 
  ****     Diode MODEL PARAMETERS
@@ -67,9 +67,9 @@ R_R5         0 N01048  10 TC=0,0
          CJO    1.000000E-15    1.000000E-15 
 
 
-**** 10/05/23 16:43:22 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/05/23 21:50:55 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
- ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\Transduc
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\transducer-characterization\transduc
 
 
  ****     BJT MODEL PARAMETERS
@@ -107,9 +107,9 @@ R_R5         0 N01048  10 TC=0,0
            D     .52             .52             .87             .87         
 
 
-**** 10/05/23 16:43:22 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/05/23 21:50:55 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
- ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\Transduc
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\transducer-characterization\transduc
 
 
  ****     Voltage Controlled Switch MODEL PARAMETERS
@@ -127,9 +127,9 @@ R_R5         0 N01048  10 TC=0,0
         VOFF    2.1             1.9          
 
 
-**** 10/05/23 16:43:22 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/05/23 21:50:55 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
- ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\Transduc
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\transducer-characterization\transduc
 
 
  ****     SMALL SIGNAL BIAS SOLUTION       TEMPERATURE =   27.000 DEG C
@@ -214,9 +214,9 @@ R_R5         0 N01048  10 TC=0,0
 
           JOB CONCLUDED
 
-**** 10/05/23 16:43:22 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/05/23 21:50:55 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
- ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\Transduc
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\transducer-characterization\transduc
 
 
  ****     JOB STATISTICS SUMMARY
@@ -226,6 +226,5 @@ R_R5         0 N01048  10 TC=0,0
 
 
 
-  License check-out time            =        1.41
-  Total job time (using Solver 1)   =         .05
+  Total job time (using Solver 1)   =         .03
 
