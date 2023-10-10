@@ -1,0 +1,20 @@
+** Profile: "SCHEMATIC1-Sweep1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Frontend-Design-Candidates\frontend-design-candidates-pspicefiles\schematic1\sweep1.sim ] 
+
+** Creating circuit file "Sweep1.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\Gleb Ryabtsev\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\17.4.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.AC DEC 100 1k 300k
+.STEP LIN PARAM LVAL 0.5mH 3mH 250uH 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

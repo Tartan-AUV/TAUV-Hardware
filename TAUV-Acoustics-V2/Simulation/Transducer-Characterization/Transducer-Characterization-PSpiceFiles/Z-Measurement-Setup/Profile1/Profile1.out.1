@@ -1,0 +1,47 @@
+
+**** 10/07/23 12:29:04 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transduc
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Profile1.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\Gleb Ryabtsev\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\17.4.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.AC DEC 100 1k 10Meg
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\Z-Measurement-Setup.net" 
+
+
+
+**** INCLUDING Z-Measurement-Setup.net ****
+* source TRANSDUCER-CHARACTERIZATION
+R_R4         N02216 0 100k
+R_TD_R1         N01048 TD_N00154 33.4
+C_TD_C1         TD_N00150 N00171 4.2nF
+C_TD_C2         N01048 N00171 15.9n
+L_TD_L1         TD_N00154 TD_N00150 8.9mH
+R_R5         0 N01048 10
+
+**** RESUMING Profile1.cir ****
+.END
+
+ERROR(ORPSIM-15141): Less than 2 connections at node N02216.
+
+ERROR(ORPSIM-15142): Node N00171 is floating
+
