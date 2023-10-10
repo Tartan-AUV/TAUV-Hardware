@@ -1,6 +1,6 @@
 (ExpressProject "Transducer-Characterization"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[10/05/23]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[10/09/23]")
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library")
@@ -40,46 +40,23 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transducer-characterization.dsn")
-      (Path "Design Resources"
-         "C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transducer-characterization.dsn"
-         "Z-Measurement-Setup")
-      (Path "Design Resources"
-         "C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transducer-characterization.dsn"
-         "TD-Van-Dyke")
       (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 278 0 1023"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 811"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1109 24 1041")
-        (Scroll "521 294")
-        (Zoom "218")
+        (Placement "44 0 1 -1 -1 5 24 5 708 24 829")
+        (Scroll "0 92")
+        (Zoom "134")
         (Occurrence "/"))
       (Path
          "C:\DEV\TAUV-HARDWARE\TAUV-ACOUSTICS-V2\SIMULATION\TRANSDUCER-CHARACTERIZATION\TRANSDUCER-CHARACTERIZATION.DSN")
       (Schematic "Z-Measurement-Setup")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 0 0 5 1109 24 1041")
-        (Scroll "0 0")
-        (Zoom "138"))
-      (Frame
-        (Placement "44 0 1 -1 -1 0 0 5 1109 24 1041")
-        (Scroll "706 505")
-        (Zoom "236")
-        (Occurrence "/TD"))
-      (Path
-         "C:\DEV\TAUV-HARDWARE\TAUV-ACOUSTICS-V2\SIMULATION\TRANSDUCER-CHARACTERIZATION\TRANSDUCER-CHARACTERIZATION.DSN")
-      (Schematic "TD-Van-Dyke")
       (Page "PAGE1")))
   (PartMRUSelector
     (R

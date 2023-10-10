@@ -1,7 +1,7 @@
+
+**** 10/07/23 12:42:42 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
-**** 10/05/23 21:50:55 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
-
- ** Profile: "Z-Measurement-Setup-Profile1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\transducer-characterization\transduc
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transduc
 
 
  ****     CIRCUIT DESCRIPTION
@@ -31,25 +31,24 @@
 
 **** INCLUDING Z-Measurement-Setup.net ****
 * source TRANSDUCER-CHARACTERIZATION
-X_U1         N00330 N00137 V- V- V+ N00167 N00757 OPA547/BB
-R_R1         0 N00137  10k TC=0,0 
-R_R2         N00137 N00167  50k TC=0,0 
+X_U1         N00330 N02180 V- V- V+ N00171 N02216 OPA547/BB
 V_V2         V+ 0 30Vdc
 V_V3         0 V- 30Vdc
-V_V4         N00330 0 DC 0Vdc AC 5Vac 
-R_R4         N00757 0  100k TC=0,0 
+V_V4         N00330 0 DC 0Vdc AC 0.5Vac 
+R_R4         N02216 0  100k TC=0,0 
 R_TD_R1         N01048 TD_N00154  33.4 TC=0,0 
-C_TD_C1         TD_N00150 N00167  4.2nF  TC=0,0 
-C_TD_C2         N01048 N00167  15.9n  TC=0,0 
+C_TD_C1         TD_N00150 N00171  4.2nF  TC=0,0 
+C_TD_C2         N01048 N00171  15.9n  TC=0,0 
 L_TD_L1         TD_N00154 TD_N00150  8.9mH  
 R_R5         0 N01048  10 TC=0,0 
+R_R6         N02180 N00171  1 TC=0,0 
 
 **** RESUMING Profile1.cir ****
 .END
 
-**** 10/05/23 21:50:55 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/07/23 12:42:42 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
- ** Profile: "Z-Measurement-Setup-Profile1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\transducer-characterization\transduc
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transduc
 
 
  ****     Diode MODEL PARAMETERS
@@ -67,9 +66,9 @@ R_R5         0 N01048  10 TC=0,0
          CJO    1.000000E-15    1.000000E-15 
 
 
-**** 10/05/23 21:50:55 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/07/23 12:42:42 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
- ** Profile: "Z-Measurement-Setup-Profile1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\transducer-characterization\transduc
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transduc
 
 
  ****     BJT MODEL PARAMETERS
@@ -107,9 +106,9 @@ R_R5         0 N01048  10 TC=0,0
            D     .52             .52             .87             .87         
 
 
-**** 10/05/23 21:50:55 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/07/23 12:42:42 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
- ** Profile: "Z-Measurement-Setup-Profile1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\transducer-characterization\transduc
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transduc
 
 
  ****     Voltage Controlled Switch MODEL PARAMETERS
@@ -127,9 +126,9 @@ R_R5         0 N01048  10 TC=0,0
         VOFF    2.1             1.9          
 
 
-**** 10/05/23 21:50:55 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/07/23 12:42:42 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
- ** Profile: "Z-Measurement-Setup-Profile1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\transducer-characterization\transduc
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transduc
 
 
  ****     SMALL SIGNAL BIAS SOLUTION       TEMPERATURE =   27.000 DEG C
@@ -142,9 +141,9 @@ R_R5         0 N01048  10 TC=0,0
  NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
 
 
-(   V+)   30.0000  (   V-)  -30.0000  (N00137) 762.6E-06 (N00167)    -.0015     
+(   V+)   30.0000  (   V-)  -30.0000  (N00171) 762.5E-06 (N00330)    0.0000     
 
-(N00330)    0.0000 (N00757)   -8.5714 (N01048)    0.0000 (X_U1.9)   28.6000     
+(N01048)    0.0000 (N02180) 762.6E-06 (N02216)   -8.5714 (X_U1.9)   28.6000     
 
 (X_U1.10)   28.5010                   (X_U1.11)   28.4930                       
 
@@ -160,19 +159,19 @@ R_R5         0 N01048  10 TC=0,0
 
 (X_U1.22)   29.3010                   (X_U1.23)   29.9410                       
 
-(X_U1.24)   29.9330                   (X_U1.25)    1.2732                       
+(X_U1.24)   29.9330                   (X_U1.25)    1.2755                       
 
 (X_U1.26)  -29.3340                   (X_U1.27)  -29.2000                       
 
 (X_U1.28)  -29.8510                   (X_U1.29)  -29.1650                       
 
-(X_U1.30)  -29.8520                   (X_U1.31)    -.0101                       
+(X_U1.30)  -29.8520                   (X_U1.31)    -.0079                       
 
-(X_U1.32)     .6247                   (X_U1.33)    1.2710                       
+(X_U1.32)     .6270                   (X_U1.33)    1.2732                       
 
-(X_U1.34)     .6165                   (X_U1.35)     .0015                       
+(X_U1.34)     .6188                   (X_U1.35)     .0037                       
 
-(X_U1.36)    -.0015                   (X_U1.37)  -28.7440                       
+(X_U1.36) 762.5E-06                   (X_U1.37)  -28.7440                       
 
 (X_U1.38)  -29.3790                   (X_U1.39)  -29.3810                       
 
@@ -182,11 +181,11 @@ R_R5         0 N01048  10 TC=0,0
 
 (X_U1.44)  -28.0000                   (X_U1.45)  -25.7450                       
 
-(X_U1.46)  -26.4000                   (X_U1.47)     .2991                       
+(X_U1.46)  -26.4000                   (X_U1.47)     .3014                       
 
-(X_U1.48)     .6495                   (X_U1.49)  -29.3500                       
+(X_U1.48)     .6507                   (X_U1.49)  -29.3500                       
 
-(X_U1.51)     .0020                   (TD_N00150)    0.0000                     
+(X_U1.51)     .0032                   (TD_N00150)    0.0000                     
 
 (TD_N00154)    0.0000                 
 
@@ -199,7 +198,7 @@ R_R5         0 N01048  10 TC=0,0
     V_V2        -9.739E-03
     V_V3        -9.825E-03
     V_V4         1.215E-07
-    X_U1.VCLMP   2.274E-13
+    X_U1.VCLMP   1.705E-13
     X_U1.VDUM    0.000E+00
     X_U1.V475   -1.503E-04
     X_U1.VDP    -4.465E-05
@@ -214,9 +213,9 @@ R_R5         0 N01048  10 TC=0,0
 
           JOB CONCLUDED
 
-**** 10/05/23 21:50:55 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/07/23 12:42:42 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
- ** Profile: "Z-Measurement-Setup-Profile1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\transducer-characterization\transduc
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transduc
 
 
  ****     JOB STATISTICS SUMMARY
@@ -226,5 +225,6 @@ R_R5         0 N01048  10 TC=0,0
 
 
 
-  Total job time (using Solver 1)   =         .03
+  License check-out time            =        1.33
+  Total job time (using Solver 1)   =         .06
 

@@ -1,7 +1,7 @@
 
-**** 10/05/23 16:26:07 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/07/23 12:29:04 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
- ** Profile: "SCHEMATIC1-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\Transducer-Charac
+ ** Profile: "Z-Measurement-Setup-Profile1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Transducer-Characterization\transduc
 
 
  ****     CIRCUIT DESCRIPTION
@@ -22,26 +22,26 @@
 .lib "nom.lib" 
 
 *Analysis directives: 
-.AC DEC 100 1k 10M
----------------$
-ERROR(ORPSIM-16103): Invalid value
+.AC DEC 100 1k 10Meg
 .OPTIONS ADVCONV
 .PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
-.INC "..\SCHEMATIC1.net" 
+.INC "..\Z-Measurement-Setup.net" 
 
 
 
-**** INCLUDING SCHEMATIC1.net ****
+**** INCLUDING Z-Measurement-Setup.net ****
 * source TRANSDUCER-CHARACTERIZATION
-X_U1         N00330 N00137 V- V- V+ N00167 N00757 OPA547/BB
-R_R1         0 N00137  10k TC=0,0 
-R_R2         N00137 N00167  50k TC=0,0 
-V_V2         V+ 0 30Vdc
-V_V3         0 V- 30Vdc
-R_R3         0 N00167  1k TC=0,0 
-V_V4         N00330 0 DC 0Vdc AC 5Vac 
-R_R4         N00757 0  100k TC=0,0 
+R_R4         N02216 0 100k
+R_TD_R1         N01048 TD_N00154 33.4
+C_TD_C1         TD_N00150 N00171 4.2nF
+C_TD_C2         N01048 N00171 15.9n
+L_TD_L1         TD_N00154 TD_N00150 8.9mH
+R_R5         0 N01048 10
 
 **** RESUMING Profile1.cir ****
 .END
+
+ERROR(ORPSIM-15141): Less than 2 connections at node N02216.
+
+ERROR(ORPSIM-15142): Node N00171 is floating
 
