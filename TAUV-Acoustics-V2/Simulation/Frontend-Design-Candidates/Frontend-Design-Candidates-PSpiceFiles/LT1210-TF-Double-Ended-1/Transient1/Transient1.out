@@ -1,0 +1,184 @@
+
+**** 10/18/23 22:25:27 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Transient1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Transient1.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\Gleb Ryabtsev\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\17.4.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 0.5ms 0 0.1u 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source FRONTEND-DESIGN-CANDIDATES
+V_V1         12V 0 12V
+V_V2         0 -12V 12
+V_V4         N03290 0  AC 2.5V
++SIN 0 2.5V 480k 0 0 0
+X_U1         N03290 N04548 12V -12V N04690 N04348 LT1210/LT
+C_C1         0 N04348  10n  TC=0,0 
+R_R1         N04548 N04690  500 TC=0,0 
+X_TX1    N04690 0 N09242 0 SCHEMATIC1_TX1 
+C_C2         N09242 0  1.84n  TC=0,0 
+.PARAM  lval=1mh
+
+.subckt SCHEMATIC1_TX1 1 2 3 4  
+K_TX1         L1_TX1 L2_TX1 0.95
+L1_TX1         1 2 1.79uH
+L2_TX1         3 4 179uH
+.ends SCHEMATIC1_TX1
+
+**** RESUMING Transient1.cir ****
+.END
+
+**** 10/18/23 22:25:27 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Transient1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_U1.DC         X_U1.DCC        
+          IS   10.000000E-15   10.000000E-15 
+         CJO                    3.000000E-12 
+          VJ                     .62         
+           M                     .44         
+
+
+**** 10/18/23 22:25:27 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Transient1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-
+
+
+ ****     BJT MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_U1.QNI        X_U1.QPI        
+               NPN             PNP             
+       LEVEL    1               1            
+          IS  100.000000E-18  100.000000E-18 
+          BF  150             150            
+          NF    1               1            
+          BR    1               1            
+          NR    1               1            
+         ISS    0               0            
+          RE    0               0            
+          RC    0               0            
+         CJE    0               0            
+         VJE     .75             .75         
+         CJC    0               0            
+         VJC     .75             .75         
+         MJC     .33             .33         
+        XCJC    1               1            
+         CJS    0               0            
+         VJS     .75             .75         
+          TF  400.000000E-12  400.000000E-12 
+          KF    0               0            
+          AF    1               1            
+          CN    2.42            2.2          
+           D     .87             .52         
+
+
+**** 10/18/23 22:25:27 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Transient1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(  12V)   12.0000  ( -12V)  -12.0000  (N03290)    0.0000 (N04348)    -.1751     
+
+(N04548) 8.559E-15 (N04690) 8.559E-15 (N09242)    0.0000 (X_U1.9)    -.1751     
+
+(X_U1.10)     .7713                   (X_U1.11)   11.2290                       
+
+(X_U1.12)     .5944                   (X_U1.13)    1.3639                       
+
+(X_U1.14)     .5944                   (X_U1.15)     .5944                       
+
+(X_U1.16) 13.85E-06                   (X_U1.17)    -.1751                       
+
+(X_U1.18)    -.1751                   (X_U1.3A)-55.51E-18                       
+
+(X_U1.6A) 8.659E-12                   (X_U1.110)    -.7713                      
+
+(X_U1.111)  -11.2290                  (X_U1.112)    -.9446                      
+
+(X_U1.113)   -1.7142                  (X_U1.114)    -.9306                      
+
+(X_U1.115)    -.9075                  (X_U1.116)    -.0870                      
+
+(X_U1.11A)   11.2300                  (X_U1.200) 8.559E-15                      
+
+(X_U1.111B)  -11.2300                 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -7.520E-03
+    V_V2        -2.974E-01
+    V_V4        -3.334E-18
+
+    TOTAL POWER DISSIPATION   3.66E+00  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 10/18/23 22:25:27 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Transient1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  License check-out time            =        8.33
+  Total job time (using Solver 1)   =        4.74
+

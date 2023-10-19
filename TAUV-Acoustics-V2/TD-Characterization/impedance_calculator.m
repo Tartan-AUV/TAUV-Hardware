@@ -9,12 +9,17 @@ A = M.*exp(1i.*deg2rad(th_deg));
 R_s = 177.8;
 
 Z = R_s.*(1./(1./A-1));
-figure;
-loglog(f, abs(Z), 'DisplayName', '|Z|');
+
+tiledlayout(2,1);
+nexttile;
+semilogy(f, abs(Z), 'DisplayName', '|Z|');
 hold on;
-loglog(f, real(Z), 'DisplayName', 'Re(Z)');
-%loglog(f, imag(Z), 'DisplayName', 'Im(Z)');
+semilogy(f, real(Z), 'DisplayName', 'Re(Z)');
+semilogy(f, abs(imag(Z)), 'DisplayName', 'abs(Im(Z))');
 hold off;
+nexttile;
+plot(f, imag(Z));
+
 legend;
 
 function [C0, Cm, Rm, L1] = getVanDyke(o_r, o_a, z_r, z_a)
