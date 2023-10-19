@@ -1,6 +1,6 @@
 (ExpressProject "Frontend-Design-Candidates"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[10/09/23]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[10/20/23]")
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library")
@@ -20,19 +20,19 @@
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles"
       (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
-         ".\frontend-design-candidates-pspicefiles\schematic1\transient1.sim"
-        (DisplayName "SCHEMATIC1-Transient1")
+         ".\frontend-design-candidates-pspicefiles\lt1210-tf-double-ended-1\transient1.sim"
+        (DisplayName "LT1210-TF-Double-Ended-1-Transient1")
         (Type "PSpice Profile"))
       (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
-         ".\frontend-design-candidates-pspicefiles\schematic1\sweep1.sim"
-        (DisplayName "SCHEMATIC1-Sweep1")
+         ".\frontend-design-candidates-pspicefiles\lt1210-tf-double-ended-1\sweep1.sim"
+        (DisplayName "LT1210-TF-Double-Ended-1-Sweep1")
         (Type "PSpice Profile"))
       (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
-         ".\frontend-design-candidates-pspicefiles\schematic1\fixed-sweep.sim"
-        (DisplayName "SCHEMATIC1-fixed-sweep")
+         ".\frontend-design-candidates-pspicefiles\lt1210-tf-double-ended-1\fixed-sweep.sim"
+        (DisplayName "LT1210-TF-Double-Ended-1-fixed-sweep")
         (Type "PSpice Profile"))
       (ActiveProfile
-         ".\frontend-design-candidates-pspicefiles\schematic1\transient1.sim"))
+         ".\frontend-design-candidates-pspicefiles\lt1210-tf-double-ended-1\transient1.sim"))
     (Folder "Model Libraries"
       (Sort User))
     (Folder "Stimulus Files"
@@ -144,32 +144,30 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Outputs"))
+      (Path "Design Resources"
+         "c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-candidates.dsn")
+      (Path "Design Resources"
+         "c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-candidates.dsn"
+         "LT1210-TF-Double-Ended-1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-candidates.dsn"
+         "LT1210-TF-Double-Ended-1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 1023"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 319 0 1023"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 1041")
-        (Scroll "-168 -10")
-        (Zoom "134"))
-      (Path
-         "C:\DEV\TAUV-HARDWARE\TAUV-ACOUSTICS-V2\SIMULATION\FRONTEND-DESIGN-CANDIDATES\FRONTEND-DESIGN-CANDIDATES.DSN")
-      (Schematic "Tx")
-      (Page "Tx"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1674 24 1041")
-        (Scroll "185 190")
-        (Zoom "210")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1349 24 1041")
+        (Scroll "-6 -10")
+        (Zoom "134")
         (Occurrence "/"))
       (Path
          "C:\DEV\TAUV-HARDWARE\TAUV-ACOUSTICS-V2\SIMULATION\FRONTEND-DESIGN-CANDIDATES\FRONTEND-DESIGN-CANDIDATES.DSN")
-      (Schematic "SCHEMATIC1")
+      (Schematic "LT1210-TF-Double-Ended-1")
       (Page "PAGE1")))
   (MPSSessionName "Gleb Ryabtsev"))

@@ -1,0 +1,59 @@
+
+**** 10/06/23 18:11:23 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-Sweep1"  [ C:\Dev\TAUV-Hardware\TAUV-Acoustics-V2\Simulation\Frontend-Design-Candidates\Frontend-Design-Cand
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Sweep1.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\Gleb Ryabtsev\AppData\Roaming\SPB_Data\cdssetup\OrCAD_PSpice\17.4.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.AC DEC 100 1k 10Meg
+.STEP DEC PARAM LVAL 1nH 10mH 10 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source FRONTEND-DESIGN-CANDIDATES
+V_V1         12V 0 12V
+V_V2         0 -12V 12
+R_P_R1         0 P_N00154  33.4 TC=0,0 
+C_P_C1         P_N00150 N05042  4.2nF  TC=0,0 
+C_P_C2         0 N05042  15.9n  TC=0,0 
+L_P_L1         P_N00154 P_N00150  8.9mH  
+V_V4         N03290 0  AC 2.5V
++SIN 2.5V 2.5V 100k 0 0 0
+X_U1         N03290 N04548 12V -12V N04684 N04348 LT1210/LT
+C_C1         0 N04348  10n  TC=0,0 
+X_TX1    N06275 0 N05042 0 SCHEMATIC1_TX1 
+R_R1         N04548 N04684  500 TC=0,0 
+L_L1         N04684 N06275  {LVAL}  
+
+.subckt SCHEMATIC1_TX1 1 2 3 4  
+K_TX1         L1_TX1 L2_TX1 1
+L1_TX1         1 2 1000H
+L2_TX1         3 4 15000H
+.ends SCHEMATIC1_TX1
+
+**** RESUMING Sweep1.cir ****
+.END
+
+ERROR(ORPSIM-15167): Undefined parameter: LVAL.
+

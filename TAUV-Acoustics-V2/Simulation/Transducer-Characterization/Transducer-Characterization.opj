@@ -1,6 +1,6 @@
 (ExpressProject "Transducer-Characterization"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[10/09/23]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[10/11/23]")
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library")
@@ -39,25 +39,14 @@
   (MPSSessionName "Gleb Ryabtsev")
   (GlobalState
     (FileView
-      (Path "Design Resources")
-      (Path "Outputs"))
-    (HierarchyView)
+      (Select "Design Resources"))
+    (HierarchyView
+      (Select "Z-Measurement-Setup"))
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 811"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 708 24 829")
-        (Scroll "0 92")
-        (Zoom "134")
-        (Occurrence "/"))
-      (Path
-         "C:\DEV\TAUV-HARDWARE\TAUV-ACOUSTICS-V2\SIMULATION\TRANSDUCER-CHARACTERIZATION\TRANSDUCER-CHARACTERIZATION.DSN")
-      (Schematic "Z-Measurement-Setup")
-      (Page "PAGE1")))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 1023"))
+      (Tab 0)))
   (PartMRUSelector
     (R
       (FullPartName "R.Normal")

@@ -1,5 +1,5 @@
-
-**** 10/09/23 21:25:30 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+
+**** 10/18/23 22:25:27 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
  ** Profile: "SCHEMATIC1-Transient1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-
 
@@ -34,24 +34,24 @@
 V_V1         12V 0 12V
 V_V2         0 -12V 12
 V_V4         N03290 0  AC 2.5V
-+SIN 0 2.5V 400k 0 0 0
++SIN 0 2.5V 480k 0 0 0
 X_U1         N03290 N04548 12V -12V N04690 N04348 LT1210/LT
 C_C1         0 N04348  10n  TC=0,0 
 R_R1         N04548 N04690  500 TC=0,0 
 X_TX1    N04690 0 N09242 0 SCHEMATIC1_TX1 
-R_R2         N09242 0  450 TC=0,0 
+C_C2         N09242 0  1.84n  TC=0,0 
 .PARAM  lval=1mh
 
 .subckt SCHEMATIC1_TX1 1 2 3 4  
-K_TX1         L1_TX1 L2_TX1 1
-L1_TX1         1 2 0.1mH
-L2_TX1         3 4 10mH
+K_TX1         L1_TX1 L2_TX1 0.95
+L1_TX1         1 2 1.79uH
+L2_TX1         3 4 179uH
 .ends SCHEMATIC1_TX1
 
 **** RESUMING Transient1.cir ****
 .END
 
-**** 10/09/23 21:25:30 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/18/23 22:25:27 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
  ** Profile: "SCHEMATIC1-Transient1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-
 
@@ -71,7 +71,7 @@ L2_TX1         3 4 10mH
            M                     .44         
 
 
-**** 10/09/23 21:25:30 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/18/23 22:25:27 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
  ** Profile: "SCHEMATIC1-Transient1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-
 
@@ -110,7 +110,7 @@ L2_TX1         3 4 10mH
            D     .87             .52         
 
 
-**** 10/09/23 21:25:30 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/18/23 22:25:27 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
  ** Profile: "SCHEMATIC1-Transient1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-
 
@@ -127,7 +127,7 @@ L2_TX1         3 4 10mH
 
 (  12V)   12.0000  ( -12V)  -12.0000  (N03290)    0.0000 (N04348)    -.1751     
 
-(N04548) 8.268E-15 (N04690)    0.0000 (N09242)    0.0000 (X_U1.9)    -.1751     
+(N04548) 8.559E-15 (N04690) 8.559E-15 (N09242)    0.0000 (X_U1.9)    -.1751     
 
 (X_U1.10)     .7713                   (X_U1.11)   11.2290                       
 
@@ -137,9 +137,9 @@ L2_TX1         3 4 10mH
 
 (X_U1.16) 13.85E-06                   (X_U1.17)    -.1751                       
 
-(X_U1.18)    -.1751                   (X_U1.3A)    0.0000                       
+(X_U1.18)    -.1751                   (X_U1.3A)-55.51E-18                       
 
-(X_U1.6A)-8.420E-12                   (X_U1.110)    -.7713                      
+(X_U1.6A) 8.659E-12                   (X_U1.110)    -.7713                      
 
 (X_U1.111)  -11.2290                  (X_U1.112)    -.9446                      
 
@@ -147,7 +147,7 @@ L2_TX1         3 4 10mH
 
 (X_U1.115)    -.9075                  (X_U1.116)    -.0870                      
 
-(X_U1.11A)   11.2300                  (X_U1.200) 8.433E-15                      
+(X_U1.11A)   11.2300                  (X_U1.200) 8.559E-15                      
 
 (X_U1.111B)  -11.2300                 
 
@@ -159,7 +159,7 @@ L2_TX1         3 4 10mH
 
     V_V1        -7.520E-03
     V_V2        -2.974E-01
-    V_V4         1.038E-18
+    V_V4        -3.334E-18
 
     TOTAL POWER DISSIPATION   3.66E+00  WATTS
 
@@ -167,7 +167,7 @@ L2_TX1         3 4 10mH
 
           JOB CONCLUDED
 
-**** 10/09/23 21:25:30 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
+**** 10/18/23 22:25:27 ******* PSpice 17.4.0 (Nov 2018) ******* ID# 0 ********
 
  ** Profile: "SCHEMATIC1-Transient1"  [ c:\dev\tauv-hardware\tauv-acoustics-v2\simulation\frontend-design-candidates\frontend-design-
 
@@ -179,5 +179,6 @@ L2_TX1         3 4 10mH
 
 
 
-  Total job time (using Solver 1)   =        2.34
+  License check-out time            =        8.33
+  Total job time (using Solver 1)   =        4.74
 
