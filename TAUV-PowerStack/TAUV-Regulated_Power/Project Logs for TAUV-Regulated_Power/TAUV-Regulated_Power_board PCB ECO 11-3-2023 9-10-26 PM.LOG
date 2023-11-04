@@ -1,0 +1,8 @@
+Add Component: Footprint Not Found RESC0603(1608)_L
+Add Pin To Net: Unknown Pin: Pin R38-1
+Added Pin To Net: NetName=NetR38_2 Pin=U3-6
+Added Net: Name=NetR38_2
+Added Class: Name=R38_Nets
+Add Class Member: Failed to add class member : Component R38 88K7 1%
+Added Member To Class: ClassName=Designator_Nets Member=Wire NetR38_2
+Added Member To Class: ClassName=U3_Nets Member=Wire NetR38_2

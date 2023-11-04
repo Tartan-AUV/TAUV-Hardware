@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC16_2 Pin=C16-2
+Removed Member From Class: ClassName=L1_Nets Member=NetC16_2
+Change Component Comment : Designator=C16 Old Comment=0.1uF New Comment=100nF
+Change Managed Component Library Link : Designator=C16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=10D7FBA3-E0EC-431C-99CB-A5466BDA96CE New ItemGUID=CE7C8EE3-57A5-45FB-A5FF-64C1097FD2A2 Old RevisionGUID=81905D31-176D-4327-AC6E-01062938C259 New RevisionGUID=2DCA04A6-3B85-46B5-A121-BAD5107DA2F2
+Change component parameters: Designator = "C16" ("C16"); Footprint = "0603"; UniqueID = "\UXMHVJDP\CQMWTYZO" ("\UXMHVJDP\CQMWTYZO")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B104KC8NNNC/5961291"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC16_2 Pin=C16-1
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC16_1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=U3-20
+Added Net: Name=NetC16_2
+Added Member To Class: ClassName=L1_Nets Member=Wire NetC16_1

@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC0603(1608)100_L New Footprint=0603
+Change Component Footprint: Designator=C9 Old Footprint=CAPC0603(1608)100_L New Footprint=0603
+Change Component Footprint: Designator=C23 Old Footprint=CAPC0603(1608)100_L New Footprint=0603
+Change Component Footprint: Designator=C61 Old Footprint=CAPC0603(1608)100_L New Footprint=0603
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=CE7C8EE3-57A5-45FB-A5FF-64C1097FD2A2 New ItemGUID= Old RevisionGUID=2DCA04A6-3B85-46B5-A121-BAD5107DA2F2 New RevisionGUID=
+Change Managed Component Library Link : Designator=C9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=CE7C8EE3-57A5-45FB-A5FF-64C1097FD2A2 New ItemGUID= Old RevisionGUID=2DCA04A6-3B85-46B5-A121-BAD5107DA2F2 New RevisionGUID=
+Change Managed Component Library Link : Designator=C23 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=CE7C8EE3-57A5-45FB-A5FF-64C1097FD2A2 New ItemGUID= Old RevisionGUID=2DCA04A6-3B85-46B5-A121-BAD5107DA2F2 New RevisionGUID=
+Change Managed Component Library Link : Designator=C61 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=CE7C8EE3-57A5-45FB-A5FF-64C1097FD2A2 New ItemGUID= Old RevisionGUID=2DCA04A6-3B85-46B5-A121-BAD5107DA2F2 New RevisionGUID=
+Added Component: Designator=C16(0603)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B104KC8NNNC/5961291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07100KL/726889"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1003V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=V5P0_AUX Pin=R5-1
+Added Pin To Net: NetName=NetC62_2 Pin=R5-2
+Added Member To Class: ClassName=Designator Member=Component C16 100nF
+Added Member To Class: ClassName=Designator Member=Component R5 100K
