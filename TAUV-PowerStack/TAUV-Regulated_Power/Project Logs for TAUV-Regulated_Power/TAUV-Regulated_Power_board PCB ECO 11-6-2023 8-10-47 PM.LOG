@@ -1,0 +1,73 @@
+Removed Member From Class: ClassName=C39_Nets Member=SGND
+Removed Member From Class: ClassName=C40_Nets Member=SGND
+Removed Member From Class: ClassName=C41_Nets Member=SGND
+Removed Member From Class: ClassName=C57_Nets Member=SGND
+Removed Member From Class: ClassName=C58_Nets Member=SGND
+Removed Member From Class: ClassName=C59_Nets Member=SGND
+Removed Member From Class: ClassName=R31_Nets Member=SGND
+Removed Member From Class: ClassName=R35_Nets Member=SGND
+Removed Member From Class: ClassName=TP23_Nets Member=SGND
+Removed Member From Class: ClassName=U6_Nets Member=SGND
+Removed Member From Class: ClassName=U8_Nets Member=SGND
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=GND Pin=C59-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=GND Pin=TP23-1
+Added Pin To Net: NetName=GND Pin=U6-A1
+Added Pin To Net: NetName=GND Pin=U6-A2
+Added Pin To Net: NetName=GND Pin=U6-A3
+Added Pin To Net: NetName=GND Pin=U6-A4
+Added Pin To Net: NetName=GND Pin=U6-A7
+Added Pin To Net: NetName=GND Pin=U6-A10
+Added Pin To Net: NetName=GND Pin=U6-B10
+Added Pin To Net: NetName=GND Pin=U6-B11
+Added Pin To Net: NetName=GND Pin=U6-B12
+Added Pin To Net: NetName=GND Pin=U6-B13
+Added Pin To Net: NetName=GND Pin=U6-B14
+Added Pin To Net: NetName=GND Pin=U6-C10
+Added Pin To Net: NetName=GND Pin=U6-C11
+Added Pin To Net: NetName=GND Pin=U6-C12
+Added Pin To Net: NetName=GND Pin=U6-D10
+Added Pin To Net: NetName=GND Pin=U6-D11
+Added Pin To Net: NetName=GND Pin=U6-D12
+Added Pin To Net: NetName=GND Pin=U6-D14
+Added Pin To Net: NetName=GND Pin=U6-E10
+Added Pin To Net: NetName=GND Pin=U6-E11
+Added Pin To Net: NetName=GND Pin=U6-E12
+Added Pin To Net: NetName=GND Pin=U6-E14
+Added Pin To Net: NetName=GND Pin=U8-A1
+Added Pin To Net: NetName=GND Pin=U8-A2
+Added Pin To Net: NetName=GND Pin=U8-A3
+Added Pin To Net: NetName=GND Pin=U8-A4
+Added Pin To Net: NetName=GND Pin=U8-A7
+Added Pin To Net: NetName=GND Pin=U8-A10
+Added Pin To Net: NetName=GND Pin=U8-B10
+Added Pin To Net: NetName=GND Pin=U8-B11
+Added Pin To Net: NetName=GND Pin=U8-B12
+Added Pin To Net: NetName=GND Pin=U8-B13
+Added Pin To Net: NetName=GND Pin=U8-B14
+Added Pin To Net: NetName=GND Pin=U8-C10
+Added Pin To Net: NetName=GND Pin=U8-C11
+Added Pin To Net: NetName=GND Pin=U8-C12
+Added Pin To Net: NetName=GND Pin=U8-D10
+Added Pin To Net: NetName=GND Pin=U8-D11
+Added Pin To Net: NetName=GND Pin=U8-D12
+Added Pin To Net: NetName=GND Pin=U8-D14
+Added Pin To Net: NetName=GND Pin=U8-E10
+Added Pin To Net: NetName=GND Pin=U8-E11
+Added Pin To Net: NetName=GND Pin=U8-E12
+Added Pin To Net: NetName=GND Pin=U8-E14
+Added Member To Class: ClassName=C39_Nets Member=Wire GND
+Added Member To Class: ClassName=C40_Nets Member=Wire GND
+Added Member To Class: ClassName=C41_Nets Member=Wire GND
+Added Member To Class: ClassName=C57_Nets Member=Wire GND
+Added Member To Class: ClassName=C58_Nets Member=Wire GND
+Added Member To Class: ClassName=C59_Nets Member=Wire GND
+Added Member To Class: ClassName=R31_Nets Member=Wire GND
+Added Member To Class: ClassName=R35_Nets Member=Wire GND
+Added Member To Class: ClassName=TP23_Nets Member=Wire GND

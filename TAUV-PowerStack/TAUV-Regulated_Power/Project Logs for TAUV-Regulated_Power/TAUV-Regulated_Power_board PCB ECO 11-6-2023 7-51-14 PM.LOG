@@ -1,0 +1,5 @@
+Add Component: Footprint Not Found RESC0603(1608)_L
+Add Pin To Net: Unknown Pin: Pin R39-1
+Add Pin To Net: Unknown Pin: Pin R39-2
+Added Class: Name=R39_Nets
+Add Class Member: Failed to add class member : Component R39 4K7

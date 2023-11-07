@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=R15 Old Footprint=RESC0603(1608)_L New Footprint=0603
+Change Component Footprint: Designator=R16 Old Footprint=RESC0603(1608)_L New Footprint=0603
+Change Managed Component Library Link : Designator=R15 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=2E55CD9E-89FE-42E1-BBB8-A639F96C14A7 New ItemGUID= Old RevisionGUID=F82DFAC3-87DD-47CD-A584-24B061DDFC0C New RevisionGUID=
+Change Managed Component Library Link : Designator=R16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=2E55CD9E-89FE-42E1-BBB8-A639F96C14A7 New ItemGUID= Old RevisionGUID=F82DFAC3-87DD-47CD-A584-24B061DDFC0C New RevisionGUID=
+Added Component: Designator=R39(0603)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0603FR-074K7L/727212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4700.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MUX_EN_L Pin=R39-1
+Added Pin To Net: NetName=V5P0 Pin=R39-2
+Added Member To Class: ClassName=Designator Member=Component R39 4K7
