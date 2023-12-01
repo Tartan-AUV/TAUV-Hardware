@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=TP20 NewDesignator=MUX_S1
+Change Component Designator: OldDesignator=TP21 NewDesignator=MUX_S2
+Added Component: Designator=MUX_OUT(Test Point Pad)
+Added Pin To Net: NetName=Ard_A0 Pin=MUX_OUT-1
+Change Class Name : Old Net Name=TP19_Nets New Net Name=MUX_S0_Nets
+Change Class Name : Old Net Name=TP20_Nets New Net Name=MUX_S1_Nets
+Change Class Name : Old Net Name=TP21_Nets New Net Name=MUX_S2_Nets
+Added Class: Name=MUX_OUT_Nets
+Added Member To Class: ClassName=Designator Member=Component MUX_OUT

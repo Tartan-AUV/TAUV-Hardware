@@ -1,0 +1,3 @@
+Added Component: Designator=MUX_S0(Test Point Pad)
+Added Pin To Net: NetName=MUX_S0 Pin=MUX_S0-1
+Added Member To Class: ClassName=Designator Member=Component MUX_S0
