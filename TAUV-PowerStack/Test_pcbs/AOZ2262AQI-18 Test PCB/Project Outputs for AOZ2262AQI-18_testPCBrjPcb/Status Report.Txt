@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [AOZ2262AQI-18_PCB.PcbDoc]
+   Generated File[AOZ2262AQI-18_PCB_Copper_Signal_Top.gbr]
+   Generated File[AOZ2262AQI-18_PCB_Copper_Signal_Bot.gbr]
+   Generated File[AOZ2262AQI-18_PCB_Legend_Top.gbr]
+   Generated File[AOZ2262AQI-18_PCB_Legend_Bot.gbr]
+   Generated File[AOZ2262AQI-18_PCB_Soldermask_Top.gbr]
+   Generated File[AOZ2262AQI-18_PCB_Soldermask_Bot.gbr]
+   Generated File[AOZ2262AQI-18_PCB_Paste_Top.gbr]
+   Generated File[AOZ2262AQI-18_PCB_Paste_Bot.gbr]
+   Generated File[AOZ2262AQI-18_PCB_Profile.gbr]
+   Generated File[AOZ2262AQI-18_PCB_NPTH_Drill.gbr]
+   Generated File[AOZ2262AQI-18_PCB_PTH_Drill.gbr]
+   Generated File[AOZ2262AQI-18_PCB.EXTREP]
+   Generated File[AOZ2262AQI-18_PCB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 3:01:43 PM On 12/6/2023

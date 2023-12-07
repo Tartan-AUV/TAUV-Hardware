@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VCC_BATT Pin=C3-1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=VCC_BATT Pin=R1-1
+Added Pin To Net: NetName=VCC_BATT Pin=R5-2
+Added Pin To Net: NetName=VCC_BATT Pin=U1-21

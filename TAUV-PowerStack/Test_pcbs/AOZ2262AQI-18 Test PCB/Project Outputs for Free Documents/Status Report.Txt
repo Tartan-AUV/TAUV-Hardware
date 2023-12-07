@@ -1,0 +1,11 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [AOZ2262AQI-18_PCB.PcbDoc]
+   Generated File[AOZ2262AQI-18_PCB.EXTREP]
+   Generated File[AOZ2262AQI-18_PCB.REP]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 2:28:13 PM On 12/6/2023
