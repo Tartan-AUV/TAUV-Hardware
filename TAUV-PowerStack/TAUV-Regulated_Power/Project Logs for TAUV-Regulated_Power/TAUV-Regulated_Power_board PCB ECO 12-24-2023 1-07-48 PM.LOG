@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=C12_Nets Member=NetC12_1
+Removed Member From Class: ClassName=Designator_Nets Member=NetC12_1
+Removed Member From Class: ClassName=R41_Nets Member=NetC12_1
+Removed Member From Class: ClassName=U4_Nets Member=NetC12_1
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=C12-1
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=R41-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=U4-7
+Added Member To Class: ClassName=C12_Nets Member=Wire VCC_BATT_FILT
+Added Member To Class: ClassName=R41_Nets Member=Wire VCC_BATT_FILT
+Added Member To Class: ClassName=U4_Nets Member=Wire VCC_BATT_FILT

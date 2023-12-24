@@ -1,0 +1,73 @@
+Add Component: Footprint Not Found FP-GRM32-MFG
+Add Component: Footprint Not Found FP-GRM32-MFG
+Add Component: Footprint Not Found FP-GRM32-MFG
+Add Component: Footprint Not Found FP-GRM32-MFG
+Add Component: Footprint Not Found CAPC1206(3216)190_L
+Add Component: Footprint Not Found CAPC1206(3216)190_L
+Added Component: Designator=U3(RXA0024A-MFG)
+Add component (AddParameter): Name = "AEC Grade"; Value = "Grade 1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AEC Qualified"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Path"; Value = "datasheets/IC-LMQ644A2QRXARQ1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/84824370b23b6079/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Duty Cycle"; Value = "99%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "9-25uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Outputs"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40°C to +150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed,AdjustableProgrammable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "0.8-20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WQFN-FCRLF24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LMQ644A2QRXARQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LMQ644A2QRXARQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "UNKNOWN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SizeZ_mm"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "0.1-2.2MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Topology"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TaMax_C"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TaMin_C"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TJmax_C"; Value = "+150°C"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C63-1
+Add Pin To Net: Unknown Pin: Pin C63-2
+Add Pin To Net: Unknown Pin: Pin C64-1
+Add Pin To Net: Unknown Pin: Pin C64-2
+Add Pin To Net: Unknown Pin: Pin C65-1
+Add Pin To Net: Unknown Pin: Pin C65-2
+Add Pin To Net: Unknown Pin: Pin C66-1
+Add Pin To Net: Unknown Pin: Pin C66-2
+Add Pin To Net: Unknown Pin: Pin C67-1
+Add Pin To Net: Unknown Pin: Pin C67-2
+Add Pin To Net: Unknown Pin: Pin C72-1
+Add Pin To Net: Unknown Pin: Pin C72-2
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=U3-1
+Added Pin To Net: NetName=NetC70_1 Pin=U3-2
+Added Pin To Net: NetName=NetC70_2 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetC16_2 Pin=U3-5
+Added Pin To Net: NetName=NetC16_1 Pin=U3-6
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U3-10
+Added Pin To Net: NetName=VSERV_PGOOD Pin=U3-11
+Added Pin To Net: NetName=NetQ7_3 Pin=U3-12
+Added Pin To Net: NetName=V5P0_Servo Pin=U3-13
+Added Pin To Net: NetName=NetR27_2 Pin=U3-14
+Added Pin To Net: NetName=VSERV_VCC Pin=U3-15
+Added Pin To Net: NetName=GND Pin=U3-16
+Added Pin To Net: NetName=NetR38_2 Pin=U3-17
+Added Pin To Net: NetName=VSERV_SS Pin=U3-18
+Added Pin To Net: NetName=NetR32_1 Pin=U3-19
+Added Pin To Net: NetName=VCC_BATT_FILT Pin=U3-20
+Added Pin To Net: NetName=NetR42_2 Pin=U3-21
+Added Pin To Net: NetName=VSERV_P_SYNC Pin=U3-22
+Added Pin To Net: NetName=GND Pin=U3-23
+Added Pin To Net: NetName=GND Pin=U3-25
+Add Class Member: Failed to add class member : Component C63 10uF
+Add Class Member: Failed to add class member : Component C64 10uF
+Add Class Member: Failed to add class member : Component C65 10uF
+Add Class Member: Failed to add class member : Component C66 10uF
+Add Class Member: Failed to add class member : Component C67 47uF
+Add Class Member: Failed to add class member : Component C72 47uF
+Added Member To Class: ClassName=Designator Member=Component U3 LMQ644A2QRXARQ1

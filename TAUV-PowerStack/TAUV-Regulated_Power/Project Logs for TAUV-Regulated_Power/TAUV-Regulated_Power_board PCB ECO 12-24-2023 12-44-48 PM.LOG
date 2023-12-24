@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C18 Old Footprint=FP-1206-L_3_2_0_2-W_1_6_0-IPC_A New Footprint=FP-1206-L_3_2_0_2-W_1_6_0-MFG
+Change Component Footprint: Designator=C62 Old Footprint=FP-1206-L_3_2_0_2-W_1_6_0-IPC_A New Footprint=FP-1206-L_3_2_0_2-W_1_6_0-MFG
+Change Component Footprint: Designator=C16 Old Footprint=FP-CGA3E-0_3-0_1-IPC_A New Footprint=FP-CGA3E-0_3-0_1-IPC_C
+Change Component Footprint: Designator=C70 Old Footprint=FP-CGA3E-0_3-0_1-IPC_A New Footprint=FP-CGA3E-0_3-0_1-IPC_C
+Change Component Footprint: Designator=R38 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1608X55X25LL10T15

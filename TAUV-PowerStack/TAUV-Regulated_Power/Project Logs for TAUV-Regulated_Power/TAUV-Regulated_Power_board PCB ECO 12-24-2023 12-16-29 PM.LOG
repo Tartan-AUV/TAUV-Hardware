@@ -1,0 +1,24 @@
+Change Footprint: Footprint Not Found FP-GRM32-MFG
+Change Footprint: Footprint Not Found FP-GRM32-MFG
+Change Footprint: Footprint Not Found RXA0024A-MFG
+Add Component: Footprint Not Found FP-GRM32-MFG
+Add Component: Footprint Not Found FP-GRM32-MFG
+Add Component: Footprint Not Found CAPC1206(3216)190_L
+Add Component: Footprint Not Found CAPC1206(3216)190_L
+Add Pin To Net: Unknown Pin: Pin C65-1
+Add Pin To Net: Unknown Pin: Pin C65-2
+Add Pin To Net: Unknown Pin: Pin C66-1
+Add Pin To Net: Unknown Pin: Pin C66-2
+Add Pin To Net: Unknown Pin: Pin C67-1
+Add Pin To Net: Unknown Pin: Pin C67-2
+Add Pin To Net: Unknown Pin: Pin C72-1
+Add Pin To Net: Unknown Pin: Pin C72-2
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Pin To Net: Unknown Pin: Pin U3-25
+Add Class Member: Failed to add class member : Component C65 10uF
+Add Class Member: Failed to add class member : Component C66 10uF
+Add Class Member: Failed to add class member : Component C67 47uF
+Add Class Member: Failed to add class member : Component C72 47uF

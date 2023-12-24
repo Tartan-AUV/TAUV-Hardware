@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Designator_Nets Member=NetQ7_3
+Removed Member From Class: ClassName=Q7_Nets Member=NetQ7_3
+Removed Member From Class: ClassName=R5_Nets Member=NetQ7_3
+Removed Member From Class: ClassName=U3_Nets Member=NetQ7_3
+Change Net Name : Old Net Name=NetQ7_3 New Net Name=V5P0_Servo_EN
+Added Member To Class: ClassName=Designator_Nets Member=Wire V5P0_Servo_EN
+Added Member To Class: ClassName=Q7_Nets Member=Wire V5P0_Servo_EN
+Added Member To Class: ClassName=R5_Nets Member=Wire V5P0_Servo_EN
+Added Member To Class: ClassName=U3_Nets Member=Wire V5P0_Servo_EN
