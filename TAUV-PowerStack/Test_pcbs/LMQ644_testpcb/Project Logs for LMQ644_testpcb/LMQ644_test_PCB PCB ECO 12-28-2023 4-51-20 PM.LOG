@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=V5P0_SERVO Pin=R10-1
+Removed Pin From Net: NetName=V5P0_SERVO Pin=R19-1
+Added Pin To Net: NetName=V5P0 Pin=R10-1
+Added Pin To Net: NetName=V3P3 Pin=R19-1
+Change Net Name : Old Net Name=VREG_VCC New Net Name=VREG1_VCC
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(12, 52, 61)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(153, 0, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(118, 165, 175)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 153, 0)
