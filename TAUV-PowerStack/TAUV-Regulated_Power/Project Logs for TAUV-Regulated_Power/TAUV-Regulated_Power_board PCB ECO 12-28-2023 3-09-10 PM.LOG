@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=PWR_EN_L Pin=Q4-1
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=GND Pin=R44-1
+Removed Pin From Net: NetName=PWR_EN_L Pin=R44-2
+Removed Member From Class: ClassName=Designator Member=Q4
+Removed Member From Class: ClassName=Designator Member=R44
+Removed Member From Class: ClassName=R28_Nets Member=V12P0_EN_0
+Removed Member From Class: ClassName=U6_Nets Member=V12P0_EN_0
+Removed Member From Class: ClassName=Q5_Nets Member=V12P0_EN_1
+Removed Member From Class: ClassName=R33_Nets Member=V12P0_EN_1
+Removed Member From Class: ClassName=U8_Nets Member=V12P0_EN_1
+Added Pin To Net: NetName=V12P0_EN_1 Pin=R28-1
+Added Pin To Net: NetName=V12P0_EN_1 Pin=U6-A5
+Change Net Name : Old Net Name=V12P0_EN_1 New Net Name=V12P0_EN
+Added Member To Class: ClassName=Q5_Nets Member=Wire V12P0_EN
+Added Member To Class: ClassName=R28_Nets Member=Wire V12P0_EN
+Added Member To Class: ClassName=R33_Nets Member=Wire V12P0_EN
+Added Member To Class: ClassName=U6_Nets Member=Wire V12P0_EN
+Added Member To Class: ClassName=U8_Nets Member=Wire V12P0_EN

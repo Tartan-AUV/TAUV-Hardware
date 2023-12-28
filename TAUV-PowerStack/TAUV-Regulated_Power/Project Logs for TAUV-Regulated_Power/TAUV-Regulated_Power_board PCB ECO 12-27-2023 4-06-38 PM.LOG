@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=R52-2
+Added Pin To Net: NetName=GND Pin=R52-1
+Added Pin To Net: NetName=VSERV_FB1 Pin=R52-2
+Added Member To Class: ClassName=R52_Nets Member=Wire VSERV_FB1

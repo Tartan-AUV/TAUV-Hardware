@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=Designator_Nets Member=NetR27_2
+Removed Member From Class: ClassName=R27_Nets Member=NetR27_2
+Removed Member From Class: ClassName=U3_Nets Member=NetR27_2
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V5P0_Servo Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=VSERV_FB1 Pin=R27-2
+Added Pin To Net: NetName=VSERV_FB1 Pin=R?-1
+Added Pin To Net: NetName=VSERV_FB1 Pin=R?-2
+Added Pin To Net: NetName=VSERV_FB1 Pin=U3-14
+Added Net: Name=VSERV_FB1
+Added Class: Name=R?_Nets
+Added Member To Class: ClassName=Designator Member=Component R? DNP
+Added Member To Class: ClassName=Designator Member=Component R? DNP
+Added Member To Class: ClassName=Designator_Nets Member=Wire VSERV_FB1
+Added Member To Class: ClassName=R27_Nets Member=Wire VSERV_FB1
+Added Member To Class: ClassName=U3_Nets Member=Wire VSERV_FB1

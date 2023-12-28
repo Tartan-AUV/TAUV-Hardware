@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R50
+Change Component Designator: OldDesignator=R? NewDesignator=R51
+Added Class: Name=R50_Nets
+Added Class: Name=R51_Nets
+Added Member To Class: ClassName=Designator Member=Component R50 DNP

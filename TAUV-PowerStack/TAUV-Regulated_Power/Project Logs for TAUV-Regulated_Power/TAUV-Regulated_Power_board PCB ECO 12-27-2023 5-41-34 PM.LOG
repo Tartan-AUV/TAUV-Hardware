@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VSERV_FB1 Pin=R1-2
+Removed Pin From Net: NetName=VSERV_FB1 Pin=R4-2
+Removed Pin From Net: NetName=VSERV_FB1 Pin=R6-1
+Removed Pin From Net: NetName=VSERV_FB1 Pin=R40-2
+Removed Member From Class: ClassName=R1_Nets Member=VSERV_FB1
+Removed Member From Class: ClassName=R4_Nets Member=VSERV_FB1
+Removed Member From Class: ClassName=R6_Nets Member=VSERV_FB1
+Removed Member From Class: ClassName=R40_Nets Member=VSERV_FB1
+Removed Member From Class: ClassName=Designator_Nets Member=VSERV_FB2
+Removed Member From Class: ClassName=R56_Nets Member=VSERV_FB2
+Removed Member From Class: ClassName=R58_Nets Member=VSERV_FB2
+Removed Member From Class: ClassName=R59_Nets Member=VSERV_FB2
+Removed Member From Class: ClassName=R60_Nets Member=VSERV_FB2
+Added Pin To Net: NetName=VREG_FB1 Pin=R1-2
+Added Pin To Net: NetName=VREG_FB1 Pin=R4-2
+Added Pin To Net: NetName=VREG_FB1 Pin=R6-1
+Added Pin To Net: NetName=VREG_FB1 Pin=R40-2
+Added Pin To Net: NetName=VSERV_FB2 Pin=U2-18
+Change Net Name : Old Net Name=VSERV_FB2 New Net Name=VREG_FB2
+Added Member To Class: ClassName=R1_Nets Member=Wire VREG_FB1
+Added Member To Class: ClassName=R4_Nets Member=Wire VREG_FB1
+Added Member To Class: ClassName=R6_Nets Member=Wire VREG_FB1
+Added Member To Class: ClassName=R40_Nets Member=Wire VREG_FB1
+Added Member To Class: ClassName=R56_Nets Member=Wire VREG_FB2
+Added Member To Class: ClassName=R58_Nets Member=Wire VREG_FB2
+Added Member To Class: ClassName=R59_Nets Member=Wire VREG_FB2
+Added Member To Class: ClassName=R60_Nets Member=Wire VREG_FB2
