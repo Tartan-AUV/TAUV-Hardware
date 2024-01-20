@@ -1,10 +1,30 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:35:48 PM On 1/18/2024
+
+Output: Gerber X2 Files
+Type  : GerberX2
 From  : PCB Document [TAUV-Regulated_Power_board.PcbDoc]
-   Generated File[Pick Place for TAUV-Regulated_Power_board.txt]
+   Generated File[TAUV-Regulated_Power_board_Copper_Signal_Top.gbr]
+   Generated File[TAUV-Regulated_Power_board_Copper_Plane_1.gbr]
+   Generated File[TAUV-Regulated_Power_board_Copper_Signal_1.gbr]
+   Generated File[TAUV-Regulated_Power_board_Copper_Signal_2.gbr]
+   Generated File[TAUV-Regulated_Power_board_Copper_Plane_2.gbr]
+   Generated File[TAUV-Regulated_Power_board_Copper_Signal_Bot.gbr]
+   Generated File[TAUV-Regulated_Power_board_Legend_Top.gbr]
+   Generated File[TAUV-Regulated_Power_board_Legend_Bot.gbr]
+   Generated File[TAUV-Regulated_Power_board_Soldermask_Top.gbr]
+   Generated File[TAUV-Regulated_Power_board_Soldermask_Bot.gbr]
+   Generated File[TAUV-Regulated_Power_board_Paste_Top.gbr]
+   Generated File[TAUV-Regulated_Power_board_Paste_Bot.gbr]
+   Generated File[TAUV-Regulated_Power_board_Profile.gbr]
+   Generated File[TAUV-Regulated_Power_board_NPTH_Drill.gbr]
+   Generated File[TAUV-Regulated_Power_board_PTH_Drill.gbr]
+   Generated File[TAUV-Regulated_Power_board.EXTREP]
+   Generated File[TAUV-Regulated_Power_board.REP]
 
 
-Files Generated   : 1
+Files Generated   : 17
 Documents Printed : 0
 
-Finished Output Generation At 12:35:10 PM On 7/3/2023
+Finished Output Generation At 9:35:52 PM On 1/18/2024
