@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=V_SENSE Pin=P1-13
+Removed Pin From Net: NetName=V_SENSE_CS_N Pin=P1-14
+Added Pin To Net: NetName=V_SENSE_CS_N Pin=P1-13
+Added Pin To Net: NetName=V_SENSE Pin=P1-14

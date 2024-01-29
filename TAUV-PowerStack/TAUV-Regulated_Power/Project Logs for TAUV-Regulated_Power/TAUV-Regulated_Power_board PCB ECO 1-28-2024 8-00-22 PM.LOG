@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=PWR_EN_L Pin=Q6-1
+Removed Pin From Net: NetName=GND Pin=Q6-2
+Removed Pin From Net: NetName=PWR_EN_L Pin=Q8-1
+Removed Pin From Net: NetName=GND Pin=Q8-2
+Removed Pin From Net: NetName=GND Pin=R46-1
+Removed Pin From Net: NetName=PWR_EN_L Pin=R46-2
+Removed Pin From Net: NetName=GND Pin=R48-1
+Removed Pin From Net: NetName=PWR_EN_L Pin=R48-2
+Removed Member From Class: ClassName=Designator Member=Q6
+Removed Member From Class: ClassName=Designator Member=Q8
+Removed Member From Class: ClassName=Designator Member=R46
+Removed Member From Class: ClassName=Designator Member=R48
+Removed Member From Class: ClassName=Designator_Nets Member=V3P3_EN
+Removed Member From Class: ClassName=R41_Nets Member=V3P3_EN
+Removed Member From Class: ClassName=U2_Nets Member=V3P3_EN
+Removed Member From Class: ClassName=Designator_Nets Member=V5P0_EN
+Removed Member From Class: ClassName=R54_Nets Member=V5P0_EN
+Removed Member From Class: ClassName=U2_Nets Member=V5P0_EN
+Removed Member From Class: ClassName=Q5_Nets Member=V12P0_EN
+Removed Member From Class: ClassName=R28_Nets Member=V12P0_EN
+Removed Member From Class: ClassName=R33_Nets Member=V12P0_EN
+Removed Member From Class: ClassName=U6_Nets Member=V12P0_EN
+Removed Member From Class: ClassName=U8_Nets Member=V12P0_EN
+Change Component Comment : Designator=R54 Old Comment=10K New Comment=DNP
+Change Component Kind : Designator=R54 Old Kind=Standard New Kind=Standard (No BOM)
+Added Pin To Net: NetName=V12P0_EN Pin=R41-1
+Added Pin To Net: NetName=V12P0_EN Pin=R54-1
+Added Pin To Net: NetName=V12P0_EN Pin=U2-12
+Added Pin To Net: NetName=V12P0_EN Pin=U2-20
+Change Net Name : Old Net Name=V12P0_EN New Net Name=V_EN
+Added Member To Class: ClassName=Designator_Nets Member=Wire V_EN
+Added Member To Class: ClassName=Q5_Nets Member=Wire V_EN
+Added Member To Class: ClassName=R28_Nets Member=Wire V_EN
+Added Member To Class: ClassName=R33_Nets Member=Wire V_EN
+Added Member To Class: ClassName=R41_Nets Member=Wire V_EN
+Added Member To Class: ClassName=R54_Nets Member=Wire V_EN
+Added Member To Class: ClassName=U2_Nets Member=Wire V_EN
+Added Member To Class: ClassName=U6_Nets Member=Wire V_EN
+Added Member To Class: ClassName=U8_Nets Member=Wire V_EN

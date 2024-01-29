@@ -1,0 +1,133 @@
+Added Component: Designator=C1(0603)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B104KB8NNWC/3887593"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CAP CER 0.1UF 50V X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Url"; Value = "http://www.yageo.com/exep/pages/download/literatures/UPY-C_GEN_24.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Multilayer Ceramic Capacitor, CC Series, 0.1 - F, - 10%, X7R, 50 V, 0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/cc0603krx7r9bb104-yageo-42244635"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CC0603-DA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "15%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=P1(MOLEX NANO-FIT 2X7 - Right Angle)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/ProductDetail/Molex/105314-1214?qs=PqFvFmEiOr6wLIXpvlvqbA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/molex/1053141114/7693193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "105314-1214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "538-105314-1214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105314-1214"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0603FR-074K7L/727212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4700.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=U1(MF06A_L)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT26A-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-178-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ADC121S021 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/AD/ADC121S021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "ADC121S021 Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/AD/ADC121S021.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "MF06A Package Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/mf06a.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "ADC IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jan-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Molded SOT-23, .115 x .063 x .040in Body, 6 Lead, .0375in in Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MF06A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "X07C*XTT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revC, Sep-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = "Component URLs added"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Added Component: Designator=U2(ALEG-EX-12_V)
+Add component (AddParameter): Name = "-3dB Bandwidth"; Value = "0.1 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.allegromicro.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.allegromicro.com/~/media/Files/Datasheets/ACS711-Datasheet.ashx?la=en"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.allegromicro.com/~/media/Files/Datasheets/ACS711-Datasheet.ashx?la=en"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IP Max"; Value = "15.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IP Min"; Value = "-15.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "12-Pin Quad Flat No-Lead, Body 3 x 3 mm, Height 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ACS711KEXLT-15AB-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max"; Value = "5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min"; Value = "3 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_CLK Pin=P1-7
+Added Pin To Net: NetName=ADC_CLK Pin=U1-4
+Added Net: Name=ADC_CLK
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P1-9
+Added Pin To Net: NetName=GND Pin=P1-10
+Added Pin To Net: NetName=GND Pin=P1-11
+Added Pin To Net: NetName=GND Pin=P1-12
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U2-6
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=V5P0 Pin=C1-1
+Added Pin To Net: NetName=V5P0 Pin=P1-1
+Added Pin To Net: NetName=V5P0 Pin=R1-1
+Added Pin To Net: NetName=V5P0 Pin=U1-1
+Added Pin To Net: NetName=V5P0 Pin=U2-12
+Added Net: Name=V5P0
+Added Pin To Net: NetName=V_DATA Pin=P1-6
+Added Pin To Net: NetName=V_DATA Pin=U1-5
+Added Net: Name=V_DATA
+Added Pin To Net: NetName=V_SENSE_CS_N Pin=P1-14
+Added Pin To Net: NetName=V_SENSE_CS_N Pin=U1-6
+Added Net: Name=V_SENSE_CS_N
+Added Pin To Net: NetName=V_SENSE Pin=P1-13
+Added Pin To Net: NetName=V_SENSE Pin=U1-3
+Added Pin To Net: NetName=V_SENSE Pin=U2-11
+Added Net: Name=V_SENSE
+Added Pin To Net: NetName=VIN Pin=P1-2
+Added Pin To Net: NetName=VIN Pin=P1-3
+Added Pin To Net: NetName=VIN Pin=U2-1
+Added Pin To Net: NetName=VIN Pin=U2-2
+Added Net: Name=VIN
+Added Pin To Net: NetName=VOUT Pin=P1-4
+Added Pin To Net: NetName=VOUT Pin=P1-5
+Added Pin To Net: NetName=VOUT Pin=U2-3
+Added Pin To Net: NetName=VOUT Pin=U2-4
+Added Net: Name=VOUT
+Added Class: Name=CurrentSenseTest_SCH
