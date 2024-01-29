@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=THRST_EN Pin=Rpd-1
+Removed Pin From Net: NetName=GND Pin=Rpd-2
+Removed Member From Class: ClassName=U_Interfaces Member=Rpd
+Added Component: Designator=R5(0603)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0603FR-074K7L/727212"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4700.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=THRST_EN Pin=R5-2
+Added Member To Class: ClassName=U_Interfaces Member=Component R5 4K7

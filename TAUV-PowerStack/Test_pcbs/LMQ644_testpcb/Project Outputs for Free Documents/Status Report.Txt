@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [LMQ644_testpcb.PrjPcb]
+   Generated File[Bill of Materials-LMQ644_testpcb.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:23:24 PM On 1/26/2024
