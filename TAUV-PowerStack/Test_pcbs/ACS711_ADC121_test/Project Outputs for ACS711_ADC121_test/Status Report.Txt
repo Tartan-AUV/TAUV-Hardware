@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ACS711_ADC121_test.PrjPcb]
+   Generated File[Bill of Materials-ACS711_ADC121_test.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:55:33 PM On 2/9/2024

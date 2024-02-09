@@ -1,0 +1,8 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"0.1uF","CC0603KRX7R9BB104-CAP CER 0.1UF 50V X7R 0603","C1, C2, C3","0603","0.1uF 0603","3"
+"14-Pin 2-Row Nano-Fit Right Angle","NanoFit Right Hdr TH DR 14Ckt","P1","MOLEX NANO-FIT 2X7 - Right Angle","14-Pin 2-Row Nano-Fit Right Angle","1"
+"4K7","4K7 0.1W 1% 0603 (1608 Metric)  SMD","R1","0603","4K7 0603","1"
+"Test Point Pad","Test point, Pad, 30 mil","TP1, TP2, TP3","Test Point Pad","Test Point Pad","3"
+"ADC121S021CIMF/NOPB","Single Channel, 50 to 200 kSPS, 12-Bit A/D Converter, 6-pin SOT-23, Pb-Free","U1","MF06A_L","CMP-0054-00265-2","1"
+"ACS711KEXLT-15AB-T","Hall Effect Linear Current Sensor with Overcurrent Fault Output for <100 V Isolation Applications, 3 to 5.5 V, -15.5 to 15.5 A IP, -40 to 125 degC, 12-Pin QFN (EX), RoHS, Tape and Reel","U2","ALEG-EX-12_V","CMP-1557-00001-1","1"
