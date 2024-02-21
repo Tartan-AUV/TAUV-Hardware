@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=V12P0_CURRENT_SENSE Pin=U5-4
+Added Member To Class: ClassName=U5_Nets Member=Wire V12P0_CURRENT_SENSE

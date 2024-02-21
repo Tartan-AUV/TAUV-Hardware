@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=V12P0 Pin=R30-2
+Removed Pin From Net: NetName=V12P0 Pin=R34-2
+Removed Member From Class: ClassName=R30_Nets Member=V12P0
+Removed Member From Class: ClassName=R34_Nets Member=V12P0
+Added Pin To Net: NetName=V12P0_OUT Pin=R30-2
+Added Pin To Net: NetName=V12P0_OUT Pin=R34-2
+Added Member To Class: ClassName=R30_Nets Member=Wire V12P0_OUT
+Added Member To Class: ClassName=R34_Nets Member=Wire V12P0_OUT

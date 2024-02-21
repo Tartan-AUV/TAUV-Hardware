@@ -1,0 +1,6 @@
+Added Component: Designator=TP27(Test Point Pad)
+Added Component: Designator=TP32(Test Point Pad)
+Added Pin To Net: NetName=NetR34_1 Pin=TP27-1
+Added Pin To Net: NetName=GND Pin=TP32-1
+Added Member To Class: ClassName=Sht3-V12P0_reg Member=Component TP27
+Added Member To Class: ClassName=Designator Member=Component TP32
