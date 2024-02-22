@@ -3,11 +3,8 @@
 Repository for TAUV Altium documents
 
 # Boards:
-## TAUV-Powerboard_22-23
+## TAUV-PWR_STK
 Next generation power management stack consisting of 2 boards. Manufacturing graciously sponsored by PCBway.com
-
-## TAUV-Powerboard
-Power management board
 
 ## TAUV-Disconnect
 Disconnect board for easy flange access
