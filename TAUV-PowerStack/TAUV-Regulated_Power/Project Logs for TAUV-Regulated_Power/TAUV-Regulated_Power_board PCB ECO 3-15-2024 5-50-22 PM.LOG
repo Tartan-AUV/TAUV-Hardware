@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Class Name : Old Net Name=Q?_Nets New Net Name=Q4_Nets
+Change Class Name : Old Net Name=R?_Nets New Net Name=R40_Nets

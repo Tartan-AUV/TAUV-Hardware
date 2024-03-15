@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Ard_D6 Pin=TB1-9
+Removed Member From Class: ClassName=TB1_Nets Member=Ard_D6
+Added Pin To Net: NetName=V12P0_EN Pin=TB1-9
+Added Member To Class: ClassName=TB1_Nets Member=Wire V12P0_EN

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=V12P0_EN Pin=R44-1
+Removed Member From Class: ClassName=R44_Nets Member=V12P0_EN
+Added Pin To Net: NetName=12V_EN_L Pin=R44-1
+Added Member To Class: ClassName=R44_Nets Member=Wire 12V_EN_L

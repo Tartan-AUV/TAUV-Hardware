@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=V_EN Pin=R28-1
+Removed Pin From Net: NetName=V_EN Pin=R33-1
+Removed Pin From Net: NetName=V_EN Pin=U6-A5
+Removed Pin From Net: NetName=V_EN Pin=U8-A5
+Removed Member From Class: ClassName=R28_Nets Member=V_EN
+Removed Member From Class: ClassName=R33_Nets Member=V_EN
+Removed Member From Class: ClassName=U6_Nets Member=V_EN
+Removed Member From Class: ClassName=U8_Nets Member=V_EN
+Added Component: Designator=Q?(2V7002KT1G)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "www.mouser.com/ds/2/308/2N7002K-D-40616.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2V7002KT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2V7002KT1GOSCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11809/0900766b80d98afc-11809037.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCP0603FTD10K0/2240139"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "06/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.55 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.575 x 0.85 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=12V_EN_L Pin=Q?-1
+Added Pin To Net: NetName=12V_EN_L Pin=R?-2
+Added Net: Name=12V_EN_L
+Added Pin To Net: NetName=V12P0_EN Pin=Q?-3
+Added Pin To Net: NetName=V12P0_EN Pin=R28-1
+Added Pin To Net: NetName=V12P0_EN Pin=R33-1
+Added Pin To Net: NetName=V12P0_EN Pin=U6-A5
+Added Pin To Net: NetName=V12P0_EN Pin=U8-A5
+Added Net: Name=V12P0_EN
+Added Class: Name=Q?_Nets
+Added Class: Name=R?_Nets
+Added Member To Class: ClassName=Designator Member=Component Q? 2V7002KT1G
+Added Member To Class: ClassName=Designator Member=Component R? 10K
+Added Member To Class: ClassName=Designator Member=Component TP14
+Added Member To Class: ClassName=R28_Nets Member=Wire V12P0_EN
+Added Member To Class: ClassName=R33_Nets Member=Wire V12P0_EN
+Added Member To Class: ClassName=U6_Nets Member=Wire V12P0_EN
+Added Member To Class: ClassName=U8_Nets Member=Wire V12P0_EN
