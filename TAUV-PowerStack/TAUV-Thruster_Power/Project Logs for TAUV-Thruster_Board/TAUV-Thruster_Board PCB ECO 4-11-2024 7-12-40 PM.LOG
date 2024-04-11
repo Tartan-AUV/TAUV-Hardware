@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=JB2-2
+Removed Pin From Net: NetName=PACK- Pin=Rs1-1
+Removed Pin From Net: NetName=GND Pin=Rs1-2
+Removed Pin From Net: NetName=PACK- Pin=Rs2-1
+Removed Pin From Net: NetName=GND Pin=Rs2-2
+Removed Member From Class: ClassName=U_Interfaces Member=Rs1
+Removed Member From Class: ClassName=U_Interfaces Member=Rs2
+Added Component: Designator=Cbyp(0603)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B104KC8NNNC/5961291"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "100 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Â±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=U4(FP-LR-7-MFG)
+Add component (AddParameter): Name = "Current Sensing"; Value = "150A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "250kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Linearity"; Value = "0.8%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Current"; Value = "14mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "1.8us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensitivity"; Value = "8.8mV/A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cbyp-1
+Added Pin To Net: NetName=VCC_3V3 Pin=Cbyp-2
+Added Pin To Net: NetName=VCC_3V3 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=PACK- Pin=U4-6
+Added Pin To Net: NetName=NetJB2_2 Pin=JB2-2
+Added Pin To Net: NetName=NetJB2_2 Pin=U4-3
+Added Net: Name=NetJB2_2
+Added Member To Class: ClassName=U_Power Member=Component Cbyp 100nF
+Added Member To Class: ClassName=U_Power Member=Component U4 ACS72981KLRATR-150U3
+Change Room Name: Old Name=Increased clearance New Name=U_Power
+Change Room Scope: Old Scope=InComponentClass('Components Class1') New Scope=InComponentClass('U_Power')
+Added Room: Name=U_Interfaces
