@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=Cbyp-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=Cbyp-2
+Change Component Comment : Designator=Cbyp Old Comment=100nF New Comment=Capacitor
+Change component parameters: Designator = "Cbyp" ("Cbyp"); Footprint = "0603"; UniqueID = "\ODIBTRLA\LPIZXVVA" ("\ODIBTRLA\LPIZXVVA")
+Change component parameters (AddParameter): Name = "CPAR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RLSHUNT"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RPAR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RSER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=Cbyp-1
+Added Pin To Net: NetName=GND Pin=Cbyp-2

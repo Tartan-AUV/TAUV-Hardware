@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VBAT Pin=JB1-1
+Removed Pin From Net: NetName=VBAT Pin=JB1-2
+Removed Pin From Net: NetName=VBAT Pin=JB1-3
+Removed Pin From Net: NetName=VBAT Pin=JB1-4
+Removed Pin From Net: NetName=GND Pin=U4-5
+Removed Pin From Net: NetName=PACK- Pin=U4-6
+Added Pin To Net: NetName=VBAT Pin=U4-6
+Added Pin To Net: NetName=VBAT_IN Pin=JB1-1
+Added Pin To Net: NetName=VBAT_IN Pin=JB1-2
+Added Pin To Net: NetName=VBAT_IN Pin=JB1-3
+Added Pin To Net: NetName=VBAT_IN Pin=JB1-4
+Added Pin To Net: NetName=VBAT_IN Pin=U4-5
+Added Net: Name=VBAT_IN
