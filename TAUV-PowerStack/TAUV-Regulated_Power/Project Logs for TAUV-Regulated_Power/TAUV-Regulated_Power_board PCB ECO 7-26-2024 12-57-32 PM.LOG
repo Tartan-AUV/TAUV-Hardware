@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=J3-13
+Add Component: Footprint Not Found FP-C1608-080-0_1-IPC_A
+Add Component: Footprint Not Found FP-C1608-080-0_1-IPC_A
+Add Pin To Net: Unknown Pin: Pin C88-1
+Add Pin To Net: Unknown Pin: Pin C88-2
+Add Pin To Net: Unknown Pin: Pin C89-1
+Add Pin To Net: Unknown Pin: Pin C89-2
+Added Pin To Net: NetName=Ard_AREF Pin=J3-13
+Add Class Member: Failed to add class member : Component C88 330nF
+Add Class Member: Failed to add class member : Component C89 330nF
+Added Member To Class: ClassName=J3_Nets Member=Wire Ard_AREF
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_10
+Added Rule: Name=Schematic Supply Nets_11
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13
+Added Rule: Name=Schematic Supply Nets_14

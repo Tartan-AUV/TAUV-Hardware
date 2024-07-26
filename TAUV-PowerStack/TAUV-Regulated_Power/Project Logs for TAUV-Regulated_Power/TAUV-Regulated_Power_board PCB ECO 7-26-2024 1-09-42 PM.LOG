@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=U9_Nets Member=RX
+Removed Member From Class: ClassName=U9_Nets Member=TX
+Added Pin To Net: NetName=Ard_D0/RX Pin=U9-1
+Added Pin To Net: NetName=Ard_D1/TX Pin=U9-5
+Added Member To Class: ClassName=Designator Member=Component U1 ATmega328P-AU
+Added Member To Class: ClassName=U9_Nets Member=Wire Ard_D0/RX
+Added Member To Class: ClassName=U9_Nets Member=Wire Ard_D1/TX

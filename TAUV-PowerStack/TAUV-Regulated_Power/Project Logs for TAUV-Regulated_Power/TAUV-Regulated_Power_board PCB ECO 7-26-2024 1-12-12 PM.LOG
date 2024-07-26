@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=RESET_N Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=SW2-3
+Change Component Footprint: Designator=SW2 Old Footprint=FP-PTS526SK15SMTR2LFS-MFG New Footprint=FP-EVQ-P2402M-MFG
+Change Component Comment : Designator=SW2 Old Comment=PTS526SK15SMTR2LFS New Comment=EVQ-P2402M
+Change Managed Component Library Link : Designator=SW2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=77989108-4337-4BFD-83E4-7720FD54C33C New ItemGUID=EF062462-E4D3-41F0-9A45-5BF70B79FAEB Old RevisionGUID=E049E7E0-213D-4AFA-BA8B-BFA4EE57A092 New RevisionGUID=D4BBAA39-9406-4E15-BBCA-6EEEF30D7287
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "FP-PTS526SK15SMTR2LFS-MFG"; UniqueID = "\HCTMQPSF\RHDYBFNE" ("\HCTMQPSF\RHDYBFNE")
+Change component parameters (AddParameter): Name = "Actuator Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Length"; Value = "0.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Clear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Current Rating"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "100mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life"; Value = "500000Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "15V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life"; Value = "500000Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "2.4N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "EVQP2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "J-Bend"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "15V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "3.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET_N Pin=SW2-3
