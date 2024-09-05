@@ -1,0 +1,26 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:17:25 PM On 9/4/2024
+
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [TPS552882_PCB.PcbDoc]
+   Generated File[TPS552882_PCB_Copper_Signal_Top.gbr]
+   Generated File[TPS552882_PCB_Copper_Signal_Bot.gbr]
+   Generated File[TPS552882_PCB_Legend_Top.gbr]
+   Generated File[TPS552882_PCB_Legend_Bot.gbr]
+   Generated File[TPS552882_PCB_Soldermask_Top.gbr]
+   Generated File[TPS552882_PCB_Soldermask_Bot.gbr]
+   Generated File[TPS552882_PCB_Paste_Top.gbr]
+   Generated File[TPS552882_PCB_Paste_Bot.gbr]
+   Generated File[TPS552882_PCB_Profile.gbr]
+   Generated File[TPS552882_PCB_NPTH_Drill.gbr]
+   Generated File[TPS552882_PCB_PTH_Drill.gbr]
+   Generated File[TPS552882_PCB.EXTREP]
+   Generated File[TPS552882_PCB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 11:17:29 PM On 9/4/2024

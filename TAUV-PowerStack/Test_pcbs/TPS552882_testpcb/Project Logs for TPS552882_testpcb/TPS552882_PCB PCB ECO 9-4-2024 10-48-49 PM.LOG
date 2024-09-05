@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VIN Pin=P1-1
+Removed Pin From Net: NetName=VIN Pin=P1-2
+Removed Pin From Net: NetName=VIN Pin=P1-3
+Removed Pin From Net: NetName=V12P0 Pin=P1-4
+Removed Pin From Net: NetName=V12P0 Pin=P1-5
+Removed Pin From Net: NetName=V12P0 Pin=P1-6
+Added Pin To Net: NetName=V12P0 Pin=P1-1
+Added Pin To Net: NetName=V12P0 Pin=P1-2
+Added Pin To Net: NetName=V12P0 Pin=P1-3
+Added Pin To Net: NetName=VIN Pin=P1-4
+Added Pin To Net: NetName=VIN Pin=P1-5
+Added Pin To Net: NetName=VIN Pin=P1-6
