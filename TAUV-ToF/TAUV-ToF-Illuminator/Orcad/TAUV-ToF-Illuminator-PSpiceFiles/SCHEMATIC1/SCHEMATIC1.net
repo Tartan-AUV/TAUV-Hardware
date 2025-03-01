@@ -1,0 +1,21 @@
+* source TAUV-TOF-ILLUMINATOR
+X_U1         VIN VCC N00308 N00733 N00443 N00195 N00668 0 N00191 N00308 0
++  TPS92515
+C_C1         N00195 N00191  100n  TC=0,0 
+X_D1         VCC N00191 awb1n1183 PARAMS:                
+C_C2         0 VCC  1u  TC=0,0 
+R_R1         N00308 VIN  0.3 TC=0,0 
+C_C3         0 VIN  10u  TC=0,0 
+R_R2         N00733 VCC  100k TC=0,0 
+R_R3         0 N00733  38.3k TC=0,0 
+R_R4         N00668 VIN  0 TC=0,0 
+R_R5         0 N00668  1Meg TC=0,0 
+C_C5         0 N00733  100n  TC=0,0 
+C_C6         0 N00443  470p  TC=0,0 
+C_C7         0 N01230  2.2u  TC=0,0 
+X_D6         0 N00195 awb1n5822 PARAMS:                
+R_R6         N00443 N01230  48.7k TC=0,0 
+L_L2         N00195 N01230  47u  TC=0,0 
+V_V1         VIN 0 12V
+D_D7         N01230 N03002 XPEB-GRN 
+D_D8         N03002 0 XPEB-GRN 

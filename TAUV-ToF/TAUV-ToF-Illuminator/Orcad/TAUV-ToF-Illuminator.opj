@@ -1,0 +1,31 @@
+(ExpressProject "TAUV-ToF-Illuminator"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 S002 (4270188)  [1/23/2025]-[03/01/25]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (Allegro Netlist Directory "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\tauv-tof-illuminator.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Stimulus Files")
+    (Folder "Include Files")
+    (Folder "Model Libraries"
+      (File ".\cree\cree.lib"
+        (DisplayName ".\cree\cree.lib")
+        (Type "PSpiceLibrary"))
+      (File ".\tps92515\tps92515.lib"
+        (DisplayName ".\tps92515\tps92515.lib")
+        (Type "PSpiceLibrary"))
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (Folder "Logs")
+  (MPSSessionName "theo"))
