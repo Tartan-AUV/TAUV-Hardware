@@ -1,0 +1,52 @@
+(ExpressProject "TPS92515"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\tps92515-q1dgq_trans.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\tps92515.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE"))
+  (Folder "Outputs"
+    (File ".\tps92515-pspicefiles\tps92515_trans\tps92515_trans.net"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile ".\tps92515-pspicefiles\tps92515_trans\tr.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\tps92515-pspicefiles\tps92515_trans\tr.sim"
+        (DisplayName "TPS92515_Trans-TR")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User)
+      (File ".\tps92515.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName ".\tps92515.lib")))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (TPS92515-Q1DGQ_TRANS
+      (FullPartName "TPS92515-Q1DGQ_TRANS.Normal")
+      (LibraryName
+         "C:\USERS\A0199733\DOCUMENTS\MAKEDS\TPS92515\RELEASE_TI\PSPICE\TPS92515_PSPICE_TRANS\TPS92515-Q1DGQ_TRANS.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 513"))
+      (Tab 0)))
+  (MPSSessionName "a0199733"))

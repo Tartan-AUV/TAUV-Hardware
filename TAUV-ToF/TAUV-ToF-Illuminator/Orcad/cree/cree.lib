@@ -1,0 +1,9 @@
+* Cree XLAMP XP-E2 Green LED
+* Model valid for 100mA to 1000mA
+.MODEL XPEB-GRN D
++ IS=6.5777e-006
++ N=11.006
++ RS=0.29235
++ XTI=61.09844
++ IKF=0
++ EG=2.5000

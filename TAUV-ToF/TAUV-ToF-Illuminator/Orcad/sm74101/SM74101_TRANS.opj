@@ -1,0 +1,59 @@
+(ExpressProject "SM74101_TRANS"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\sm74101_trans.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\sm74101_trans.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (RootChangedForceReNetlist "x"))
+  (Folder "Outputs")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\sm74101_trans-pspicefiles\sm7401-inv_cl\trans.sim"
+        (DisplayName "SM7401-INV_CL-TRANS")
+        (Type "PSpice Profile"))
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\sm74101_trans-pspicefiles\sm7401-inv_dly\trans.sim"
+        (DisplayName "SM7401-INV_DLY-TRANS")
+        (Type "PSpice Profile"))
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\sm74101_trans-pspicefiles\sm7401-non_inv_cl\trans.sim"
+        (DisplayName "SM7401-NON_INV_CL-TRANS")
+        (Type "PSpice Profile"))
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\sm74101_trans-pspicefiles\sm7401-non_inv_dly\trans.sim"
+        (DisplayName "SM7401-NON_INV_DLY-TRANS")
+        (Type "PSpice Profile"))
+      (ActiveProfile ".\sm74101_trans-pspicefiles\sm7401-inv_cl\trans.sim"))
+    (Folder "Model Libraries"
+      (Sort User)
+      (File ".\sm74101_trans.lib"
+        (Type "Schematic Library")))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (SM74101
+      (FullPartName "SM74101.Normal")
+      (LibraryName
+         "D:\X0168881\PSPICE\SM74101\RELEASE_WIPRO\PSPICE\SM74101_PSPICE_TRANS\SM74101_TRANS.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 0 200 0 294"))
+      (Tab 0)))
+  (MPSSessionName "x0152846"))
